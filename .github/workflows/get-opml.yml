@@ -1,0 +1,29 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Get opml dayily
+
+on:
+  schedule:
+    - cron: '4 4 * * *'
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run a one-line script
+        run: wget https://box.othing.xyz/realtime.opml.xml -O ./dayily.opml.xml
+      - name: Commit files
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Daily_update"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
