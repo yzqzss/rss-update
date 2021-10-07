@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Wed, 06 Oct 2021 12:28:01</dateCreated>
+    <dateCreated>Thu, 07 Oct 2021 12:28:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -24,7 +24,7 @@
       <outline text="Allen Hua 的网络博客" type="rss" xmlUrl="https://hellodk.cn/feed/" htmlUrl="https://hellodk.cn/" description="Allen Hua 的网络笔记"/>
       <outline text="anran758's blog" type="rss" xmlUrl="https://anran758.github.io/blog/atom.xml" htmlUrl="https://anran758.github.io/blog/" description=""/>
       <outline text="Armin's Blog" type="rss" xmlUrl="https://arminli.com/rss.xml" htmlUrl="https://arminli.com" description="Armin's Blog."/>
-      <outline text="asa挥舞思绪" type="rss" xmlUrl="https://asazero.blogspot.com/feeds/posts/default" htmlUrl="https://asazero.blogspot.com/" description=""/>
+      <outline text="asa挥舞思绪" type="rss" xmlUrl="https://www.blogger.com/feeds/1419638474417989429/posts/default" htmlUrl="https://asazero.blogspot.com/" description=""/>
       <outline text="azhuge233's" type="rss" xmlUrl="https://azhuge233.com/feed/" htmlUrl="https://azhuge233.com/" description="Hi"/>
       <outline text="A级博客" type="rss" xmlUrl="https://blog.alevel.tech/atom.xml" htmlUrl="https://blog.alevel.tech/" description="A级博、Alevel blog"/>
       <outline text="bang's blog" type="rss" xmlUrl="http://blog.cnbang.net/feed/" htmlUrl="http://blog.cnbang.net/" description="我的世界"/>
