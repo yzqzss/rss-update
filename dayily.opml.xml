@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Mon, 11 Oct 2021 12:28:01</dateCreated>
+    <dateCreated>Tue, 12 Oct 2021 12:28:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -24,7 +24,7 @@
       <outline text="Allen Hua 的网络博客" type="rss" xmlUrl="https://hellodk.cn/feed/" htmlUrl="https://hellodk.cn/" description="Allen Hua 的网络笔记"/>
       <outline text="anran758's blog" type="rss" xmlUrl="https://anran758.github.io/blog/atom.xml" htmlUrl="https://anran758.github.io/blog/" description=""/>
       <outline text="Armin's Blog" type="rss" xmlUrl="https://arminli.com/rss.xml" htmlUrl="https://arminli.com" description="Armin's Blog."/>
-      <outline text="asa挥舞思绪" type="rss" xmlUrl="https://www.blogger.com/feeds/1419638474417989429/posts/default" htmlUrl="https://asazero.blogspot.com/" description=""/>
+      <outline text="asa挥舞思绪" type="rss" xmlUrl="https://asazero.blogspot.com/feeds/posts/default" htmlUrl="https://asazero.blogspot.com/" description=""/>
       <outline text="azhuge233's" type="rss" xmlUrl="https://azhuge233.com/feed/" htmlUrl="https://azhuge233.com/" description="Hi"/>
       <outline text="A级博客" type="rss" xmlUrl="https://blog.alevel.tech/atom.xml" htmlUrl="https://blog.alevel.tech/" description="A级博、Alevel blog"/>
       <outline text="bang's blog" type="rss" xmlUrl="http://blog.cnbang.net/feed/" htmlUrl="http://blog.cnbang.net/" description="我的世界"/>
@@ -169,7 +169,7 @@
       <outline text="JustZht" type="rss" xmlUrl="https://www.justzht.com/rss/" htmlUrl="https://www.justzht.com/" description="Haotian Zheng (Justin Fincher)'s blog. CMU mobile engineering student by day, indie apps/games developer by night. 郑昊天的碎碎念博客，日常记事 / 独立软件。"/>
       <outline text="Juuun's World" type="rss" xmlUrl="https://juuun.io/rss.xml" htmlUrl="https://juuun.io" description="Jun 的世界。"/>
       <outline text="KAIX.IN" type="rss" xmlUrl="https://kaix.in/feed/" htmlUrl="https://kaix.in" description="杂文、随笔、感悟、记录"/>
-      <outline text="Kefan's Blog" type="rss" xmlUrl="http://kefan.me/rss.xml" htmlUrl="http://kefan.me/" description="我的精神家园"/>
+      <outline text="Kefan's Blog" type="rss" xmlUrl="https://www.kefan.me/rss.xml" htmlUrl="http://kefan.me/" description="我的精神家园"/>
       <outline text="Kerminate's Blog" type="rss" xmlUrl="https://kerminate.me/atom.xml" htmlUrl="https://kerminate.me/" description=""/>
       <outline text="Kevin Blog" type="rss" xmlUrl="https://blog.kevinzhow.com/rss/" htmlUrl="https://zhowkev.in/" description="关于产品、技术、生活的碎片"/>
       <outline text="kirito" type="rss" xmlUrl="https://www.kirito41dd.cn/index.xml" htmlUrl="https://www.kirito41dd.cn" description="kirito's blog"/>
@@ -784,7 +784,7 @@
       <outline text="weak self" type="rss" xmlUrl="https://feeds.soundon.fm/podcasts/233d04e2-60e9-4060-a687-6b7316187f48.xml" htmlUrl="https://weakself.dev/" description="在 iOS 開發圈打滾的台灣工程師，專為 Apple &amp; iOS 開發者而製作的中文 Podcast。內容涵蓋 Apple 開發圈的新知討論、踩坑經驗、人物採訪、社群活動、職場生活。更多資訊請見官網 https://weakself.dev 或是 Twitter @weak_self"/>
       <outline text="WEB VIEW" type="rss" xmlUrl="https://webview.tech/feed/" htmlUrl="https://webview.tech/" description="不囿于 WEB，不止于 VIEW"/>
       <outline text="WūJīMāChā瞭望台" type="rss" xmlUrl="https://zizhengw.github.io/wujimacha-outreach/rss.xml" htmlUrl="https://www.wujimacha.com/podcast" description="Architectural Observation, Art and Philosophy, Life and Work. 記錄觀察和思考，從而推動行動。更多請見主頁：https://www.wujimacha.com/"/>
-      <outline text="一天世界" type="rss" xmlUrl="https://yitianshijie.net/episodes/feed.xml" htmlUrl="https://yitianshijie.net/" description="一天世界，昆乱不挡。不鳥萬如一主理。IPN 出品。&#13;&#10;&#13;&#10;《一天世界》博客：http://blog.yitianshijie.net"/>
+      <outline text="一天世界" type="rss" xmlUrl="https://yitianshijie.net/episodes/feed.xml" htmlUrl="https://yitianshijie.net/" description="一天世界，昆乱不挡。不鳥萬如一主理。IPN 出品。&#10;&#10;《一天世界》博客：http://blog.yitianshijie.net"/>
       <outline text="一树闲谈" type="rss" xmlUrl="https://www.arbretalk.com/rss" htmlUrl="https://www.arbretalk.com/" description="一档艺术类跑题闲聊节目&#10;邮箱：arbretalk@outlook.com&#10;微信公号：一树arbre&#10;地址：深圳市福田区园岭新村74号楼103"/>
       <outline text="一派·Podcast - 少数派 SSPAI 旗下播客节目" type="rss" xmlUrl="https://sspai.typlog.io/episodes/feed.xml" htmlUrl="https://sspai.fireside.fm/" description="少数派旗下播客节目，高效工作，品质生活。"/>
       <outline text="一画一话" type="rss" xmlUrl="http://www.theviewtalk.com/rss" htmlUrl="http://www.theviewtalk.com/" description="都市文化评论有声杂志，编辑部在上海。&#10;曾是“中文播客世界第一个聚焦现当代艺术展的节目”"/>
