@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Tue, 12 Oct 2021 12:28:01</dateCreated>
+    <dateCreated>Wed, 13 Oct 2021 12:29:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -346,6 +346,7 @@
       <outline text="WeepingDogel's Blog" type="rss" xmlUrl="https://weepingdogel.github.io/index.xml" htmlUrl="https://weepingdogel.github.io/" description="Recent content on WeepingDogel's Blog"/>
       <outline text="Wei's Blog – All About Money" type="rss" xmlUrl="https://chattymoney.com/feed/" htmlUrl="https://chattymoney.com/" description="Financial Freedom Starts Here"/>
       <outline text="weirane's blog" type="rss" xmlUrl="https://blog.ruo-chen.wang/feed.xml" htmlUrl="https://weirane.github.io/" description="weirane's blog"/>
+      <outline text="Windsky博客 | 晔's blog" type="rss" xmlUrl="https://www.okace.cn/feed/" htmlUrl="https://www.okace.cn/" description="Windsky博客 （www.okace.cn） 闫立晔同学的个人博客，分享心得体会，各类技术教程，网站源码。爱我所爱，从未离开，欢迎访问。"/>
       <outline text="winegrower" type="rss" xmlUrl="http://www.winegrower.cn/feed/" htmlUrl="http://www.winegrower.cn/" description="种葡萄并酿酒的人"/>
       <outline text="Wujunze's Blog" type="rss" xmlUrl="https://wujunze.com/index.xml" htmlUrl="https://wujunze.com" description="Recent content in wujunze`s Blog on wujunze`s Blog"/>
       <outline text="Wulu's Blog" type="rss" xmlUrl="https://wulu.zone/atom.xml" htmlUrl="https://emuqi.github.io/" description=""/>
@@ -440,7 +441,7 @@
       <outline text="初等記憶體" type="rss" xmlUrl="https://axionl.me/index.xml" htmlUrl="https://axionl.me" description="Recent content on 初等記憶體"/>
       <outline text="前端工程师 Toweave" type="rss" xmlUrl="https://toweave.github.io/rss.xml" htmlUrl="https://toweave.github.io" description="A starter blog demonstrating what Gatsby can do."/>
       <outline text="加菲猫的创客工坊" type="rss" xmlUrl="https://www.gaficat.com/atom.xml" htmlUrl="https://gaficat.com" description="今天有什么好的想法呢？"/>
-      <outline text="勤奋的思远" type="rss" xmlUrl="https://lsybk.xyz/feed.php" htmlUrl="https://lsybk.xyz/" description="信息安全"/>
+      <outline text="勤奋的思远" type="rss" xmlUrl="https://lsybk.xyz/feed.php" htmlUrl="https://lsybk.xyz/" description="一个爱折腾的男孩纸"/>
       <outline text="北门清燕" type="rss" xmlUrl="https://www.bmqy.net/feed" htmlUrl="https://www.bmqy.net/" description="分享生活、记录点滴，给回忆一个绽放的美丽。"/>
       <outline text="卡瓦邦噶！" type="rss" xmlUrl="https://www.kawabangga.com/feed" htmlUrl="https://www.kawabangga.com/" description="无法自制的人得不到自由。"/>
       <outline text="卡秋莎的小窝" type="rss" xmlUrl="https://katyusha.net/feed" htmlUrl="https://katyusha.net/" description=""/>
@@ -534,7 +535,7 @@
       <outline text="技术小黑屋" type="rss" xmlUrl="https://droidyue.com/atom.xml" htmlUrl="https://droidyue.com" description=""/>
       <outline text="把酒诗代码" type="rss" xmlUrl="https://102no.com/atom.xml" htmlUrl="https://102no.com/" description="是谁来自 Python Java, 却囿于 PHP, Go 与 Lua. (句中提及语言,博主一概不会.单押x3)"/>
       <outline text="抽筋儿的话语权" type="rss" xmlUrl="https://xuchi.name/index.xml" htmlUrl="https://chouj.github.io/" description="Recent content on 抽筋儿的话语权"/>
-      <outline text="拾风" type="rss" xmlUrl="http://www.coolblood.cn/?feed=rss2" htmlUrl="http://www.coolblood.cn/" description="人脑太复杂,时间过得久,记下来才是最真实的......"/>
+      <outline text="拾风" type="rss" xmlUrl="https://www.coolblood.cn/?feed=rss2" htmlUrl="http://www.coolblood.cn/" description="人脑太复杂,时间过得久,记下来才是最真实的......"/>
       <outline text="掘墓人的小铲子" type="rss" xmlUrl="https://juemuren4449.com/atom.xml" htmlUrl="https://juemuren4449.com/" description=""/>
       <outline text="搞搞震" type="rss" xmlUrl="https://www.wujingquan.com/atom.xml" htmlUrl="https://www.wujingquan.com" description="冇帮衬"/>
       <outline text="搞笑談軟工" type="rss" xmlUrl="https://www.blogger.com/feeds/1298974142445162186/posts/default" htmlUrl="http://teddy-chen-tw.blogspot.com" description="敏捷開發，設計模式，精實開發，Scrum，軟體設計，軟體架構"/>
@@ -778,7 +779,7 @@
       <outline text="Go 夜聊" type="rss" xmlUrl="https://talkgo.fm/index.xml" htmlUrl="https://talkgo.fm/" description="「Go 夜聊」是一档由杨文和欧长坤主持的针对 Go 语言发展史的播客节目。我们的宗旨是让更多的人了解 Go 语言的发展历史和未来规划，希望大家在这里可以了解到 Go 语言的方方面面。如果你觉得「Go 夜聊」做的还不错，欢迎你推荐给身边的朋友。如果你对我们有任何意见或建议，请给我们来信，我们的邮箱地址是 [hi@talkgo.fm](mailto:hi@talkgo.fm)，如果你想跟大家交流讨论，可以加入我们的 [telegram 群](https://t.me/talkgofm) Listen Notes"/>
       <outline text="NickTalk" type="rss" xmlUrl="https://niketaoke.com/rss" htmlUrl="https://www.nicktalk.com/" description="格物致知，興趣相投。紀錄關於政治、科技和文化的奇思妙想。"/>
       <outline text="Steve说" type="rss" xmlUrl="http://steveshuo.com/rss" htmlUrl="http://steveshuo.com/" description="“Steve说”被评为2019苹果最佳播客，这是一个基于泛心理学视角，通过深度交流拓展意识边界，探索个人成长之道，加深对自我和世界理解的谈话类节目。主播史秀雄是独立心理咨询师，译有现象级心理学著作《人生十二法则》，著有畅销书《假性亲密关系》，国内首档男性气质主题播客《Man立》的主播，心理学讲师，2017年中国最具影响力的50位心理学者，巴西柔术蓝带，哈雷骑手。微博/公众号：@史秀雄Steve，微信：stevesfk。"/>
-      <outline text="UX Coffee 设计咖" type="rss" xmlUrl="https://uxcoffee.typlog.io/episodes/feed.xml" htmlUrl="https://www.uxcoffee.com/" description="我们试图通过和设计这个世界的人们交谈，探寻创造的过程。&#13;&#10;&#13;&#10;合作：uxcoffee123@gmail.com"/>
+      <outline text="UX Coffee 设计咖" type="rss" xmlUrl="https://uxcoffee.typlog.io/episodes/feed.xml" htmlUrl="https://www.uxcoffee.com/" description="我们试图通过和设计这个世界的人们交谈，探寻创造的过程。&#10;&#10;合作：uxcoffee123@gmail.com"/>
       <outline text="Velas电波站" type="rss" xmlUrl="https://www.velasx.com/feed" htmlUrl="https://www.velasx.com" description="非正常信号发射与搜寻装置"/>
       <outline text="Vibration 歪波音室" type="rss" xmlUrl="https://vibration-radio.com/episodes/feed.xml" htmlUrl="https://vibration-radio.com/" description="音乐太多，耳朵太少"/>
       <outline text="weak self" type="rss" xmlUrl="https://feeds.soundon.fm/podcasts/233d04e2-60e9-4060-a687-6b7316187f48.xml" htmlUrl="https://weakself.dev/" description="在 iOS 開發圈打滾的台灣工程師，專為 Apple &amp; iOS 開發者而製作的中文 Podcast。內容涵蓋 Apple 開發圈的新知討論、踩坑經驗、人物採訪、社群活動、職場生活。更多資訊請見官網 https://weakself.dev 或是 Twitter @weak_self"/>
@@ -955,7 +956,6 @@
       <outline text="HUI 爷的小破站" type="rss" xmlUrl="https://www.ghost666.xyz/index.php/feed/" htmlUrl="https://www.ghost666.xyz/" description="祝文霞19岁生日快乐"/>
       <outline text="idea's blog" type="rss" xmlUrl="https://www.ideawu.net/blog/feed" htmlUrl="http://www.ideawu.net/blog" description="全球分布式数据库, C/C++, 高性能分布式 Web 和网络应用开发, 架构设计, 移动应用开发"/>
       <outline text="littlepoco's Blog" type="rss" xmlUrl="https://littlepoco.github.io/rss.xml" htmlUrl="https://littlepoco.github.io/" description="隨手寫寫一些技術文章或雜文."/>
-      <outline text="Windsky博客 | 晔's blog" type="rss" xmlUrl="https://www.okace.cn/feed/" htmlUrl="https://www.okace.cn/" description="Windsky博客 （www.okace.cn） 闫立晔同学的个人博客，分享心得体会，各类技术教程，网站源码。爱我所爱，从未离开，欢迎访问。"/>
       <outline text="xiaix's Blog" type="rss" xmlUrl="https://xiaix.me/rss/" htmlUrl="https://xiaix.me" description="个人学习笔记"/>
       <outline text="Y同学" type="rss" xmlUrl="https://eron.couqiao.xyz/feed/" htmlUrl="https://eron.couqiao.xyz/" description="Eron's生活日常学习记录"/>
       <outline text="二丫讲梵" type="rss" xmlUrl="https://wiki.eryajf.net/rss.xml" htmlUrl="https://wiki.eryajf.net" description="学习，记录，分享。"/>
