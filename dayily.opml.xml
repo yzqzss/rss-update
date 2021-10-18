@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Mon, 18 Oct 2021 12:18:02</dateCreated>
+    <dateCreated>Mon, 18 Oct 2021 12:28:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -22,7 +22,7 @@
       <outline text="Allen Hua 的网络博客" type="rss" xmlUrl="https://hellodk.cn/feed/" htmlUrl="https://hellodk.cn/" description="Allen Hua 的网络笔记"/>
       <outline text="anran758's blog" type="rss" xmlUrl="https://anran758.github.io/blog/atom.xml" htmlUrl="https://anran758.github.io/blog/" description=""/>
       <outline text="Armin's Blog" type="rss" xmlUrl="https://arminli.com/rss.xml" htmlUrl="https://arminli.com" description="Armin's Blog."/>
-      <outline text="asa挥舞思绪" type="rss" xmlUrl="https://www.blogger.com/feeds/1419638474417989429/posts/default" htmlUrl="https://asazero.blogspot.com/" description=""/>
+      <outline text="asa挥舞思绪" type="rss" xmlUrl="https://asazero.blogspot.com/feeds/posts/default" htmlUrl="https://asazero.blogspot.com/" description=""/>
       <outline text="azhuge233's" type="rss" xmlUrl="https://azhuge233.com/feed/" htmlUrl="https://azhuge233.com/" description="Hi"/>
       <outline text="A级博客" type="rss" xmlUrl="https://blog.alevel.tech/atom.xml" htmlUrl="https://blog.alevel.tech/" description="A级博、Alevel blog"/>
       <outline text="bang's blog" type="rss" xmlUrl="http://blog.cnbang.net/feed/" htmlUrl="http://blog.cnbang.net/" description="我的世界"/>
@@ -173,7 +173,7 @@
       <outline text="KSkun's Blog" type="rss" xmlUrl="https://ksmeow.moe/feed/" htmlUrl="https://ksmeow.moe/" description="coding | algorithm | life"/>
       <outline text="KuangjuX(狂且)" type="rss" xmlUrl="http://blog.kuangjux.top/atom.xml" htmlUrl="http://blog.kuangjux.top/" description="风声雨声读书声 声声入耳 家事国事天下事 事事关心"/>
       <outline text="Kuricat's Blog" type="rss" xmlUrl="https://kuricat.com/rss" htmlUrl="https://kuricat.com" description=""/>
-      <outline text="L1Yu's Blog | 蓝色的博客" type="rss" xmlUrl="http://www.l1yu.com/?feed=rss2" htmlUrl="http://www.l1yu.com" description="LL的博客"/>
+      <outline text="L1Yu's Blog | LL的博客" type="rss" xmlUrl="http://www.l1yu.com/?feed=rss2" htmlUrl="http://www.l1yu.com" description="LL的博客"/>
       <outline text="Lao_Liu Blog" type="rss" xmlUrl="https://blog.laoliu.eu.org/atom.xml" htmlUrl="https://blog.laoliu.eu.org/" description="A place to say something."/>
       <outline text="LarsCheng" type="rss" xmlUrl="https://www.larscheng.com/atom.xml" htmlUrl="https://www.larscheng.com/" description="分享Java技术, 记录点滴生活"/>
       <outline text="Lawrence" type="rss" xmlUrl="https://lawrenceli.me/atom.xml" htmlUrl="https://lawrenceli.me/" description="Blog"/>
