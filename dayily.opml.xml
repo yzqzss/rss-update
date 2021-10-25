@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Sun, 24 Oct 2021 12:28:01</dateCreated>
+    <dateCreated>Mon, 25 Oct 2021 12:28:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -83,7 +83,7 @@
       <outline text="EasyApple" type="rss" xmlUrl="http://easyapple.net/?feed=rss2" htmlUrl="http://easyapple.net/" description="Ideas, Techs and Apps"/>
       <outline text="EGOIST 庶民样本" type="rss" xmlUrl="https://egoist.moe/atom.xml" htmlUrl="https://egoist.moe/" description="I want to meet my very own Maho-chan."/>
       <outline text="Elizen's Blog" type="rss" xmlUrl="https://elizen.me/index.xml" htmlUrl="https://elizen.me/" description="Recent content in Home on Elizen"/>
-      <outline text="Eltrac's" type="rss" xmlUrl="https://blog.guhub.cn/feed" htmlUrl="https://blog.guhub.cn/" description="暗夜行路，终遇奇迹。"/>
+      <outline text="Eltrac's" type="rss" xmlUrl="https://blog.guhub.cn/index.php/feed/" htmlUrl="https://blog.guhub.cn/" description="把我涂成忧郁的快乐。"/>
       <outline text="Eluyee" type="rss" xmlUrl="https://www.eluyee.com/feed/" htmlUrl="https://www.eluyee.com/" description="人就像茶，得受得了，高温熬，叶片从浮到沉，由卷至舒，艰辛多少"/>
       <outline text="emperinter" type="rss" xmlUrl="https://www.emperinter.info/feed/" htmlUrl="https://www.emperinter.info/" description="Personal Blog"/>
       <outline text="Est's Blog" type="rss" xmlUrl="http://feeds.feedburner.com/Initiative" htmlUrl="https://blog.est.im/" description="This blog is rated  R⃣ , viewer discretion is advised"/>
@@ -655,6 +655,7 @@
       <outline text="老麦笔记" type="rss" xmlUrl="https://laomai.org/feed" htmlUrl="https://laomai.org/" description=""/>
       <outline text="胡家小子" type="rss" xmlUrl="https://www.boyhu.cn/feed/" htmlUrl="https://www.boyhu.cn/" description="记录对生活的向往，记录生活周遭的个人网站。"/>
       <outline text="胡涂说" type="rss" xmlUrl="https://hutusi.com/feed.xml" htmlUrl="https://hutusi.com/" description="hutusi.com"/>
+      <outline text="胡言胡语" type="rss" xmlUrl="https://husay.cc/feed" htmlUrl="https://husay.cc/" description="总有那么一些话是胡说的"/>
       <outline text="胸毛齐腰" type="rss" xmlUrl="https://dearxs.github.io/index.xml" htmlUrl="https://dearxs.github.io/" description="Recent content on 胸毛齐腰"/>
       <outline text="臨池不輟" type="rss" xmlUrl="https://keelii.com/atom.xml" htmlUrl="https://keelii.com/" description="Recent content on 臨池不輟"/>
       <outline text="自学路漫漫" type="rss" xmlUrl="https://blog.fxcdev.com/feed/" htmlUrl="https://blog.fxcdev.com" description="山，快马加鞭未下鞍。惊回首，离天三尺三。"/>
