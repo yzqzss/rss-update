@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Mon, 25 Oct 2021 12:28:01</dateCreated>
+    <dateCreated>Tue, 26 Oct 2021 12:28:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -23,7 +23,6 @@
       <outline text="Amphibia" type="rss" xmlUrl="https://lumitytw.github.io/index.xml" htmlUrl="https://lumitytw.github.io/" description="隨手寫寫一些技術文章或雜文."/>
       <outline text="anran758's blog" type="rss" xmlUrl="https://anran758.github.io/blog/atom.xml" htmlUrl="https://anran758.github.io/blog/" description=""/>
       <outline text="Armin's Blog" type="rss" xmlUrl="https://arminli.com/rss.xml" htmlUrl="https://arminli.com" description="Armin's Blog."/>
-      <outline text="asa挥舞思绪" type="rss" xmlUrl="https://asazero.blogspot.com/feeds/posts/default" htmlUrl="https://asazero.blogspot.com/" description=""/>
       <outline text="azhuge233's" type="rss" xmlUrl="https://azhuge233.com/feed/" htmlUrl="https://azhuge233.com/" description="Hi"/>
       <outline text="A级博客" type="rss" xmlUrl="https://blog.alevel.tech/atom.xml" htmlUrl="https://blog.alevel.tech/" description="A级博、Alevel blog"/>
       <outline text="bang's blog" type="rss" xmlUrl="http://blog.cnbang.net/feed/" htmlUrl="http://blog.cnbang.net/" description="我的世界"/>
@@ -83,7 +82,7 @@
       <outline text="EasyApple" type="rss" xmlUrl="http://easyapple.net/?feed=rss2" htmlUrl="http://easyapple.net/" description="Ideas, Techs and Apps"/>
       <outline text="EGOIST 庶民样本" type="rss" xmlUrl="https://egoist.moe/atom.xml" htmlUrl="https://egoist.moe/" description="I want to meet my very own Maho-chan."/>
       <outline text="Elizen's Blog" type="rss" xmlUrl="https://elizen.me/index.xml" htmlUrl="https://elizen.me/" description="Recent content in Home on Elizen"/>
-      <outline text="Eltrac's" type="rss" xmlUrl="https://blog.guhub.cn/index.php/feed/" htmlUrl="https://blog.guhub.cn/" description="把我涂成忧郁的快乐。"/>
+      <outline text="Eltrac's" type="rss" xmlUrl="https://blog.guhub.cn/feed/" htmlUrl="https://blog.guhub.cn/" description="把我涂成忧郁的快乐。"/>
       <outline text="Eluyee" type="rss" xmlUrl="https://www.eluyee.com/feed/" htmlUrl="https://www.eluyee.com/" description="人就像茶，得受得了，高温熬，叶片从浮到沉，由卷至舒，艰辛多少"/>
       <outline text="emperinter" type="rss" xmlUrl="https://www.emperinter.info/feed/" htmlUrl="https://www.emperinter.info/" description="Personal Blog"/>
       <outline text="Est's Blog" type="rss" xmlUrl="http://feeds.feedburner.com/Initiative" htmlUrl="https://blog.est.im/" description="This blog is rated  R⃣ , viewer discretion is advised"/>
@@ -528,7 +527,6 @@
       <outline text="拾风" type="rss" xmlUrl="https://www.coolblood.cn/?feed=rss2" htmlUrl="https://www.coolblood.cn/" description="人脑太复杂,时间过得久,记下来才是最真实的......"/>
       <outline text="掘墓人的小铲子" type="rss" xmlUrl="https://juemuren4449.com/atom.xml" htmlUrl="https://juemuren4449.com/" description=""/>
       <outline text="搞搞震" type="rss" xmlUrl="https://www.wujingquan.com/atom.xml" htmlUrl="https://www.wujingquan.com" description="冇帮衬"/>
-      <outline text="搞笑談軟工" type="rss" xmlUrl="https://www.blogger.com/feeds/1298974142445162186/posts/default" htmlUrl="http://teddy-chen-tw.blogspot.com" description="敏捷開發，設計模式，精實開發，Scrum，軟體設計，軟體架構"/>
       <outline text="政子的博客" type="rss" xmlUrl="https://blog.zhengzi.me/atom.xml" htmlUrl="https://blog.zhengzi.me" description="技术|学习|随笔"/>
       <outline text="故事熊" type="rss" xmlUrl="https://felixxiong.github.io/atom.xml" htmlUrl="https://felixxiong.github.io/" description="情绪泛滥 沉浸其中"/>
       <outline text="数字移民博客" type="rss" xmlUrl="https://blog.shuziyimin.org/feed" htmlUrl="https://blog.shuziyimin.org" description="肉体和精神，总要有一个是自由的。"/>
@@ -605,7 +603,7 @@
       <outline text="游魂博客" type="rss" xmlUrl="https://www.iyouhun.com/rss.php" htmlUrl="https://www.iyouhun.com/" description="技术交流,资源共享,分享点滴。"/>
       <outline text="灵感电台" type="rss" xmlUrl="https://museradio.net/atom.xml" htmlUrl="http://museradio.net/" description="Jack's art hobby habitat"/>
       <outline text="炎忍的博客" type="rss" xmlUrl="https://blog.imyan.ren/atom.xml" htmlUrl="https://blog.imyan.ren/" description="同学习，共成长，不将就，不妥协！"/>
-      <outline text="炭火寡言" type="rss" xmlUrl="https://www.blogger.com/feeds/6164846288965141782/posts/default" htmlUrl="https://www.mumfire.me/" description="泛起零星的火，毫无意义却静穆地燃烧着"/>
+      <outline text="炭火寡言" type="rss" xmlUrl="https://www.mumfire.me/feeds/posts/default" htmlUrl="https://www.mumfire.me/" description="泛起零星的火，毫无意义却静穆地燃烧着"/>
       <outline text="炸裂志" type="rss" xmlUrl="https://zh.fyi/rss.xml" htmlUrl="https://zh.fyi/" description="无去来处，动静等观"/>
       <outline text="热河" type="rss" xmlUrl="https://hismaplestory.online/atom.xml" htmlUrl="https://www.hismaplestory.online" description="citizen5"/>
       <outline text="燕渡寒潭" type="rss" xmlUrl="https://hisherry.com/feed/" htmlUrl="https://hisherry.com/" description="别为活命而败坏生存之根"/>
@@ -889,7 +887,6 @@
       <outline text="懒得勤快的博客_互联网分享精神" type="rss" xmlUrl="https://ldqk.xyz/rss" htmlUrl="https://masuit.com/rss" description="若页面无法访问，可通过搜索引擎网页快照进行浏览。懒得勤快，互联网分享精神，勤于发现，乐于分享，提供高端显示器定制服务，稀缺软件分享，视频教程分享，各种优质资源分享，新日暮里哲学文化传媒，高速机场科学上网，正版软件下载！"/>
       <outline text="杏铃の小本" type="rss" xmlUrl="https://66ccff.work/feed" htmlUrl="https://66ccff.work/" description="博主高三人，两周一天假期，不会经常看博客了 这是一份赠与你的礼物，分享Galgame资源&amp;技术向教程&amp;奇怪的东西"/>
       <outline text="林羽凡博客" type="rss" xmlUrl="https://www.linyufan.com/rss.xml" htmlUrl="https://www.linyufan.com/" description="林羽凡个人博客，认认真真写日记的80后老伙计。"/>
-      <outline text="水星投资理财" type="rss" xmlUrl="https://www.blogger.com/feeds/8640548720142298079/posts/default" htmlUrl="http://mercurychong.blogspot.com" description="享受单身生活的小孩子"/>
       <outline text="游研社" type="rss" xmlUrl="https://www.yystv.cn/rss/feed" htmlUrl="https://www.yystv.cn/" description="无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。"/>
       <outline text="牛津的博客" type="rss" xmlUrl="https://blog.jinreal.com/index.xml" htmlUrl="https://blog.jinreal.com/" description="Recent content on 牛津的博客"/>
       <outline text="电脑博士" type="rss" xmlUrl="https://diannaobos.com/feed.php" htmlUrl="https://diannaobos.com/" description="欢迎您的来访！"/>
