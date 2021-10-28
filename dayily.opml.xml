@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Wed, 27 Oct 2021 13:05:04</dateCreated>
+    <dateCreated>Thu, 28 Oct 2021 12:29:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -431,7 +431,7 @@
       <outline text="初等記憶體" type="rss" xmlUrl="https://axionl.me/index.xml" htmlUrl="https://axionl.me" description="Recent content on 初等記憶體"/>
       <outline text="前端工程师 Toweave" type="rss" xmlUrl="https://toweave.github.io/rss.xml" htmlUrl="https://toweave.github.io" description="A starter blog demonstrating what Gatsby can do."/>
       <outline text="加菲猫的创客工坊" type="rss" xmlUrl="https://www.gaficat.com/atom.xml" htmlUrl="https://gaficat.com" description="今天有什么好的想法呢？"/>
-      <outline text="勤奋的思远" type="rss" xmlUrl="https://lsybk.xyz/feed.php" htmlUrl="https://lsybk.xyz/" description="一个爱折腾的男孩纸"/>
+      <outline text="勤奋的思远" type="rss" xmlUrl="https://lsybk.xyz/feed.php" htmlUrl="https://lsybk.xyz/" description="一个爱折腾的男孩子"/>
       <outline text="北门清燕" type="rss" xmlUrl="https://www.bmqy.net/feed" htmlUrl="https://www.bmqy.net/" description="分享生活、记录点滴，给回忆一个绽放的美丽。"/>
       <outline text="卡瓦邦噶！" type="rss" xmlUrl="https://www.kawabangga.com/feed" htmlUrl="https://www.kawabangga.com/" description="无法自制的人得不到自由。"/>
       <outline text="卡秋莎的小窝" type="rss" xmlUrl="https://katyusha.net/feed" htmlUrl="https://katyusha.net/" description=""/>
@@ -452,6 +452,7 @@
       <outline text="唐巧的博客" type="rss" xmlUrl="http://blog.devtang.com/atom.xml" htmlUrl="http://blog.devtang.com/" description="记录下自己学习的点滴"/>
       <outline text="啊不都的自留地" type="rss" xmlUrl="https://www.oplog.cn/atom.xml" htmlUrl="http://www.abudu.top/" description="大道至简，衍化至繁"/>
       <outline text="啊哈呵嗨的博客" type="rss" xmlUrl="https://gylidian.js.org/rss2.xml" htmlUrl="https://gylidian.js.org" description="我热爱前端，从未停止过努力，喜欢折腾项目、分享生活中有趣的事物、热爱朋友和世界、对一切新知识充满好奇心。坚持一定很酷！"/>
+      <outline text="四公子的剑" type="rss" xmlUrl="https://www.965.one/atom.xml" htmlUrl="https://www.965.one/" description="This is my site, welcome you!"/>
       <outline text="四喜丸子" type="rss" xmlUrl="https://fourhappylions.com/index.xml" htmlUrl="https://fourhappylions.com/" description="Recent content on 四喜丸子"/>
       <outline text="四方之云" type="rss" xmlUrl="https://jingyig.com/atom.xml" htmlUrl="https://jingyig.com/" description=""/>
       <outline text="回未视戒" type="rss" xmlUrl="https://huiweishijie.com/feed.xml" htmlUrl="https://huiweishijie.com" description="关于设计与摄影，一个95后的个人博客"/>
@@ -960,7 +961,6 @@
       <outline text="xiaix's Blog" type="rss" xmlUrl="https://xiaix.me/rss/" htmlUrl="https://xiaix.me" description="个人学习笔记"/>
       <outline text="Y同学" type="rss" xmlUrl="https://eron.couqiao.xyz/feed/" htmlUrl="https://eron.couqiao.xyz/" description="Eron's生活日常学习记录"/>
       <outline text="二丫讲梵" type="rss" xmlUrl="https://wiki.eryajf.net/rss.xml" htmlUrl="https://wiki.eryajf.net" description="💻学习📝记录🔗分享&#10;学无止境是永远前进的基础，跃然纸上是对知识的总结交代，与众分享则是实现价值的最好方式。"/>
-      <outline text="四公子的剑" type="rss" xmlUrl="https://www.965.one/atom.xml" htmlUrl="http://blogbo.org/" description="This is my site, welcome you!"/>
       <outline text="城中村群租房" type="rss" xmlUrl="https://www.darmau.com/rss/" htmlUrl="https://www.darmau.com" description="深圳不是我的家，我的家乡没有城中村"/>
       <outline text="小钻风的博客" type="rss" xmlUrl="https://zuanfeng.club/index.php/feed/" htmlUrl="https://zuanfeng.club/" description="让思考和读书成为一种生活方式"/>
       <outline text="海布里天井" type="rss" xmlUrl="https://blog.feimind.xyz/feed" htmlUrl="https://blog.feimind.xyz/" description="记录我遇见我"/>
