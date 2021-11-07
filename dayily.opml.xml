@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Sat, 06 Nov 2021 12:29:02</dateCreated>
+    <dateCreated>Sun, 07 Nov 2021 12:28:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -477,7 +477,7 @@
       <outline text="安志合的学习博客" type="rss" xmlUrl="https://chegva.com/feed/" htmlUrl="https://chegva.com" description="让我们面对现实  让我们忠于理想"/>
       <outline text="宋春林" type="rss" xmlUrl="http://songchunlin.net/cn/feed/" htmlUrl="http://sixf.org/" description=""/>
       <outline text="寒山志" type="rss" xmlUrl="https://baozi.fun/rss.xml" htmlUrl="https://baozi.fun/" description="人生得意须尽欢，莫使金樽空对月"/>
-      <outline text="尋路" type="rss" xmlUrl="https://dikaioslin.blogspot.com/feeds/posts/default" htmlUrl="https://dikaioslin.blogspot.com/" description=""/>
+      <outline text="尋路" type="rss" xmlUrl="https://www.blogger.com/feeds/3278843045509327943/posts/default" htmlUrl="https://dikaioslin.blogspot.com/" description=""/>
       <outline text="小A的个人站" type="rss" xmlUrl="https://blog.fasv.top/feed/" htmlUrl="http://blog.fasv.top/" description="学习、记录、分享"/>
       <outline text="小小孩子们的博客" type="rss" xmlUrl="https://www.xxhzm.cn/feed/" htmlUrl="https://xxhzm.cn/" description="小小孩子们的博客，记录美好生活、PHP、JS代码"/>
       <outline text="小撸" type="rss" xmlUrl="http://www.60sky.com/index.php/feed/" htmlUrl="http://www.60sky.com/" description="Follow Your Heart"/>
@@ -1007,7 +1007,7 @@
       <outline text="Teach Talk" type="rss" xmlUrl="https://www.ttalk.im/rss.xml" htmlUrl="https://www.ttalk.im/" description="Tech Talk 让技术发出声音: Tech Talk 让技术发出声音"/>
       <outline text="UTS Blog" type="rss" xmlUrl="https://blog.uts.ski/rss/" htmlUrl="https://blog.uts.ski/" description="My technology blog"/>
       <outline text="六小編 Editor Leon" type="rss" xmlUrl="https://editor.leonh.space/atom.xml" htmlUrl="https://editor.leonh.space" description="六小編的 IT 技術與產業觀點"/>
-      <outline text="喵二の小博客" type="rss" xmlUrl="https://www.miaoer.xyz/atom.xml" htmlUrl="https://www.miaoer.xyz/" description="喜欢分享一些东西 ୧(﹒ ᴗ﹒ )୨"/>
+      <outline text="喵二の小博客" type="rss" xmlUrl="https://www.miaoer.xyz/atom.xml" htmlUrl="https://www.miaoer.xyz/" description="缘，妙不可言"/>
       <outline text="文艺数学君" type="rss" xmlUrl="https://mathpretty.com/feed/" htmlUrl="https://mathpretty.com/" description="换一种姿势学数学"/>
       <outline text="框架师" type="rss" xmlUrl="https://www.mobaijun.com/atom.xml" htmlUrl="https://www.mobaijun.com/" description="墨白"/>
       <outline text="涛叔" type="rss" xmlUrl="https://taoshu.in/feed.xml" htmlUrl="https://taoshu.in/" description=""/>
