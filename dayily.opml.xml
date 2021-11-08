@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Sun, 07 Nov 2021 12:28:01</dateCreated>
+    <dateCreated>Mon, 08 Nov 2021 12:29:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -100,6 +100,7 @@
       <outline text="fun's Blog" type="rss" xmlUrl="https://blog.dev4eos.com/atom.xml" htmlUrl="http://blog.dev4eos.com/" description=""/>
       <outline text="FZDSLR" type="rss" xmlUrl="https://blog.fzdslr.cn/atom.xml" htmlUrl="https://blog.fzdslr.cn/" description=""/>
       <outline text="Garan no dou" type="rss" xmlUrl="https://blog.ibireme.com/feed/" htmlUrl="https://blog.ibireme.com/" description="一只魔法师的工坊"/>
+      <outline text="Garfield Wang's blog" type="rss" xmlUrl="https://gw2001.xyz/index.php/feed/" htmlUrl="http://gw2001.xyz/" description="Just So So ..."/>
       <outline text="Gavin notes" type="rss" xmlUrl="https://blog.gavln.com/feed.xml" htmlUrl="https://blog.gavln.com" description=""/>
       <outline text="GeekPlux" type="rss" xmlUrl="https://geekplux.com/atom.xml" htmlUrl="https://geekplux.com" description="Data Visualization &amp; Full-stack programmer @ finance firm, Blogger, Cat lover, Lifelong learner."/>
       <outline text="Glory to the MANKIND!" type="rss" xmlUrl="https://matrixkook.github.io/feed.xml" htmlUrl="https://matrixkook.github.io/" description="Pwn!Glory to the MANKIND!"/>
@@ -477,7 +478,7 @@
       <outline text="安志合的学习博客" type="rss" xmlUrl="https://chegva.com/feed/" htmlUrl="https://chegva.com" description="让我们面对现实  让我们忠于理想"/>
       <outline text="宋春林" type="rss" xmlUrl="http://songchunlin.net/cn/feed/" htmlUrl="http://sixf.org/" description=""/>
       <outline text="寒山志" type="rss" xmlUrl="https://baozi.fun/rss.xml" htmlUrl="https://baozi.fun/" description="人生得意须尽欢，莫使金樽空对月"/>
-      <outline text="尋路" type="rss" xmlUrl="https://www.blogger.com/feeds/3278843045509327943/posts/default" htmlUrl="https://dikaioslin.blogspot.com/" description=""/>
+      <outline text="尋路" type="rss" xmlUrl="https://dikaioslin.blogspot.com/feeds/posts/default" htmlUrl="https://dikaioslin.blogspot.com/" description=""/>
       <outline text="小A的个人站" type="rss" xmlUrl="https://blog.fasv.top/feed/" htmlUrl="http://blog.fasv.top/" description="学习、记录、分享"/>
       <outline text="小小孩子们的博客" type="rss" xmlUrl="https://www.xxhzm.cn/feed/" htmlUrl="https://xxhzm.cn/" description="小小孩子们的博客，记录美好生活、PHP、JS代码"/>
       <outline text="小撸" type="rss" xmlUrl="http://www.60sky.com/index.php/feed/" htmlUrl="http://www.60sky.com/" description="Follow Your Heart"/>
@@ -852,9 +853,9 @@
       <outline text="解道jdon.com" type="rss" xmlUrl="https://www.jdon.com/rss" htmlUrl="https://www.jdon.com" description="探索 分享 交流 解惑 授道&#13;&#10;                。更多关注见https://www.jdon.com/followus.html"/>
     </outline>
     <outline text="RSS出错">
-      <outline text="东方之胱" type="rss" xmlUrl="https://east-bladder.com/atom.xml" htmlUrl="https://east-bladder.com" description=""/>
       <outline text="博言技术杂谈" type="rss" xmlUrl="https://boyn.top/atom.xml" htmlUrl="https://boyn.top" description=""/>
       <outline text="小蘿蔔丁" type="rss" xmlUrl="http://xlbd.me/rss/" htmlUrl="http://xlbd.me/" description=""/>
+      <outline text="木土金王可" type="rss" xmlUrl="https://www.dujinke.com/feed.xml" htmlUrl="https://www.dujinke.com/" description="木土金王可"/>
     </outline>
     <outline text="SSL错误">
       <outline text="BIHell" type="rss" xmlUrl="https://bihell.com/feed.xml" htmlUrl="https://bihell.com/" description="专注于大数据技术"/>
@@ -976,7 +977,6 @@
     <outline text="处理中">
       <outline text="Aicsukの世界" type="rss" xmlUrl="https://www.aicsuk.com/feed" htmlUrl="https://www.aicsuk.com/" description="一个小小的博客"/>
       <outline text="Daniel's Blog" type="rss" xmlUrl="https://moecm.com/feed/" htmlUrl="https://moecm.com/" description="Here's the BioniCosmos!"/>
-      <outline text="Garfield Wang's blog" type="rss" xmlUrl="https://gw2001.xyz/index.php/feed/" htmlUrl="http://gw2001.xyz/" description="Just So So ..."/>
       <outline text="HUI 爷的小破站" type="rss" xmlUrl="https://www.ghost666.xyz/index.php/feed/" htmlUrl="https://www.ghost666.xyz/" description="祝文霞19岁生日快乐"/>
       <outline text="wys.me" type="rss" xmlUrl="https://www.wys.me/feed" htmlUrl="https://www.wys.me/" description="Including all the text paragraphs arranged by him."/>
       <outline text="xiaix's Blog" type="rss" xmlUrl="https://xiaix.me/rss/" htmlUrl="https://xiaix.me" description="个人学习笔记"/>
