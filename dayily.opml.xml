@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Wed, 24 Nov 2021 12:29:01</dateCreated>
+    <dateCreated>Thu, 25 Nov 2021 12:30:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -234,7 +234,7 @@
       <outline text="Ngzhio’s Blog" type="rss" xmlUrl="https://ngzhio.github.io/feed.xml" htmlUrl="https://ngzhio.github.io/" description="The personal blog of Shangzhi Huang"/>
       <outline text="Nicksxs's Blog" type="rss" xmlUrl="https://nicksxs.me/atom.xml" htmlUrl="https://nicksxs.me" description="What hurts more, the pain of hard work or the pain of regret?"/>
       <outline text="Nic Lin's Blog" type="rss" xmlUrl="https://blog.niclin.tw/index.xml" htmlUrl="https://blog.niclin.tw/" description="Recent content on Nic Lin's Blog"/>
-      <outline text="NotJustCode" type="rss" xmlUrl="https://article.mebtte.com/rss.xml" htmlUrl="https://article.mebtte.com" description="MEBTTE's Writing"/>
+      <outline text="NotJustCode" type="rss" xmlUrl="https://mebtte.com/rss.xml" htmlUrl="https://article.mebtte.com" description="MEBTTE 的个人写作."/>
       <outline text="not LSD" type="rss" xmlUrl="https://notlsd.github.io/atom.xml" htmlUrl="https://notlsd.github.io" description=""/>
       <outline text="NoT_Ting Chieh's Blog" type="rss" xmlUrl="https://tingchieh.xyz/feed/" htmlUrl="https://tingchieh.xyz/" description="什麼都不會的辣雞學生一個"/>
       <outline text="Nuclear'Atk（核攻击）网络安全实验室" type="rss" xmlUrl="https://lcx.cc/index.xml" htmlUrl="https://lcx.cc/" description="Recent content on Nuclear'Atk（核攻击）网络安全实验室"/>
@@ -884,7 +884,7 @@
       <outline text="同和故事匯" type="rss" xmlUrl="https://hocassian.cn/feed/" htmlUrl="https://hocassian.cn/" description=""/>
       <outline text="吴润写字的地方" type="rss" xmlUrl="http://wu.run/atom.xml" htmlUrl="http://www.wu.run/" description=""/>
       <outline text="呈像 PHOTUP" type="rss" xmlUrl="https://photup.art/feed.xml" htmlUrl="https://photup.art/" description="行万里路，摄万卷书"/>
-      <outline text="周良博客" type="rss" xmlUrl="https://imzl.com/feed" htmlUrl="https://imzl.com/" description="关注商业、产品、运营的原创 IT 科技博客"/>
+      <outline text="周良博客" type="rss" xmlUrl="https://imzl.com/feed" htmlUrl="https://imzl.com/" description="关注商业、产品、运营的原创中文 IT 科技博客"/>
       <outline text="喵's StackHarbor" type="rss" xmlUrl="https://sh.alynx.one/atom.xml" htmlUrl="https://sh.alynx.one/" description="Whisper to the World"/>
       <outline text="大大的小蜗牛" type="rss" xmlUrl="https://eallion.com/atom.xml" htmlUrl="https://eallion.com/" description="机会总是垂青于有准备的人"/>
       <outline text="大黄老鼠的番茄酱" type="rss" xmlUrl="https://blog.pikachu.net.cn/atom.xml" htmlUrl="https://blog.pikachu.net.cn/" description="我以前没得选择，现在我想做一个好人。——阿明"/>
