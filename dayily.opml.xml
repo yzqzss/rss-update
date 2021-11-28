@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Sat, 27 Nov 2021 12:29:01</dateCreated>
+    <dateCreated>Sun, 28 Nov 2021 12:29:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -620,6 +620,7 @@
       <outline text="王玄的博客" type="rss" xmlUrl="https://blog.wangxuan.name/feed/" htmlUrl="https://blog.wangxuan.name" description="种野菜杂草的自留地，任君取用"/>
       <outline text="王登科-DK博客" type="rss" xmlUrl="https://greatdk.com/rss" htmlUrl="https://greatdk.com" description="布洛芬爱好者"/>
       <outline text="珒陶" type="rss" xmlUrl="https://www.chenjt.com/feed/" htmlUrl="https://www.chenjt.com/" description="珒陶 （JanTang）的个人网站 - I hope that someday somebody can tell me the whole"/>
+      <outline text="甜欣屋" type="rss" xmlUrl="https://tcxx.info/feed" htmlUrl="https://tcxx.info/" description="甜菜欣欣个人小站"/>
       <outline text="生活志" type="rss" xmlUrl="http://louishan.com/feed" htmlUrl="http://louishan.com/" description="Life will find its way out!"/>
       <outline text="电波障害" type="rss" xmlUrl="https://sund.site/index.xml" htmlUrl="https://sund.site/" description="Recent content on 電波障害"/>
       <outline text="瘦人志" type="rss" xmlUrl="http://www.wuqiwen.cn/feed" htmlUrl="http://www.wuqiwen.cn/" description="记录生命中遇到的人和事，反省之，感谢之。时刻提醒自己：生也有涯，知也无涯。做愚人已然难免，只好努力不做妄人。"/>
@@ -856,7 +857,7 @@
     </outline>
     <outline text="SSL错误">
       <outline text="BIHell" type="rss" xmlUrl="https://bihell.com/feed.xml" htmlUrl="https://bihell.com/" description="专注于大数据技术"/>
-      <outline text="Just.Snake" type="rss" xmlUrl="https://imsnake.cn/?feed=rss2" htmlUrl="https://imsnake.cn/" description="你若不离，我永相依。"/>
+      <outline text="Just.Snake" type="rss" xmlUrl="https://imsnake.cn/?feed=rss2" htmlUrl="https://imsnake.cn/" description="一切终究回归原始"/>
     </outline>
     <outline text="Uncategorized">
       <outline text="Aemon's Blog" type="rss" xmlUrl="https://aemoncao.github.io/rss2.xml" htmlUrl="https://www.aemon.top/" description=""/>
@@ -991,7 +992,6 @@
       <outline text="桃园" type="rss" xmlUrl="http://www.taoweng.site/feed" htmlUrl="http://www.taoweng.site/" description="相信 W3C，遵从黑客文化，相信自己能改变世界"/>
       <outline text="洛尘曦" type="rss" xmlUrl="https://www.sgyzyun.club/feed/" htmlUrl="https://www.sgyzyun.club/" description="我的学习研究"/>
       <outline text="烟雨寒云" type="rss" xmlUrl="https://www.yyhy.me/feed" htmlUrl="https://www.yyhy.me/" description="一点烟雨，一点寒，风吹过，烟花散"/>
-      <outline text="甜欣屋" type="rss" xmlUrl="https://tcxx.info/feed" htmlUrl="https://tcxx.info/" description="甜菜欣欣个人小站"/>
       <outline text="秋风阁" type="rss" xmlUrl="https://qiufeng.fun/feed/" htmlUrl="http://qiufeng.fun/" description="又一个WordPress站点"/>
       <outline text="笔记" type="rss" xmlUrl="http://acg19.top/atom.xml" htmlUrl="https://steamfinder.github.io/" description=""/>
       <outline text="笔记杂集" type="rss" xmlUrl="https://tophat.top/atom.xml" htmlUrl="https://tophat.top/" description="笔记与摘要"/>
