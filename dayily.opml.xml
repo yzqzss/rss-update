@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Mon, 06 Dec 2021 12:30:02</dateCreated>
+    <dateCreated>Tue, 07 Dec 2021 12:30:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -875,6 +875,7 @@
       <outline text="MakeItClear" type="rss" xmlUrl="https://mkitclear.github.io/atom.xml" htmlUrl="https://mkitclear.github.io/" description="我不知将去向何方，但我已在路上。"/>
       <outline text="Marwin's Blog" type="rss" xmlUrl="https://marwin.cn/rss2.xml" htmlUrl="https://marwincn.github.io/" description=""/>
       <outline text="mcfx's blog" type="rss" xmlUrl="https://mcfx.us/feed/" htmlUrl="https://mcfx.us/" description="题解、Writeup、游记和碎碎念"/>
+      <outline text="MCOO猫叔" type="rss" xmlUrl="http://mcoo.cc/feed/" htmlUrl="http://mcoo.cc/" description="猫叔日常吐槽，偶尔分享代码。"/>
       <outline text="Phoenix Rain" type="rss" xmlUrl="https://blog.lhp-pku.top/atom.xml" htmlUrl="https://phoenixrain-pku.github.io/" description=""/>
       <outline text="Posts on Godot's Blog" type="rss" xmlUrl="https://iamgodot.com/posts/index.xml" htmlUrl="https://iamgodot.com/posts/" description="Recent content in Posts on Godot's Blog"/>
       <outline text="Posts on Olist.213" type="rss" xmlUrl="https://olist213.github.io/posts/index.xml" htmlUrl="https://olist213.github.io/posts/" description="Recent content in Posts on Olist.213"/>
@@ -972,7 +973,7 @@
       <outline text="Marsvet's Blog" type="rss" xmlUrl="https://marsvet.top/atom.xml" htmlUrl="https://marsvet.top/" description="Where there's a start, there's a finish."/>
       <outline text="MOCEHU的博客" type="rss" xmlUrl="https://mocehu.top/atom.xml" htmlUrl="https://mocehu.top/" description="又是哪个小可爱记住了这个网站？"/>
       <outline text="MrToyy's Blog – 探赜索隐 勾深致远 厚德博学 经济匡时" type="rss" xmlUrl="http://www.mrtoyy.com/index.php/feed/" htmlUrl="http://www.mrtoyy.com/" description=""/>
-      <outline text="Oasis's Blog" type="rss" xmlUrl="https://blog.imoasis.cn/feed" htmlUrl="https://blog.imoasis.cn" description="Just So So ..."/>
+      <outline text="Oasis's Blog" type="rss" xmlUrl="https://blog.imoasis.cn/feed" htmlUrl="https://blog.imoasis.cn" description="My personal blog powered by Typecho &amp; Oasis Server"/>
       <outline text="typeblog" type="rss" xmlUrl="https://typeblog.net/rss/" htmlUrl="https://typeblog.net/" description=""/>
       <outline text="YDLAN'S BLOG" type="rss" xmlUrl="https://blog.ydlan.cn/atom.xml" htmlUrl="https://blog.ydlan.cn/" description="一起来探索吧！"/>
       <outline text="Zeove'blog" type="rss" xmlUrl="https://zeove.com/feed" htmlUrl="https://zeove.com/" description="偶尔写写博客，吐槽下生活，分享点自己觉得有意思的东西。"/>
