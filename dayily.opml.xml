@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Wed, 15 Dec 2021 12:30:02</dateCreated>
+    <dateCreated>Thu, 16 Dec 2021 12:30:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -292,7 +292,7 @@
       <outline text="Shiau" type="rss" xmlUrl="https://shiau.xyz/atom.xml" htmlUrl="http://shiau.xyz/" description=""/>
       <outline text="shingle's blog" type="rss" xmlUrl="https://shingle.me/index.xml" htmlUrl="https://shingle.me/" description="Recent content on shingle's blog"/>
       <outline text="ShrekShao" type="rss" xmlUrl="http://shrekshao.github.io/feed.xml" htmlUrl="http://shrekshao.github.io" description="ShrekShao's Blog"/>
-      <outline text="Shuo" type="rss" xmlUrl="https://wushuo.ink//atom.xml" htmlUrl="https://wushuo.ink/" description="我的故事写不进作文"/>
+      <outline text="Shuo" type="rss" xmlUrl="https://wushuo.me/atom.xml" htmlUrl="https://wushuo.me/" description="我的故事写不进作文"/>
       <outline text="shwei's blog" type="rss" xmlUrl="http://weisenhui.top/atom.xml" htmlUrl="http://weisenhui.top/" description="Stay Hungry"/>
       <outline text="SKYue's Home" type="rss" xmlUrl="https://www.skyue.com/feed/" htmlUrl="https://www.skyue.com/" description=""/>
       <outline text="Skywind Inside" type="rss" xmlUrl="http://www.skywind.me/blog/feed" htmlUrl="http://www.skywind.me/blog" description="写自己的代码，让别人猜去吧"/>
@@ -922,6 +922,7 @@
       <outline text="王志勇-和平海底" type="rss" xmlUrl="http://www.auiou.com/feed/" htmlUrl="http://www.auiou.com/" description="和平海底"/>
       <outline text="网络热度" type="rss" xmlUrl="https://www.packetmania.net/atom.xml" htmlUrl="https://www.packetmania.net/" description="技术 新知 共享"/>
       <outline text="胡子博客" type="rss" xmlUrl="https://huzizi.com/feed/" htmlUrl="https://huzizi.com/" description=""/>
+      <outline text="西乔的九卦" type="rss" xmlUrl="http://blog.xiqiao.info/feed/" htmlUrl="http://blog.xiqiao.info/" description="你会成为你想要成为的样子"/>
       <outline text="贾跃华" type="rss" xmlUrl="https://www.jiayuehua.com/feed.xml" htmlUrl="https://www.jiayuehua.com/" description="大船必能远航！"/>
       <outline text="非学·派" type="rss" xmlUrl="https://fxpai.com/feed/" htmlUrl="https://fxpai.com/" description="不与偏见和痼习为伍"/>
       <outline text="非理勿试" type="rss" xmlUrl="https://www.ntiy.com/feed" htmlUrl="https://www.ntiy.com/" description="NEVER TRY IT YOURSELF"/>
