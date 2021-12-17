@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Thu, 16 Dec 2021 12:30:02</dateCreated>
+    <dateCreated>Fri, 17 Dec 2021 12:30:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -883,6 +883,7 @@
       <outline text="Ric's Blog-李冲的个人博客" type="rss" xmlUrl="https://www.lichong.work/atom.xml" htmlUrl="https://www.lichong.work/" description="Talk less, think more, do more."/>
       <outline text="Shall We Code?" type="rss" xmlUrl="https://www.waynerv.com/rss.xml" htmlUrl="https://www.waynerv.com/" description="分享后端工作中的所思所得，涉及的领域包括但不限于：Python, Go, Linux, Kubernetes, Container, Git, Github 等"/>
       <outline text="siwei.io" type="rss" xmlUrl="https://siwei.io/index.xml" htmlUrl="https://siwei.io/" description="Siwei(思为) builds things and believes in Open Source."/>
+      <outline text="TomBen’s Blog" type="rss" xmlUrl="https://blog.retompi.com/index.xml" htmlUrl="https://blog.retompi.com/" description="Recent content on TomBen’s Blog"/>
       <outline text="White Space" type="rss" xmlUrl="https://whites.space/feed" htmlUrl="https://whites.space/" description="&quot;A Blog and Site about CLU thoughts and recording my experience that worth to share."/>
       <outline text="whyes 的博客" type="rss" xmlUrl="https://whyes.org/feed.xml" htmlUrl="https://whyes.org/" description="Pocket, Read &amp; Liver cancer"/>
       <outline text="Xudong's Blog" type="rss" xmlUrl="https://adores.cc/atom.xml" htmlUrl="https://adores.cc/" description=""/>
