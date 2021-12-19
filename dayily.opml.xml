@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Sat, 18 Dec 2021 12:30:03</dateCreated>
+    <dateCreated>Sun, 19 Dec 2021 12:30:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -239,6 +239,7 @@
       <outline text="not LSD" type="rss" xmlUrl="https://notlsd.github.io/atom.xml" htmlUrl="https://notlsd.github.io" description=""/>
       <outline text="Nuclear'Atk（核攻击）网络安全实验室" type="rss" xmlUrl="https://lcx.cc/index.xml" htmlUrl="https://lcx.cc/" description="Recent content on Nuclear'Atk（核攻击）网络安全实验室"/>
       <outline text="O3noBLOG" type="rss" xmlUrl="http://feeds.feedburner.com/othree" htmlUrl="https://blog.othree.net" description=""/>
+      <outline text="Oasis's Blog" type="rss" xmlUrl="https://www.imoasis.cn/feed" htmlUrl="https://www.imoasis.cn/" description="Just So So ..."/>
       <outline text="Ojhdt's Blog" type="rss" xmlUrl="https://blog.ojhdt.com/atom.xml" htmlUrl="https://blog.ojhdt.com/" description="Ojhdt's Blog"/>
       <outline text="oldj's blog" type="rss" xmlUrl="https://oldj.net/feed" htmlUrl="https://oldj.net" description="老杰的博客"/>
       <outline text="OneV's Den" type="rss" xmlUrl="https://onevcat.com/feed.xml" htmlUrl="https://onevcat.com/#blog" description="上善若水，人淡如菊。这里是王巍 (onevcat) 的博客，用来记录一些技术和想法，主要专注于 Swift 和 iOS 开发。"/>
@@ -673,7 +674,7 @@
       <outline text="见字如面" type="rss" xmlUrl="https://hiwannz.com/feed" htmlUrl="https://hiwannz.com" description="抽离自我，冷眼旁观"/>
       <outline text="读书马上" type="rss" xmlUrl="http://www.dushumashang.com/feed" htmlUrl="https://www.dushumashang.com/" description="互联网上的长阅读"/>
       <outline text="读写错误" type="rss" xmlUrl="https://ioerr.github.io/index.xml" htmlUrl="https://ioerr.github.io/" description="Recent content on 读写错误"/>
-      <outline text="读来依然摄影博客" type="rss" xmlUrl="https://wind.ink/feed/" htmlUrl="http://yir.me/" description="活着，思考，追求，体验，分享，自由"/>
+      <outline text="读来依然摄影博客" type="rss" xmlUrl="https://wind.ink/feed" htmlUrl="http://yir.me/" description="活着，思考，追求，体验，分享，自由"/>
       <outline text="谢乾坤|青南" type="rss" xmlUrl="https://www.kingname.info/atom.xml" htmlUrl="https://www.kingname.info/" description="给时光以生命。"/>
       <outline text="谢益辉" type="rss" xmlUrl="https://yihui.org/cn/index.xml" htmlUrl="https://yihui.name/cn/" description="Recent content in 日志 on Yihui Xie | 谢益辉"/>
       <outline text="豆腐蒸锅" type="rss" xmlUrl="https://tntofu.com/feed/" htmlUrl="https://tntofu.com/" description="三硝基豆腐的博客"/>
@@ -975,7 +976,6 @@
       <outline text="Marsvet's Blog" type="rss" xmlUrl="https://marsvet.top/atom.xml" htmlUrl="https://marsvet.top/" description="Where there's a start, there's a finish."/>
       <outline text="MOCEHU的博客" type="rss" xmlUrl="https://mocehu.top/atom.xml" htmlUrl="https://mocehu.top/" description="又是哪个小可爱记住了这个网站？"/>
       <outline text="MrToyy's Blog – 探赜索隐 勾深致远 厚德博学 经济匡时" type="rss" xmlUrl="http://www.mrtoyy.com/index.php/feed/" htmlUrl="http://www.mrtoyy.com/" description=""/>
-      <outline text="Oasis's Blog" type="rss" xmlUrl="https://www.imoasis.cn/feed" htmlUrl="https://www.imoasis.cn/" description="Just So So ..."/>
       <outline text="typeblog" type="rss" xmlUrl="https://typeblog.net/rss/" htmlUrl="https://typeblog.net/" description=""/>
       <outline text="YDLAN'S BLOG" type="rss" xmlUrl="https://blog.ydlan.cn/atom.xml" htmlUrl="https://blog.ydlan.cn/" description="一起来探索吧！"/>
       <outline text="Zeove'blog" type="rss" xmlUrl="https://zeove.com/feed" htmlUrl="https://zeove.com/" description="偶尔写写博客，吐槽下生活，分享点自己觉得有意思的东西。"/>
