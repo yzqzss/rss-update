@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Mon, 20 Dec 2021 12:31:01</dateCreated>
+    <dateCreated>Tue, 21 Dec 2021 12:30:03</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -333,7 +333,7 @@
       <outline text="Vivaxy's blog" type="rss" xmlUrl="https://vivaxyblog.github.io/atom.xml" htmlUrl="https://vivaxyblog.github.io" description=""/>
       <outline text="vzard's blog" type="rss" xmlUrl="https://blog.vzard.cn/atom.xml" htmlUrl="https://vzardlloo.github.io" description="just do it"/>
       <outline text="W4J1e's blog" type="rss" xmlUrl="https://hin.cool/atom.xml" htmlUrl="https://www.hin.cool/" description=""/>
-      <outline text="walterlv" type="rss" xmlUrl="https://blog.walterlv.com/feed.xml" htmlUrl="https://blog.walterlv.com/" description="吕毅，.NET/UWP/WPF/Roslyn/Windows 开发者，微软最有价值专家，Microsoft MVP"/>
+      <outline text="walterlv" type="rss" xmlUrl="https://blog.walterlv.com/feed.xml" htmlUrl="https://blog.walterlv.com/" description="吕毅的博客。.NET/C#/WinUI/MAUI/WPF Windows 应用开发者，微软最有价值专家，Microsoft MVP。"/>
       <outline text="Wangjianshuo's Blog" type="rss" xmlUrl="http://home.wangjianshuo.com/feed" htmlUrl="http://home.wangjianshuo.com/" description="Events (in Shanghai) that affect my life (and others')"/>
       <outline text="webfrogs" type="rss" xmlUrl="https://nswebfrog.com/index.xml" htmlUrl="https://nswebfrog.com/" description="Recent content on nswebfrog"/>
       <outline text="WeepingDogel's Blog" type="rss" xmlUrl="https://weepingdogel.github.io/index.xml" htmlUrl="https://weepingdogel.github.io/" description="Recent content on WeepingDogel's Blog"/>
@@ -674,7 +674,7 @@
       <outline text="见字如面" type="rss" xmlUrl="https://hiwannz.com/feed" htmlUrl="https://hiwannz.com" description="抽离自我，冷眼旁观"/>
       <outline text="读书马上" type="rss" xmlUrl="http://www.dushumashang.com/feed" htmlUrl="https://www.dushumashang.com/" description="互联网上的长阅读"/>
       <outline text="读写错误" type="rss" xmlUrl="https://ioerr.github.io/index.xml" htmlUrl="https://ioerr.github.io/" description="Recent content on 读写错误"/>
-      <outline text="读来依然摄影博客" type="rss" xmlUrl="https://wind.ink/feed" htmlUrl="http://yir.me/" description="活着，思考，追求，体验，分享，自由"/>
+      <outline text="读来依然摄影博客" type="rss" xmlUrl="https://wind.ink/feed" htmlUrl="http://yir.me/" description="活着、思考、追求、体验、自由"/>
       <outline text="谢乾坤|青南" type="rss" xmlUrl="https://www.kingname.info/atom.xml" htmlUrl="https://www.kingname.info/" description="给时光以生命。"/>
       <outline text="谢益辉" type="rss" xmlUrl="https://yihui.org/cn/index.xml" htmlUrl="https://yihui.name/cn/" description="Recent content in 日志 on Yihui Xie | 谢益辉"/>
       <outline text="豆腐蒸锅" type="rss" xmlUrl="https://tntofu.com/feed/" htmlUrl="https://tntofu.com/" description="三硝基豆腐的博客"/>
