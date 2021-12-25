@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Fri, 24 Dec 2021 12:31:01</dateCreated>
+    <dateCreated>Sat, 25 Dec 2021 12:30:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -500,7 +500,7 @@
       <outline text="年华转瞬" type="rss" xmlUrl="https://blog.xiaket.org/feed.xml" htmlUrl="https://blog.xiaket.org" description="夏恺, xiaket, 读书人, Pythonista, DevOps"/>
       <outline text="幸吾有志" type="rss" xmlUrl="https://www.symbk.cn/feed/" htmlUrl="https://www.symbk.cn/" description="志仍在 人依存"/>
       <outline text="幻想世界轻小说" type="rss" xmlUrl="https://book.1meji.com/feed" htmlUrl="https://book.1meji.com/" description="轻阅读"/>
-      <outline text="开源之心" type="rss" xmlUrl="http://sht2019.cn/atom.xml" htmlUrl="http://sht2019.cn/" description="只要你保持心明眼亮，就不致使你落进荒唐。要学会探究，乐于推论，自信而机敏地徜徉。"/>
+      <outline text="开源之心" type="rss" xmlUrl="http://sht2019.cn/atom.xml" htmlUrl="http://sht2019.cn/" description="There's a starman ，Waiting in the sky，He'd like to come and meet us"/>
       <outline text="开源实验室" type="rss" xmlUrl="https://www.kymjs.com/feed.xml" htmlUrl="https://kymjs.com" description="张涛的开源实验室"/>
       <outline text="异国迷宫的十字路口" type="rss" xmlUrl="https://blog.fivezha.cn/atom.xml" htmlUrl="http://blog.fivezha.cn/" description="一位弱鸡带学毕业生的个人博客"/>
       <outline text="弋牧" type="rss" xmlUrl="http://emuia.com/feed" htmlUrl="http://emuia.com/" description=""/>
