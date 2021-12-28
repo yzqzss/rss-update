@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Mon, 27 Dec 2021 12:31:01</dateCreated>
+    <dateCreated>Tue, 28 Dec 2021 12:30:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -791,6 +791,7 @@
       <outline text="八分" type="rss" xmlUrl="https://api.vistopia.com.cn/rss/program/11.xml" htmlUrl="https://shop.vistopia.com.cn/detail?id=4z4Ew" description="「看理想」App，一个陪你成长的知识剧场。&#10;「八分」是由梁文道和看理想团队共同打造的一档全新文化类音频节目。梁文道将和你一起从理想走到现实，重新审视文化现象，社会趋势和热点话题。&#10;欢迎下载「看理想」App和梁文道互动，每集节目中，梁文道会回答一位听众提问。"/>
       <outline text="八百颗栗子" type="rss" xmlUrl="http://800chestnut.com/feed.xml" htmlUrl="http://800chestnut.com/" description=""/>
       <outline text="内核恐慌" type="rss" xmlUrl="https://pan.icu/feed" htmlUrl="https://pan.icu/" description="一档号称硬核却也没什么干货的 IT 技术主题娱乐节目"/>
+      <outline text="再坐坐嘛" type="rss" xmlUrl="http://zaizuozuoma.com/episodes/feed.xml" htmlUrl="http://zaizuozuoma.com/episodes/" description="闲聊泛生活类的话题，文化、娱乐、影视、美食都会聊。多听一会儿，再坐坐嘛。"/>
       <outline text="初学者电台 abecedarian Radio" type="rss" xmlUrl="https://media.rss.com/abecedarian/feed.xml" htmlUrl="http://radio.artbookinchina.com/" description="abC编辑部的音频节目。我们希望帮助你从头开始做一件事，并鼓励大家在任何感兴趣的领域开始实践。&#10;&#10;网站：radio.artbookinchina.com&#10;欢迎听众来信：hi@artbookinchina.com&#10;&#10;微博: abC艺术书展  |  微信公众号: abCofficial"/>
       <outline text="别任性" type="rss" xmlUrl="https://feeds.acast.com/public/shows/bierenxing" htmlUrl="https://www.biede.com/girl-cat/podcast/" description="别任性（Be A Dodo）由性与性别博士Alexwood主持，从性别角度看一切｜wx：别任性BeADodo&lt;br&gt;&lt;hr&gt;&lt;p&gt; See &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://acast.com/privacy&quot;&gt;acast.com/privacy&lt;/a&gt; for privacy and opt-out information.&lt;/p&gt;"/>
       <outline text="博物志" type="rss" xmlUrl="https://bowuzhi.fm/episodes/feed.xml" htmlUrl="https://bowuzhi.fm/" description="广泛地关于博物馆的播客。小黄鱼出品。2019 年苹果最佳节目之一。"/>
@@ -816,6 +817,7 @@
       <outline text="日语日语" type="rss" xmlUrl="https://riyu.io/hibi?format=rss" htmlUrl="https://riyu.io/hibi/" description="一档日语主题的短语音娱乐节目，由网站riyu.io制作播出。我们希望能帮助你发现进而独立体会日语乃至语言的趣味。有任何反馈欢迎发电邮至hi@riyu.io，同时也欢迎收听我们另一档更为严肃的节目：独立日。"/>
       <outline text="星箭廣播" type="rss" xmlUrl="https://podcast.starrocket.io/rss" htmlUrl="https://podcast.starrocket.io/" description="《星箭廣播》關注「科技」和「創新故事」，歡迎你加入主持人 Titan 和 Maxine，以及不定期出現的特別來賓，一起探索科技和創新的邊界。 本節目由三創育成基金會編輯部製作，每週更新。"/>
       <outline text="晚风说" type="rss" xmlUrl="https://podcasts.cosmosrepair.com/rss" htmlUrl="https://podcasts.cosmosrepair.com" description="“晚风说”是《禅与宇宙维修艺术》公众号出品的对话类播客节目。每期记录一场真实的对话，探索一个灵魂，收集一个故事，学习一种新知。有人曾说，历史上最伟大的思想都是通过对话形式产生和被记录的。我们无意成就伟大，只想在这个世界上好好玩耍。希望它对你，常常陪伴，偶尔启发。&#10;你可以在这里找到我们：&#10;播客官网：https://podcasts.cosmosrepair.com/&#10;Telegram 群：https://t.me/cosmosrepair&#10;微信公众号：cosmosrepair&#10;各大声音平台或泛用型播客客户端搜索“禅与宇宙维修艺术”或“晚风说”。"/>
+      <outline text="机核网 GADIO 游戏广播" type="rss" xmlUrl="http://feed.tangsuanradio.com/gadio.xml" htmlUrl="http://feed.tangsuanradio.com/gadio.xml" description="机核网 www.gcores.com"/>
       <outline text="来听呗 | GoPod.FM" type="rss" xmlUrl="https://gopod.fm/index.xml" htmlUrl="https://gopod.fm/about/" description="来听呗 | GoPod.FM 是一档 “我来讲，你来听” 的播客节目，在这里有你爱听的内容，肯定也有你没必要听的内容。你不小心遇到了那你就跳过就好了。欢迎你给我留言或发邮件，hi@gopod.fm"/>
       <outline text="枫言枫语" type="rss" xmlUrl="https://justinyan.me/feed/podcast" htmlUrl="https://justinyan.me/" description="听见科技与人文的声音。这是一档由开发者 @枫影JustinYan 和 设计师 @自力hzlzh 主持的播客节目(由官方 RSS 同步)。"/>
       <outline text="模糊地带" type="rss" xmlUrl="https://mohudidai.com/episodes/feed.xml" htmlUrl="https://mohudidai.com" description="你好，我是​Brook。放录音机在身上，记录有感触的时刻，捕捉和人的连接。孤单的时候，重新点开，一边听，一边获得一些陪伴​。​"/>
