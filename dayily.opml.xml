@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Tue, 04 Jan 2022 12:31:02</dateCreated>
+    <dateCreated>Wed, 05 Jan 2022 12:31:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -884,7 +884,7 @@
       <outline text="Phoenix Rain" type="rss" xmlUrl="https://blog.lhp-pku.top/atom.xml" htmlUrl="https://phoenixrain-pku.github.io/" description=""/>
       <outline text="Posts on Godot's Blog" type="rss" xmlUrl="https://iamgodot.com/posts/index.xml" htmlUrl="https://iamgodot.com/posts/" description="Recent content in Posts on Godot's Blog"/>
       <outline text="Posts on Olist.213" type="rss" xmlUrl="https://olist213.github.io/posts/index.xml" htmlUrl="https://olist213.github.io/posts/" description="Recent content in Posts on Olist.213"/>
-      <outline text="Ric's Blog-李冲的个人博客" type="rss" xmlUrl="https://www.lichong.work/atom.xml" htmlUrl="https://www.lichong.work/" description="Talk less, think more, do more."/>
+      <outline text="Ric's Blog-李冲的个人博客" type="rss" xmlUrl="https://www.lichong.work/atom.xml" htmlUrl="https://www.lichong.work/" description="公众号 Fun肆编程"/>
       <outline text="Shall We Code?" type="rss" xmlUrl="https://www.waynerv.com/rss.xml" htmlUrl="https://www.waynerv.com/" description="分享后端工作中的所思所得，涉及的领域包括但不限于：Python, Go, Linux, Kubernetes, Container, Git, Github 等"/>
       <outline text="siwei.io" type="rss" xmlUrl="https://siwei.io/index.xml" htmlUrl="https://siwei.io/" description="Siwei(思为) builds things and believes in Open Source."/>
       <outline text="tifan.net" type="rss" xmlUrl="https://tifan.net/atom.xml" htmlUrl="https://tifan.net/" description=""/>
@@ -912,6 +912,7 @@
       <outline text="喵's StackHarbor" type="rss" xmlUrl="https://sh.alynx.one/atom.xml" htmlUrl="https://sh.alynx.one/" description="Whisper to the World"/>
       <outline text="大大的小蜗牛" type="rss" xmlUrl="https://eallion.com/atom.xml" htmlUrl="https://eallion.com/" description="机会总是垂青于有准备的人"/>
       <outline text="大黄老鼠的番茄酱" type="rss" xmlUrl="https://blog.pikachu.net.cn/atom.xml" htmlUrl="https://blog.pikachu.net.cn/" description="我以前没得选择，现在我想做一个好人。——阿明"/>
+      <outline text="奶冰の冷藏室" type="rss" xmlUrl="https://milkice.me/feed/" htmlUrl="https://milkice.me/" description="Maybe a way to explore the world?"/>
       <outline text="妙镜" type="rss" xmlUrl="https://www.cxumol.com/index.xml" htmlUrl="https://www.cxumol.com/" description="Recent content on 妙镜"/>
       <outline text="学无止境@一点一滴" type="rss" xmlUrl="http://gtdstudy.com/index.xml" htmlUrl="http://yibie.github.io/" description="Recent content on 学无止境@一点一滴"/>
       <outline text="宝硕博客" type="rss" xmlUrl="https://blog.baoshuo.ren/atom.xml" htmlUrl="https://blog.baoshuo.ren/" description=""/>
