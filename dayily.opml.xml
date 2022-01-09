@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Sat, 08 Jan 2022 12:31:01</dateCreated>
+    <dateCreated>Sun, 09 Jan 2022 12:31:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -801,6 +801,7 @@
       <outline text="山顶洞人" type="rss" xmlUrl="https://adhk.me/episodes/feed.xml" htmlUrl="https://adhk.me/" description="在最有趣的大脑钻洞，每集拜訪一個多洞症患者，或者，把播客自己作成腦洞：）"/>
       <outline text="已知未知 Known Unknowns" type="rss" xmlUrl="https://kukfm.com/rss" htmlUrl="https://kukfm.com/" description="已知未知是一档聚焦生活、科技与职业的非定期更新播客。信息过载的时代，我们从已知探索未知。"/>
       <outline text="幸福猫Podcast" type="rss" xmlUrl="https://anchor.fm/s/2ad39814/podcast/rss" htmlUrl="https://anchor.fm/happycatpodcast" description="嗨你好，欢迎收听幸福猫podcast，我是鱼晨。这是一档讲述华人旅德生活的节目。&#10; 主页：happycat.cc"/>
+      <outline text="忽左忽右" type="rss" xmlUrl="https://justpodmedia.com/rss/left-right.xml" htmlUrl="https://justpodmedia.com/" description="「忽左忽右」是一档文化沙龙类播客节目，试图为中文播客听众提供基于经验视角的话题和内容。本节目由JustPod出品。曾荣获苹果播客2019年度最佳播客。"/>
       <outline text="所建所闻" type="rss" xmlUrl="https://www.architalk.xyz/rss" htmlUrl="https://www.architalk.xyz/" description="「所建所闻」是一档呈现建筑师在思考什么、建造什么的播客节目，尝试以专业的视角来讨论周围的建成环境。&#10;我们不仅会聊建筑和建筑师，也会讨论与之相关的城市、历史、科技、和艺术。&#10;希望通过分享我们的所见所闻，让听众有更多的视角重新认识你所生活的地方，在熟悉的建筑和城市中获得更加丰富的体验。&#10;我们的网站是architalk.xyz，推荐使用泛用型播客客户端订阅收听。&#10;主播：&#10;璟璐、慧珊&#10;邮箱：hi@architalk.xyz&#10;新浪微博：所建所闻 (https://m.weibo.cn/profile/6895347942)&#10;Twitter：ArchiTalkXYZ (https://twitter.com/ArchiTalkXYZ)&#10;Instagram：architalk.xyz (https://www.instagram.com/architalk.xyz/)"/>
       <outline text="执异" type="rss" xmlUrl="https://zhiyi.life/episodes/feed.xml" htmlUrl="https://zhiyi.life/" description="《执异》是阿默和昆弟一起主持的一档播客节目，我们讨论所有让我们感兴趣的事物。"/>
       <outline text="折尔根播客" type="rss" xmlUrl="http://zheergen.club/episodes/feed.xml" htmlUrl="http://zheergen.club/episodes/" description="这是一档较为走心的陪伴型播客，尔是偶尔的尔，不是耳朵的耳。&#10;&#10;我的朋友们和我在这里一起聊天，对生活中的方方面面产生思想的碰撞，留下语音的记录。  &#10;我们不传道，不授业，不解惑，不限主题，没有重点，一切皆可聊。&#10;&#10;我们的愿望，是成为你生活的背景音。&#10;&#10;官网：http://zheergen.club/  &#10;微博：@折尔根播客&#10;Twitter：@zegpod  &#10;Email: hi@zheergen.club  &#10;&#10;欢迎在以上的各个社交网络平台给我们提出意见，建议和反馈，也可以直接发送电子邮件。"/>
@@ -819,6 +820,7 @@
       <outline text="枫言枫语" type="rss" xmlUrl="https://justinyan.me/feed/podcast" htmlUrl="https://justinyan.me/" description="听见科技与人文的声音。这是一档由开发者 @枫影JustinYan 和 设计师 @自力hzlzh 主持的播客节目(由官方 RSS 同步)。"/>
       <outline text="模糊地带" type="rss" xmlUrl="https://mohudidai.com/episodes/feed.xml" htmlUrl="https://mohudidai.com" description="你好，我是​Brook。放录音机在身上，记录有感触的时刻，捕捉和人的连接。孤单的时候，重新点开，一边听，一边获得一些陪伴​。​"/>
       <outline text="比特新声" type="rss" xmlUrl="https://bitvoice.banlan.show/episodes/feed.xml" htmlUrl="https://bitvoice.banlan.show/" description="郝海龙和有才主持的中文科技类播客。在节目中，我们会尽量避免不加解释地使用过于抽象的科技术语，力争让每一个有独立思考能力的人听懂我们的节目。我们坚信凡实验性的东西都有一种独特的魅力，好奇心是第一生产力，同时希望用不同的观点去描述我们所处的时代。"/>
+      <outline text="没理想编辑部" type="rss" xmlUrl="https://api.vistopia.com.cn/rss/program/116.xml" htmlUrl="https://api.vistopia.com.cn/rss/program/116.xml" description="「没理想编辑部」是由「看理想」新媒体部出品的谈话类生活文化播客，a.k.a编辑们的午饭闲聊精选集，欢迎入座。每两周日更新一集。&#10;欢迎下载「看理想」App留言互动，更多精彩内容请搜索微信公众号或微博 @看理想。"/>
       <outline text="洋泾浜" type="rss" xmlUrl="https://www.yangjingbang.fm/?format=rss" htmlUrl="https://yangjingbang.fm/" description="我是洋泾浜，请侬大声笑。"/>
       <outline text="津津乐道" type="rss" xmlUrl="https://feeds.daopub.com/all.xml" htmlUrl="https://dao.fm/" description="各领域达人联手制作的多档高质量播客，分享经验、传播体验。每周日早八点，我们一起用耳朵体验世界"/>
       <outline text="流动人口 Stray Population" type="rss" xmlUrl="https://podcast.cscript.site/podcast.xml" htmlUrl="https://podcast.cscript.site/" description="【流动人口 Stray Population】是由程序员发起的一档音频播客，我们关注科技，游戏等任何引发思考的议题。请关注同名微信号，这样不仅可以体验最佳音频质量的内容。也可以和主播即时参与内容讨论。"/>
@@ -837,6 +839,7 @@
       <outline text="设计药电" type="rss" xmlUrl="http://gdn.design/rss" htmlUrl="http://gdn.design/" description="「设计药电」是档从商业全局角度来讨论设计的电台节目。两位创始人设计师高立、小彦来自腾讯互动娱乐创意设计部 TGideas团队。电台内容面向市场营销设计师、互联网设计师、创意人、设计内容创作者，现旗下有三档子节目。&#10;1.「设计微颗粒」设计新闻节目，通过热点新闻、爆款案例、科技动向分析构建设计全局观。&#10;2.「设计交流电」项目对谈节目，邀创意人、导演、视觉设计师等项目参与者，讲述项目实践背后的设计驱动力。&#10;3.「设计蛋白粉」观点探讨节目，针对设计趋势观点，从辩证的讨论中建立商业化的设计逻辑。&#10;欢迎大家通过微信公众号”设计药电“留言给我们或者说说你想听的内容。&#10;."/>
       <outline text="财新Morning Call" type="rss" xmlUrl="https://other.caixin.com/itunes/101523091.xml" htmlUrl="http://fm.caixin.com/m/cxmorningcall/index.html" description="Morning Call，唤醒你的财经早餐。&#10;这里是一档面向投资者的早间播客节目。每个交易日早上7：30，为你一网打尽重要投资信息：&#10;大局势——政策动向、宏观趋势，开门见山市场最关心的大事件&#10;大数据——重要数据划重点，解码其中变化&#10;大公司——最受关注的公司动态，独家、独到、专业&#10;大盘——A股美股日日评&#10;大家说——名家犀利观点，市场大势大事，见解再多一分&#10;大小身边事——大事小事身边事，除了市场消息，还能听到更多&#10;&#10;主播张鸿：&#10;财经媒体人&#10;先后供职于新华社，中央电视台等专业新闻媒体&#10;曾参与创办CCTV-2早间资讯栏目《第一时间》、《今日观察》等节目&#10;以记者、主持、栏目策划、主编、评论员等多种方式为人民服务"/>
       <outline text="路书" type="rss" xmlUrl="https://lushu88.com/rss" htmlUrl="https://lushu88.com/" description="行万里路，读万卷书。《路书》是一档讨论艺术和历史的播客节目。我们追求一种行知合一的学习体验，行路，读书，知其然，更知其所以然。&#10;《路书》网站：&lt;a href=&quot;http://lushu88.com/&quot;&gt;lushu88.com&lt;/a&gt;&#10;《路书》知乎专栏：&lt;a href=&quot;https://zhuanlan.zhihu.com/lushu88&quot;&gt;https://zhuanlan.zhihu.com/lushu88&lt;/a&gt;&#10;《路书》电子邮箱：&lt;a href=&quot;mailto:lushu8888@outlook.com&quot;&gt;lushu8888@outlook.com&lt;/a&gt;&#10;《路书》微信公众号：艺术路书&#10;《路书》播客的订阅方式: 苹果手机用户可以在系统自带的播客应用中搜索“路书”订阅；安卓用户可以在第三方平台：喜马拉雅，网易云音乐或荔枝FM上搜索“艺术路书”订阅。或者在自己常用的播客应用中搜索“路书”订阅。 ​​​​&#10;路书会员计划内容详见: &lt;a href=&quot;http://lushu88.com/member&quot;&gt;lushu88.com/member&lt;/a&gt;"/>
+      <outline text="跳岛FM" type="rss" xmlUrl="https://tiaodao.typlog.io/episodes/feed.xml" htmlUrl="https://tiaodao.typlog.io/episodes/" description="跳岛FM（Talking Literature）是一档文学播客，一份可以听的文学杂志。节目每周三更新，由中信出版·大方出品。入选“苹果播客2020年度编辑推荐”。"/>
       <outline text="踏浪寻星广播电台" type="rss" xmlUrl="https://tlxxfm.com/feed/podcast" htmlUrl="https://tlxxfm.com/" description="踏浪寻星社（Tide and Star，TAS Club）希望能在天与海之间，与大家分享天空与海洋的梦想故事。"/>
       <outline text="迟早更新" type="rss" xmlUrl="https://podcast.weareones.com/feed.xml" htmlUrl="https://podcast.weareones.com/" description="一档探讨科技、商业、设计和生活之间混沌关系的播客节目"/>
       <outline text="迷于星际" type="rss" xmlUrl="https://trekin.space/feed.xml" htmlUrl="https://trekin.space/" description="以星际迷航为主题的聊天节目。"/>
