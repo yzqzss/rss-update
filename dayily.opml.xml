@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Mon, 10 Jan 2022 12:31:02</dateCreated>
+    <dateCreated>Tue, 11 Jan 2022 12:30:03</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -830,6 +830,7 @@
       <outline text="熊言熊语" type="rss" xmlUrl="https://podcast.kaopubear.top/episodes/feed.xml" htmlUrl="https://podcast.kaopubear.top/" description="「熊言熊语」是一档关注学习分享和知识科普的播客栏目，我们希望用声音记录改变与成长。思考问题的熊和他的朋友们一起聊学习工作、聊科研科普。"/>
       <outline text="牛油果烤面包" type="rss" xmlUrl="https://avocadotoast.typlog.io/episodes/feed.xml" htmlUrl="https://avocadotoast.live/" description="听硅谷从业人员谈论科技趋势和其他有趣的话题"/>
       <outline text="生产力维基" type="rss" xmlUrl="https://productivity.wiki/feed/podcast" htmlUrl="https://productivity.wiki" description="一个关注时间管理、知识管理、目标管理、项目管理、精力管理和个人效能的播客. 欢迎一同讨论生产力工具的心得！"/>
+      <outline text="生活在别处" type="rss" xmlUrl="https://feeds.fireside.fm/life-is-elsewhere/rss" htmlUrl="https://life-is-elsewhere.com/" description="欢迎光临“生活在别处”，我是主播响响。“生活在别处”，是一档 和嘉宾们一起探索打卡上班之外另一种人生体验 的聊天节目，内容与嘉宾的日常执迷的爱好高度相关，涉及且不限于，文学、电影、博物、绘画等等。如果你感兴趣，可以在Apple podcast, Spotify以及其他泛用性播客和官网 life-is-elsewhere.com 收听和订阅本节目。"/>
       <outline text="疯投圈" type="rss" xmlUrl="https://crazy.capital/feed" htmlUrl="https://crazy.capital/" description="做中文世界最有意思的商业类播客"/>
       <outline text="看理想电台" type="rss" xmlUrl="https://api.vistopia.com.cn/rss/program/13.xml" htmlUrl="https://api.vistopia.com.cn/rss/program/13.xml" description="「看理想」App，一个陪你成长的知识剧场。&#10;看理想电台，由看理想出品，入选“2019 Apple 最佳播客”。每周四更新，不一定有用的电台杂志。&#10;欢迎下载「看理想」App留言互动。"/>
       <outline text="硬影像" type="rss" xmlUrl="https://hardimage.pro/episodes/feed.xml" htmlUrl="https://hardimage.pro/" description="《硬影像》由 IPN 出品，由罗登主持，是一个关注影像之一切的播客。谈论影像背后的技术，历史和哲理。"/>
@@ -840,6 +841,7 @@
       <outline text="艺术有读" type="rss" xmlUrl="https://artispoison.com/rss" htmlUrl="https://artispoison.com/" description="由两位不务正业的艺术圈人士主持的读书跑题节目官方微博：艺术有读微信公号：艺术有读 artispoison联系邮箱：yishuyoudu@gmail.com&lt;br&gt;&lt;hr&gt;&lt;p&gt; See &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://acast.com/privacy&quot;&gt;acast.com/privacy&lt;/a&gt; for privacy and opt-out information.&lt;/p&gt;"/>
       <outline text="设计药电" type="rss" xmlUrl="http://gdn.design/rss" htmlUrl="http://gdn.design/" description="「设计药电」是档从商业全局角度来讨论设计的电台节目。两位创始人设计师高立、小彦来自腾讯互动娱乐创意设计部 TGideas团队。电台内容面向市场营销设计师、互联网设计师、创意人、设计内容创作者，现旗下有三档子节目。&#10;1.「设计微颗粒」设计新闻节目，通过热点新闻、爆款案例、科技动向分析构建设计全局观。&#10;2.「设计交流电」项目对谈节目，邀创意人、导演、视觉设计师等项目参与者，讲述项目实践背后的设计驱动力。&#10;3.「设计蛋白粉」观点探讨节目，针对设计趋势观点，从辩证的讨论中建立商业化的设计逻辑。&#10;欢迎大家通过微信公众号”设计药电“留言给我们或者说说你想听的内容。&#10;."/>
       <outline text="财新Morning Call" type="rss" xmlUrl="https://other.caixin.com/itunes/101523091.xml" htmlUrl="http://fm.caixin.com/m/cxmorningcall/index.html" description="Morning Call，唤醒你的财经早餐。&#10;这里是一档面向投资者的早间播客节目。每个交易日早上7：30，为你一网打尽重要投资信息：&#10;大局势——政策动向、宏观趋势，开门见山市场最关心的大事件&#10;大数据——重要数据划重点，解码其中变化&#10;大公司——最受关注的公司动态，独家、独到、专业&#10;大盘——A股美股日日评&#10;大家说——名家犀利观点，市场大势大事，见解再多一分&#10;大小身边事——大事小事身边事，除了市场消息，还能听到更多&#10;&#10;主播张鸿：&#10;财经媒体人&#10;先后供职于新华社，中央电视台等专业新闻媒体&#10;曾参与创办CCTV-2早间资讯栏目《第一时间》、《今日观察》等节目&#10;以记者、主持、栏目策划、主编、评论员等多种方式为人民服务"/>
+      <outline text="越烤越糊" type="rss" xmlUrl="https://overcooked.typlog.io/feed.xml" htmlUrl="https://overcooked.typlog.io/" description="欢迎品尝由“主厨”贾汀糊 (虎头) 和烤芬 (烤芬) 精心准备的「越烤越糊」，我们致力于把各种当代艺术文化、社会议题与文化理论乱炖一通，加热一下，注意火候。"/>
       <outline text="路书" type="rss" xmlUrl="https://lushu88.com/rss" htmlUrl="https://lushu88.com/" description="行万里路，读万卷书。《路书》是一档讨论艺术和历史的播客节目。我们追求一种行知合一的学习体验，行路，读书，知其然，更知其所以然。&#10;《路书》网站：&lt;a href=&quot;http://lushu88.com/&quot;&gt;lushu88.com&lt;/a&gt;&#10;《路书》知乎专栏：&lt;a href=&quot;https://zhuanlan.zhihu.com/lushu88&quot;&gt;https://zhuanlan.zhihu.com/lushu88&lt;/a&gt;&#10;《路书》电子邮箱：&lt;a href=&quot;mailto:lushu8888@outlook.com&quot;&gt;lushu8888@outlook.com&lt;/a&gt;&#10;《路书》微信公众号：艺术路书&#10;《路书》播客的订阅方式: 苹果手机用户可以在系统自带的播客应用中搜索“路书”订阅；安卓用户可以在第三方平台：喜马拉雅，网易云音乐或荔枝FM上搜索“艺术路书”订阅。或者在自己常用的播客应用中搜索“路书”订阅。 ​​​​&#10;路书会员计划内容详见: &lt;a href=&quot;http://lushu88.com/member&quot;&gt;lushu88.com/member&lt;/a&gt;"/>
       <outline text="跳岛FM" type="rss" xmlUrl="https://tiaodao.typlog.io/episodes/feed.xml" htmlUrl="https://tiaodao.typlog.io/episodes/" description="跳岛FM（Talking Literature）是一档文学播客，一份可以听的文学杂志。节目每周三更新，由中信出版·大方出品。入选“苹果播客2020年度编辑推荐”。"/>
       <outline text="踏浪寻星广播电台" type="rss" xmlUrl="https://tlxxfm.com/feed/podcast" htmlUrl="https://tlxxfm.com/" description="踏浪寻星社（Tide and Star，TAS Club）希望能在天与海之间，与大家分享天空与海洋的梦想故事。"/>
@@ -871,6 +873,7 @@
       <outline text="Aynxul03 写字的地方" type="rss" xmlUrl="https://ayx.moefox.tech/index.xml" htmlUrl="https://ayx.moefox.tech/" description="Recent content on Aynxul03 写字的地方"/>
       <outline text="BAI YUN" type="rss" xmlUrl="https://baiyun.me/feed" htmlUrl="https://baiyun.me/" description="Share Tech, Life, and Anything!"/>
       <outline text="czp's blog" type="rss" xmlUrl="https://www.hiczp.com/rss.xml" htmlUrl="https://www.hiczp.com/" description="czp's blog"/>
+      <outline text="Damao" type="rss" xmlUrl="https://damao2250.github.io/atom.xml" htmlUrl="http://damao2250.com/" description="乐躬耕于陇亩兮，吾爱吾庐。聊寄傲于琴书兮，以待天时。"/>
       <outline text="Dejavu's Blog" type="rss" xmlUrl="https://www.dejavu.moe/atom.xml" htmlUrl="https://www.dejavu.moe/" description="与君初相见，犹如故人归"/>
       <outline text="DreamCity" type="rss" xmlUrl="https://www.littleqiu.net/atom.xml" htmlUrl="https://www.littleqiu.net/" description="愿你有一天，能与你最重要的人重逢"/>
       <outline text="EdNovas的小站" type="rss" xmlUrl="https://ednovas.xyz/atom.xml" htmlUrl="https://ednovas.xyz/" description=""/>
@@ -910,6 +913,7 @@
       <outline text="ZingLix Blog" type="rss" xmlUrl="https://zinglix.xyz/feed.xml" htmlUrl="https://zinglix.xyz/" description="这里是 ZingLix 的个人博客，与你一起在计算机的世界探索~"/>
       <outline text="[米随随] s5s5" type="rss" xmlUrl="https://s5s5.me/feed" htmlUrl="https://s5s5.me/" description="本站是基于人类交互的，您的想象决定了我们的应用！"/>
       <outline text="一个二货程序员的日常编码" type="rss" xmlUrl="https://itgoyo.github.io/atom.xml" htmlUrl="https://itgoyo.github.io/" description="Talk is cheap,Show me the girl."/>
+      <outline text="一颗小树" type="rss" xmlUrl="https://yeshu.cloud/atom.xml" htmlUrl="https://yeshu.cloud/" description="Product Developer"/>
       <outline text="亦世凡华" type="rss" xmlUrl="https://10888888.xyz/feed.xml" htmlUrl="https://10888888.xyz/" description="不要迷恋哥，哥只是个传说。"/>
       <outline text="代码的那些事" type="rss" xmlUrl="http://www.hustoj.com/?feed=rss2" htmlUrl="http://www.hustoj.com/" description="程序员回忆录"/>
       <outline text="佐仔志" type="rss" xmlUrl="https://www.jinbo123.com/feed" htmlUrl="https://www.jinbo123.com/" description="I try to make it simple!"/>
