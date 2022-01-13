@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Wed, 12 Jan 2022 12:31:01</dateCreated>
+    <dateCreated>Thu, 13 Jan 2022 12:31:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -885,6 +885,7 @@
       <outline text="ice@yaya" type="rss" xmlUrl="https://blog.yaya.pm/feed" htmlUrl="https://blog.yaya.pm/" description="try again, fail better."/>
       <outline text="iMaeGoo's Blog" type="rss" xmlUrl="https://www.imaegoo.com/atom.xml" htmlUrl="https://www.imaegoo.com/" description="虹墨空间站"/>
       <outline text="ipfans's Blog" type="rss" xmlUrl="https://www.4async.com/atom.xml" htmlUrl="https://www.4async.com/" description="Recent content on ipfans's Blog"/>
+      <outline text="Jack.H 's Blog" type="rss" xmlUrl="https://www.jackh.cn/feed" htmlUrl="https://www.jackh.cn/" description="Life is a movie."/>
       <outline text="Labno3" type="rss" xmlUrl="https://www.labno3.com/feed/" htmlUrl="https://www.labno3.com/" description="3号实验室，生命不息，折腾不止"/>
       <outline text="lowinli’s blog" type="rss" xmlUrl="https://lowin.li/atom.xml" htmlUrl="https://lowin.li/" description="from drop to ocean"/>
       <outline text="maemo的风船" type="rss" xmlUrl="https://www.maemo.cc/feed/" htmlUrl="https://www.maemo.cc/" description="maemolee的个人博客，记录我的兴趣和生活。人活一世，总要给这个世界留下点什么。"/>
@@ -963,6 +964,7 @@
       <outline text="纬八路生活随笔集" type="rss" xmlUrl="http://www.weibalu.com/?feed=rss2" htmlUrl="http://www.weibalu.com/" description="不要让生活单调的只剩自己"/>
       <outline text="网络热度" type="rss" xmlUrl="https://www.packetmania.net/atom.xml" htmlUrl="https://www.packetmania.net/" description="技术 新知 共享"/>
       <outline text="胡子博客" type="rss" xmlUrl="https://huzizi.com/feed/" htmlUrl="https://huzizi.com/" description=""/>
+      <outline text="薇拉航线" type="rss" xmlUrl="https://www.zuozuovera.com/feed" htmlUrl="https://www.zuozuovera.com/" description="网络安全/隐私保护/数据驱动安全/杂记"/>
       <outline text="西乔的九卦" type="rss" xmlUrl="http://blog.xiqiao.info/feed/" htmlUrl="http://blog.xiqiao.info/" description="你会成为你想要成为的样子"/>
       <outline text="贾跃华" type="rss" xmlUrl="https://www.jiayuehua.com/feed.xml" htmlUrl="https://www.jiayuehua.com/" description="大船必能远航！"/>
       <outline text="郝海龙" type="rss" xmlUrl="https://haohailong.net/feed.xml" htmlUrl="https://haohailong.net/" description="牢记梦想，自然生长"/>
@@ -1057,7 +1059,7 @@
       <outline text="小钻风的博客" type="rss" xmlUrl="https://zuanfeng.club/index.php/feed/" htmlUrl="https://zuanfeng.club/" description="让思考和读书成为一种生活方式"/>
       <outline text="洛尘曦" type="rss" xmlUrl="https://www.sgyzyun.club/feed/" htmlUrl="https://www.sgyzyun.club/" description="我的学习研究"/>
       <outline text="烟雨寒云" type="rss" xmlUrl="https://www.yyhy.me/feed" htmlUrl="https://www.yyhy.me/" description="一点烟雨，一点寒，风吹过，烟花散"/>
-      <outline text="秋风阁" type="rss" xmlUrl="https://qiufeng.fun/feed/" htmlUrl="http://qiufeng.fun/" description="又一个WordPress站点"/>
+      <outline text="秋风阁" type="rss" xmlUrl="https://qiufeng.fun/feed/" htmlUrl="http://qiufeng.fun/" description="秋风阁-何处秋风至的个人学习小站"/>
       <outline text="笔记" type="rss" xmlUrl="http://acg19.top/atom.xml" htmlUrl="https://steamfinder.github.io/" description=""/>
       <outline text="笔记杂集" type="rss" xmlUrl="https://tophat.top/atom.xml" htmlUrl="https://tophat.top/" description="笔记与摘要"/>
       <outline text="芍芋之家" type="rss" xmlUrl="https://shoyu.top/feed/" htmlUrl="https://shoyu.top/" description="将会在未来装满干货（？"/>
