@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Fri, 21 Jan 2022 12:30:02</dateCreated>
+    <dateCreated>Sat, 22 Jan 2022 12:27:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -460,7 +460,7 @@
       <outline text="囧克斯 勾三股四" type="rss" xmlUrl="https://jiongks.name/atom.xml" htmlUrl="https://jiongks.name" description=""/>
       <outline text="土土哥的技术Blog" type="rss" xmlUrl="http://tutuge.me/atom.xml" htmlUrl="http://tutuge.me/" description="iOS程序猿.目前阿里,喜欢各种技术,RCFans"/>
       <outline text="土木坛子" type="rss" xmlUrl="https://tumutanzi.com/feed" htmlUrl="https://tumutanzi.com/" description="和光同尘，与时舒卷"/>
-      <outline text="城南旧事" type="rss" xmlUrl="https://blog.loli.top/feed" htmlUrl="https://blog.loli.top/" description="透過文字和影像記憶，我們延長了至少三倍的生命。"/>
+      <outline text="城南旧事" type="rss" xmlUrl="https://blog.loli.top/feed/" htmlUrl="https://blog.loli.top/" description="透過文字和影像記憶，我們延長了至少三倍的生命。"/>
       <outline text="基石" type="rss" xmlUrl="https://sci-fic.xyz/feed/" htmlUrl="https://foundation.othing.xyz/" description="基地-银河的边缘"/>
       <outline text="多媒体开发札记" type="rss" xmlUrl="https://glumes.com/index.xml" htmlUrl="https://glumes.com" description="Recent content on 音视频开发进阶"/>
       <outline text="多面體的雹子 polyhedron's blog" type="rss" xmlUrl="https://biopolyhedron.github.io/atom.xml" htmlUrl="https://biopolyhedron.github.io/" description="分子人類學、語言學及各種其它  molecular anthropology, linguistics, etc."/>
