@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Tue, 25 Jan 2022 12:28:01</dateCreated>
+    <dateCreated>Wed, 26 Jan 2022 12:27:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -575,7 +575,7 @@
       <outline text="桃园" type="rss" xmlUrl="https://www.taoweng.site/atom.xml" htmlUrl="http://www.taoweng.site/" description="相信 W3C，遵从黑客文化，相信自己能改变世界"/>
       <outline text="桑弧蓬矢射四方" type="rss" xmlUrl="https://iphyer.github.io/feed.xml" htmlUrl="https://iphyer.github.io/" description="iphyer's Blog Website"/>
       <outline text="桑河一榆" type="rss" xmlUrl="https://justpic.org/index.xml" htmlUrl="https://justpic.org/" description="微服务、Web开发、人工智能"/>
-      <outline text="森木志" type="rss" xmlUrl="https://imxxz.cn/feed/" htmlUrl="https://imxxz.cn/" description=""/>
+      <outline text="森木志" type="rss" xmlUrl="https://www.imxxz.cn/feed/" htmlUrl="https://imxxz.cn/" description=""/>
       <outline text="森纯博客-记录生活和分享知识的个人博客网站" type="rss" xmlUrl="https://isenchun.cn/feed/" htmlUrl="https://isenchun.cn/" description="森纯博客是一个记录生活,分享知识的个人博客。主要记录日常生活的点点滴滴,分享工作和学习上的经验知识,茫茫人海中留下些许足迹。"/>
       <outline text="椒盐小土豆" type="rss" xmlUrl="https://littlepotato.me/feed/" htmlUrl="https://littlepotato.me/" description="个人博客"/>
       <outline text="樵夫的小站" type="rss" xmlUrl="https://geofftools.cn/blog/atom.xml" htmlUrl="https://geofftools.cn/blog/" description="记录一些我碰到的有意思的东西。"/>
@@ -656,7 +656,7 @@
       <outline text="胡言胡语" type="rss" xmlUrl="https://husay.cc/feed" htmlUrl="https://husay.cc/" description="总有那么一些话是胡说的"/>
       <outline text="胸毛齐腰" type="rss" xmlUrl="https://dearxs.github.io/index.xml" htmlUrl="https://dearxs.github.io/" description="Recent content on 胸毛齐腰"/>
       <outline text="臨池不輟" type="rss" xmlUrl="https://keelii.com/atom.xml" htmlUrl="https://keelii.com/" description="Recent content on 臨池不輟"/>
-      <outline text="自由人的 BLOG" type="rss" xmlUrl="https://ifttl.com/feed/" htmlUrl="https://ifttl.com" description="生活记录和只言片语"/>
+      <outline text="自由人的 BLOG" type="rss" xmlUrl="https://ifttl.com/rss/" htmlUrl="https://ifttl.com" description="日常记录和只言片语"/>
       <outline text="致郁系" type="rss" xmlUrl="https://www.juroku.net/feed" htmlUrl="https://www.juroku.net/" description=""/>
       <outline text="苍穹の下" type="rss" xmlUrl="https://www.blueskyxn.com/feed/" htmlUrl="https://www.blueskyxn.com/" description="By BlueSkyXN"/>
       <outline text="范叶亮的博客 - Leo Van's Blog" type="rss" xmlUrl="https://leovan.me/cn/index.xml" htmlUrl="https://leovan.me/" description="Recent content in 中文博客 on Leo Van | 范叶亮"/>
