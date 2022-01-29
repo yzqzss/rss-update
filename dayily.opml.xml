@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Fri, 28 Jan 2022 12:28:02</dateCreated>
+    <dateCreated>Sat, 29 Jan 2022 12:27:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -475,7 +475,7 @@
       <outline text="安志合的学习博客" type="rss" xmlUrl="https://chegva.com/feed/" htmlUrl="https://chegva.com" description="让我们面对现实  让我们忠于理想"/>
       <outline text="宋春林" type="rss" xmlUrl="http://songchunlin.net/cn/feed/" htmlUrl="http://sixf.org/" description=""/>
       <outline text="寒山志" type="rss" xmlUrl="https://baozi.fun/rss.xml" htmlUrl="https://baozi.fun/" description="人生得意须尽欢，莫使金樽空对月"/>
-      <outline text="小A的个人站" type="rss" xmlUrl="https://blog.fasv.top/feed/" htmlUrl="http://blog.fasv.top/" description="原小A的个人站、致力于记录、学习、分享"/>
+      <outline text="小A的个人站" type="rss" xmlUrl="https://blog.lipux.cn//feed/" htmlUrl="http://blog.fasv.top/" description="原小A的个人站、致力于记录、学习、分享"/>
       <outline text="小小孩子们的博客" type="rss" xmlUrl="https://www.xxhzm.cn/feed/" htmlUrl="https://xxhzm.cn/" description="小小孩子们的Blog，记录美好生活"/>
       <outline text="小明明S À DOMICILE" type="rss" xmlUrl="https://www.dongwm.com/atom.xml" htmlUrl="https://www.dongwm.com" description=""/>
       <outline text="小炒肉" type="rss" xmlUrl="https://jicki.cn/index.xml" htmlUrl="https://jicki.cn/" description="小炒肉博客, kubernetes, docker, jicki"/>
@@ -495,7 +495,7 @@
       <outline text="年华转瞬" type="rss" xmlUrl="https://blog.xiaket.org/feed.xml" htmlUrl="https://blog.xiaket.org" description="夏恺, xiaket, 读书人, Pythonista, DevOps"/>
       <outline text="幸吾有志" type="rss" xmlUrl="https://www.symbk.cn/feed/" htmlUrl="https://www.symbk.cn/" description="志仍在 人依存"/>
       <outline text="幻想世界轻小说" type="rss" xmlUrl="https://book.1meji.com/feed" htmlUrl="https://book.1meji.com/" description="轻阅读"/>
-      <outline text="开源之心" type="rss" xmlUrl="http://sht2019.cn/atom.xml" htmlUrl="http://sht2019.cn/" description="There's a starman ，Waiting in the sky，He'd like to come and meet us"/>
+      <outline text="开源之心" type="rss" xmlUrl="http://sht2019.cn/atom.xml" htmlUrl="http://sht2019.cn/" description="我歌赞无上的造物主，它威严的作品教导我万物的真理，引领我的眼睛耳朵走向女神之路。"/>
       <outline text="开源实验室" type="rss" xmlUrl="https://www.kymjs.com/feed.xml" htmlUrl="https://kymjs.com" description="张涛的开源实验室"/>
       <outline text="异国迷宫的十字路口" type="rss" xmlUrl="https://blog.fivezha.cn/atom.xml" htmlUrl="http://blog.fivezha.cn/" description="一位弱鸡带学毕业生的个人博客"/>
       <outline text="弋牧" type="rss" xmlUrl="http://emuia.com/feed" htmlUrl="http://emuia.com/" description=""/>
@@ -528,7 +528,7 @@
       <outline text="故事熊" type="rss" xmlUrl="https://felixxiong.github.io/atom.xml" htmlUrl="https://felixxiong.github.io/" description="情绪泛滥 沉浸其中"/>
       <outline text="数字移民博客" type="rss" xmlUrl="https://blog.shuziyimin.org/feed" htmlUrl="https://blog.shuziyimin.org" description="肉体和精神，总要有一个是自由的。"/>
       <outline text="旁逸斜出" type="rss" xmlUrl="https://www.mihu.live/index.php/feed/" htmlUrl="https://www.mihu.live" description="凡有所学，皆成性格"/>
-      <outline text="旅行漫记" type="rss" xmlUrl="https://synyan.cn/feed" htmlUrl="https://synyan.cn/" description="Travel Journal"/>
+      <outline text="旅行漫记" type="rss" xmlUrl="https://synyan.cn/feed" htmlUrl="https://synyan.cn/" description="Travel Journal."/>
       <outline text="无主题博客" type="rss" xmlUrl="https://wuzhuti.cn/feed" htmlUrl="https://wuzhuti.cn" description="开发技术分享"/>
       <outline text="无名小筑" type="rss" xmlUrl="https://blog.rvvc.im/atom.xml" htmlUrl="https://blog.rvvc.im/" description="ZR's Blog"/>
       <outline text="无妄当自持" type="rss" xmlUrl="https://www.insidentally.com/atom.xml" htmlUrl="https://www.insidentally.com/" description="学习、实践、分享"/>
