@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Sun, 30 Jan 2022 12:27:01</dateCreated>
+    <dateCreated>Mon, 31 Jan 2022 12:28:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -92,7 +92,7 @@
       <outline text="fieldnotes" type="rss" xmlUrl="https://anthropology.fivest.one/feed" htmlUrl="https://anthropology.fivest.one/" description=""/>
       <outline text="fivestone" type="rss" xmlUrl="https://blog.fivest.one/feed" htmlUrl="https://blog.fivest.one/" description=""/>
       <outline text="Fl0w3r" type="rss" xmlUrl="https://www.yousazoe.top/atom.xml" htmlUrl="https://yousazoe.top/" description="carpe diem"/>
-      <outline text="FlyingSky's Blog" type="rss" xmlUrl="https://blog.fsky7.com/feed" htmlUrl="https://blog.fsky7.com/" description="FlyingSky's Blog"/>
+      <outline text="FlyingSky's Blog" type="rss" xmlUrl="https://blog.fsky7.com/feed" htmlUrl="https://blog.fsky7.com/" description="FlyingSky's Blog - 回忆化成一场长的梦 | 飞天 / FlyingSky / @FlyingSky-CN 的个人博客，随便写些东西；技术向，以 Web 全栈相关内容为主；偶尔随笔。"/>
       <outline text="FongSoul" type="rss" xmlUrl="https://fongsoul.com/feed" htmlUrl="https://fongsoul.com/" description="𝑾𝒓𝒊𝒕𝒊𝒏𝒈 𝒇𝒐𝒓 𝒕𝒉𝒆 𝑺𝒐𝒖𝒍. ✎"/>
       <outline text="forecho 的独立博客" type="rss" xmlUrl="https://blog.forecho.com/atom.xml" htmlUrl="https://blog.forecho.com" description="Recent content on forecho's Blog"/>
       <outline text="Frank's Weblog" type="rss" xmlUrl="https://nyan.im/feed" htmlUrl="https://nyan.im/" description=""/>
