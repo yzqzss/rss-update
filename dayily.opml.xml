@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Wed, 02 Feb 2022 12:27:02</dateCreated>
+    <dateCreated>Thu, 03 Feb 2022 12:27:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -718,7 +718,7 @@
       <outline text="隨意編寫的博客" type="rss" xmlUrl="https://www.borisndorothy.com/feed/" htmlUrl="https://www.borisndorothy.com/" description="Boris和Dorothy又說什麼了？"/>
       <outline text="雜渔の被窝" type="rss" xmlUrl="https://zayu.club/feed/" htmlUrl="https://zayu.club/" description="超平和バスターズ！"/>
       <outline text="雨林笔记" type="rss" xmlUrl="https://www.mqllin.cn/feed/" htmlUrl="https://www.mqllin.cn/" description="Typecho简约主题,Typecho响应式主题,Typecho昼夜双色主题,Mozz,Mozz Plus,DarkMode模式,酷Q机器人,个人技术笔记,web前端微信小程序项目代码分享。"/>
-      <outline text="雨落泪尽" type="rss" xmlUrl="https://couqiao.net/feed/" htmlUrl="https://couqiao.net/" description="众人皆醒我独醉"/>
+      <outline text="雨落泪尽" type="rss" xmlUrl="https://couqiao.net/atom.xml" htmlUrl="https://couqiao.net/" description="众人皆醒我独醉"/>
       <outline text="霂森西 | 櫻玲桉" type="rss" xmlUrl="https://musenxi.com/feed/" htmlUrl="https://musenxi.com/" description="是微甜的呀~"/>
       <outline text="青空之蓝" type="rss" xmlUrl="https://blog.ixk.me/rss.xml" htmlUrl="https://blog.ixk.me" description="Hi，欢迎来到Otstar Lin的个人博客，来自福建泉州的菜鸟，博客内容主要以Linux和Web为主，哎呀，实在写不下去了_(:з」∠)_"/>
       <outline text="青箬笠" type="rss" xmlUrl="https://qingruoli.com/feed" htmlUrl="https://qingruoli.com/" description="突然间他无法解释地迷上了这座古都。"/>
