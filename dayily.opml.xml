@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Thu, 03 Feb 2022 12:27:02</dateCreated>
+    <dateCreated>Fri, 04 Feb 2022 12:23:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -547,7 +547,7 @@
       <outline text="智识@IdeoBook™" type="rss" xmlUrl="http://www.ideobook.com/feed/" htmlUrl="http://www.ideobook.com/" description="文章评论 · 读书随笔 · 文化资讯"/>
       <outline text="暗无天日" type="rss" xmlUrl="https://www.lujun9972.win/rss.xml" htmlUrl="https://www.lujun9972.win" description="=============&gt;DarkSun的个人博客"/>
       <outline text="最好金龟换酒" type="rss" xmlUrl="http://fz0512.com/feed" htmlUrl="http://fz0512.com/" description=""/>
-      <outline text="月月月子喵~" type="rss" xmlUrl="https://haozi.moe/atom.xml" htmlUrl="https://haozi.moe/" description="可可爱爱月子喵~"/>
+      <outline text="月月月子喵~" type="rss" xmlUrl="https://haozi.moe/atom.xml" htmlUrl="https://haozi.moe/" description="月子喵的窝 Blog"/>
       <outline text="朝舞" type="rss" xmlUrl="https://ii74.com/feed.php" htmlUrl="https://ii74.com" description="哎哎启示"/>
       <outline text="木先森" type="rss" xmlUrl="https://www.meizg.cn/feed/" htmlUrl="https://www.meizg.cn/" description=""/>
       <outline text="木匣子" type="rss" xmlUrl="https://blog.mutoo.im/atom.xml" htmlUrl="https://mutoo.im" description="Web/Game/Programming/Life etc."/>
@@ -798,7 +798,7 @@
       <outline text="声东击西" type="rss" xmlUrl="https://etw.fm/rss" htmlUrl="https://www.etw.fm/" description="世界宽广，但人们被日常及社交媒体所限制。&#10;那就让作为记者的我们，帮你推开一些意想不到的窗户，触及不一样的信息，激发不一样的思考。&#10;在这里，我们对话各种有趣有料，能带来启发的专业人士，也不定期会有神秘嘉宾出现。&#10;我们也时不时做各种和声音有关的尝试，打开一些新体验。&#10;支持我们，请大家移步 https://etw.fm/donation 。"/>
       <outline text="字谈字畅" type="rss" xmlUrl="https://www.thetype.com/typechat/feed/" htmlUrl="https://www.thetype.com/" description="《字谈字畅》是第一档用华语制作的字体排印主题播客节目，由 Eric Liu 与钱争予搭档主播。The Type 出品。"/>
       <outline text="小人物" type="rss" xmlUrl="https://anobody.im/podcast/rss.xml" htmlUrl="https://anobody.im/" description="一档探索内心、接纳自我、努力变优秀的播客，讲述来自各行各业小人物的工作、思考与生活，不限于欧洲生活、高效工作、海外求职、读书电影、美食旅行。欢迎发邮件到 anobody.fm@gmail.com"/>
-      <outline text="小声喧哗 Loud Murmurs" type="rss" xmlUrl="https://loudmurmursfm.com/feed/audio.xml" htmlUrl="https://loudmurmursfm.com/" description="文化和审美的自觉认同从来都是隐含在创造者对世界的想象中，而这样的想象催生出许多充满偏见的创造动机。这样的创造动机渗透在我们日复一日热爱的欧美电影中，美剧里，渗透在我们对于事物的认知中。今天，我们想要去挑战它。"/>
+      <outline text="小声喧哗 Loud Murmurs" type="rss" xmlUrl="https://loudmurmursfm.typlog.io/feed/audio.xml" htmlUrl="https://loudmurmursfm.com/" description="文化和审美的自觉认同从来都是隐含在创造者对世界的想象中，而这样的想象催生出许多充满偏见的创造动机。这样的创造动机渗透在我们日复一日热爱的欧美电影中，美剧里，渗透在我们对于事物的认知中。今天，我们想要去挑战它。"/>
       <outline text="山顶洞人" type="rss" xmlUrl="https://adhk.me/feed/audio.xml" htmlUrl="https://adhk.me/" description="在最有趣的大脑钻洞，每集拜訪一個多洞症患者，或者，把播客自己作成腦洞：）"/>
       <outline text="已知未知 Known Unknowns" type="rss" xmlUrl="https://kukfm.com/rss" htmlUrl="https://kukfm.com/" description="已知未知是一档聚焦生活、科技与职业的非定期更新播客。信息过载的时代，我们从已知探索未知。"/>
       <outline text="幸福猫Podcast" type="rss" xmlUrl="https://anchor.fm/s/2ad39814/podcast/rss" htmlUrl="https://anchor.fm/happycatpodcast" description="嗨你好，欢迎收听幸福猫podcast，我是鱼晨。这是一档讲述华人旅德生活的节目。&#10; 主页：happycat.cc"/>
@@ -827,7 +827,7 @@
       <outline text="流动人口 Stray Population" type="rss" xmlUrl="https://podcast.cscript.site/podcast.xml" htmlUrl="https://podcast.cscript.site/" description="【流动人口 Stray Population】是由程序员发起的一档音频播客，我们关注科技，游戏等任何引发思考的议题。请关注同名微信号，这样不仅可以体验最佳音频质量的内容。也可以和主播即时参与内容讨论。"/>
       <outline text="海螺电台" type="rss" xmlUrl="https://thespiral.fm/feed/audio.xml" htmlUrl="https://thespiral.fm/" description="「海螺电台」播客是一个记录行动和探索过程的创作计划。"/>
       <outline text="熊言熊语" type="rss" xmlUrl="https://podcast.kaopubear.top/feed/audio.xml" htmlUrl="https://podcast.kaopubear.top/" description="「熊言熊语」是一档关注学习分享和知识科普的播客栏目，我们希望用声音记录改变与成长。思考问题的熊和他的朋友们一起聊学习工作、聊科研科普。"/>
-      <outline text="牛油果烤面包" type="rss" xmlUrl="https://avocadotoast.typlog.io/feed/audio.xml" htmlUrl="https://avocadotoast.live/" description="听硅谷从业人员谈论科技趋势和其他有趣的话题"/>
+      <outline text="牛油果烤面包" type="rss" xmlUrl="https://avocadotoast.typlog.io/feed/audio.xml" htmlUrl="https://avocadotoast.live/" description="聊科技发展趋势，聊各行业来龙去脉，我们坐标硅谷，邀请第一线的资深专家分享给大家听！"/>
       <outline text="生产力维基" type="rss" xmlUrl="https://productivity.wiki/feed/podcast" htmlUrl="https://productivity.wiki" description="一个关注时间管理、知识管理、目标管理、项目管理、精力管理和个人效能的播客. 欢迎一同讨论生产力工具的心得！"/>
       <outline text="生活在别处" type="rss" xmlUrl="https://feeds.fireside.fm/life-is-elsewhere/rss" htmlUrl="https://life-is-elsewhere.com/" description="欢迎光临“生活在别处”，我是主播响响。“生活在别处”，是一档 和嘉宾们一起探索打卡上班之外另一种人生体验 的聊天节目，内容与嘉宾的日常执迷的爱好高度相关，涉及且不限于，文学、电影、博物、绘画等等。如果你感兴趣，可以在Apple podcast, Spotify以及其他泛用性播客和官网 life-is-elsewhere.com 收听和订阅本节目。"/>
       <outline text="疯投圈" type="rss" xmlUrl="https://crazy.capital/feed" htmlUrl="https://crazy.capital/" description="做中文世界最有意思的商业类播客"/>
