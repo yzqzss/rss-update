@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Sun, 06 Feb 2022 12:27:01</dateCreated>
+    <dateCreated>Mon, 07 Feb 2022 12:28:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -523,7 +523,7 @@
       <outline text="扫地老僧的Blog" type="rss" xmlUrl="https://doyj.com/feed/" htmlUrl="https://doyj.com/" description="Laputa - 远方地平线，闪耀着光芒"/>
       <outline text="扯氮集" type="rss" xmlUrl="http://weiwuhui.com/feed" htmlUrl="http://weiwuhui.com/" description="多歧为贵 不取苟同"/>
       <outline text="技术小黑屋" type="rss" xmlUrl="https://droidyue.com/atom.xml" htmlUrl="https://droidyue.com" description=""/>
-      <outline text="把酒诗代码" type="rss" xmlUrl="https://102no.com/atom.xml" htmlUrl="https://102no.com/" description="是谁来自 Python Java, 却囿于 PHP, Go 与 Lua. (句中提及语言,博主一概不会.单押x3)"/>
+      <outline text="把酒诗代码" type="rss" xmlUrl="https://102no.com/atom.xml" htmlUrl="https://102no.com/" description="是谁来自 Python Java, 却囿于 PHP, Go 与 Lua。（句中提及语言博主一概不会。）"/>
       <outline text="抽筋儿的话语权" type="rss" xmlUrl="https://xuchi.name/index.xml" htmlUrl="https://chouj.github.io/" description="Recent content on 抽筋儿的话语权"/>
       <outline text="拾风" type="rss" xmlUrl="https://www.coolblood.cn/?feed=rss2" htmlUrl="https://www.coolblood.cn/" description="人脑太复杂,时间过得久,记下来才是最真实的......"/>
       <outline text="掘墓人的小铲子" type="rss" xmlUrl="https://juemuren4449.com/atom.xml" htmlUrl="https://juemuren4449.com/" description=""/>
@@ -903,7 +903,7 @@
       <outline text="Posts on Godot's Blog" type="rss" xmlUrl="https://iamgodot.com/posts/index.xml" htmlUrl="https://iamgodot.com/posts/" description="Recent content in Posts on Godot's Blog"/>
       <outline text="Posts on Olist.213" type="rss" xmlUrl="https://olist213.github.io/posts/index.xml" htmlUrl="https://olist213.github.io/posts/" description="Recent content in Posts on Olist.213"/>
       <outline text="Ric's Blog-李冲的个人博客" type="rss" xmlUrl="https://www.lichong.work/atom.xml" htmlUrl="https://www.lichong.work/" description="Talk less, think more, do more."/>
-      <outline text="Ryan4Yin's Space" type="rss" xmlUrl="https://ryan4yin.space/index.xml" htmlUrl="https://ryan4yin.space/" description="Ryan4Yin's Space"/>
+      <outline text="Ryan4Yin's Space" type="rss" xmlUrl="https://ryan4yin.space/index.xml" htmlUrl="https://ryan4yin.space/" description="This Cute World"/>
       <outline text="Shall We Code?" type="rss" xmlUrl="https://www.waynerv.com/rss.xml" htmlUrl="https://www.waynerv.com/" description="分享后端工作中的所思所得，涉及的领域包括但不限于：Python, Go, Linux, Kubernetes, Container, Git, Github 等"/>
       <outline text="siwei.io" type="rss" xmlUrl="https://siwei.io/index.xml" htmlUrl="https://siwei.io/" description="Siwei(思为) builds things and believes in Open Source."/>
       <outline text="The Trivial" type="rss" xmlUrl="https://jessieji.com/feed.xml" htmlUrl="https://jessieji.com/" description="二三事"/>
