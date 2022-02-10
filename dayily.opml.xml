@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Wed, 09 Feb 2022 12:27:02</dateCreated>
+    <dateCreated>Thu, 10 Feb 2022 12:27:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -314,6 +314,7 @@
       <outline text="The Will Will Web" type="rss" xmlUrl="http://feeds.feedburner.com/TheWillWillWeb" htmlUrl="https://blog.miniasp.com" description="記載著 Will 在網路世界的學習心得與技術分享"/>
       <outline text="Thinking Null" type="rss" xmlUrl="https://awsl.blog/feed/" htmlUrl="https://awsl.blog/" description="又一个萌新..."/>
       <outline text="Thoughtful Nights" type="rss" xmlUrl="http://haoxiang.org/feed/" htmlUrl="http://haoxiang.org/" description="Computer Vision, Deep Learning, Robotics"/>
+      <outline text="Thrower的博客" type="rss" xmlUrl="https://thrower.cc/feed/" htmlUrl="https://thrower.cc/" description="梦的挖掘机碾碎黎明的炊烟，冰和雾遮住我的双眼。"/>
       <outline text="Tianke Youke" type="rss" xmlUrl="https://jyzhu.top/atom.xml" htmlUrl="https://jyzhu.top" description="A Base for Secreting and Running at Night"/>
       <outline text="Time Flying" type="rss" xmlUrl="https://muyunyun.cn/atom.xml" htmlUrl="http://muyunyun.cn/" description=""/>
       <outline text="TimeMachine Notes" type="rss" xmlUrl="https://timemachine.icu/atom.xml" htmlUrl="https://timemachine.icu/" description="愿一直遇到有趣的人和事"/>
@@ -885,6 +886,7 @@
       <outline text="EdNovas的小站" type="rss" xmlUrl="https://ednovas.xyz/atom.xml" htmlUrl="https://ednovas.xyz/" description=""/>
       <outline text="EE Archeology 电子考古学" type="rss" xmlUrl="http://7400.me/atom.xml" htmlUrl="http://7400.me/" description=""/>
       <outline text="Ek1ng's Blog" type="rss" xmlUrl="https://ek1ng.com/atom.xml" htmlUrl="http://ek1ng.com/" description=""/>
+      <outline text="Eulerian Moe" type="rss" xmlUrl="https://eulerian.xyz/feed.xml" htmlUrl="https://eulerian.xyz/" description=""/>
       <outline text="Fatesinger" type="rss" xmlUrl="https://fatesinger.com/feed" htmlUrl="https://fatesinger.com/" description="This is my zine. I write about shit I care about."/>
       <outline text="Frank笔记" type="rss" xmlUrl="https://frank2019.me/rss.xml" htmlUrl="https://frank2019.me/" description="记录蜕变后的生活"/>
       <outline text="gd1214b's blog" type="rss" xmlUrl="https://blog.gd1214b.icu/atom.xml" htmlUrl="https://blog.gd1214b.icu/" description="念念不忘，必有回响"/>
@@ -1121,7 +1123,6 @@
       <outline text="HUI 爷的小破站" type="rss" xmlUrl="https://www.ghost666.xyz/index.php/feed/" htmlUrl="https://www.ghost666.xyz/" description="暂时不知道用来干什么"/>
       <outline text="myfreax" type="rss" xmlUrl="https://www.myfreax.com/rss/" htmlUrl="https://www.myfreax.com/" description="编程,语言,IT,技术,玩家,linux,命令行,终端,黑客,工具,myfreax"/>
       <outline text="roustar31的博客" type="rss" xmlUrl="https://www.star31s.com/feed" htmlUrl="https://www.star31s.com/" description=""/>
-      <outline text="Thrower的博客" type="rss" xmlUrl="https://thrower.cc/feed/" htmlUrl="https://thrower.cc/" description="梦的挖掘机碾碎黎明的炊烟，冰和雾遮住我的双眼。"/>
       <outline text="xiaix's Blog" type="rss" xmlUrl="https://xiaix.me/rss/" htmlUrl="https://xiaix.me" description="个人学习笔记"/>
       <outline text="YangYongKang's Blog" type="rss" xmlUrl="https://blog.yangyk.com/feed.xml" htmlUrl="http://blog.yangyk.com/" description="行有不得 反求诸己"/>
       <outline text="ZM沫. - Life record . 记录自己的日常琐事.旅途世界" type="rss" xmlUrl="https://zmmio.com/feed/" htmlUrl="https://zmmio.com/" description="Life record . 记录自己的日常琐事.旅途世界. ZM沫,旅行,日记,宅,Midousir,猫,Typecho,Markdown,css,js,php,html，一个养了猫的非专业技术宅男."/>
@@ -1132,7 +1133,7 @@
       <outline text="小钻风的博客" type="rss" xmlUrl="https://zuanfeng.club/index.php/feed/" htmlUrl="https://zuanfeng.club/" description="让思考和读书成为一种生活方式"/>
       <outline text="梦墨's Blog" type="rss" xmlUrl="https://idream.ink/atom.xml" htmlUrl="https://idream.ink/" description="这个人很懒，但ta似乎留下了什么？"/>
       <outline text="洛尘曦" type="rss" xmlUrl="https://www.sgyzyun.club/feed/" htmlUrl="https://www.sgyzyun.club/" description="我的学习研究"/>
-      <outline text="烟雨寒云" type="rss" xmlUrl="https://www.yyhy.me/feed" htmlUrl="https://www.yyhy.me/" description="一点烟雨，一点寒，风吹过，烟花散"/>
+      <outline text="烟雨寒云" type="rss" xmlUrl="https://www.yyhy.me/feed" htmlUrl="https://www.yyhy.me/" description="一个Ctrl+C/V的练习生"/>
       <outline text="笔记" type="rss" xmlUrl="http://acg19.top/atom.xml" htmlUrl="https://steamfinder.github.io/" description=""/>
       <outline text="笔记杂集" type="rss" xmlUrl="https://tophat.top/atom.xml" htmlUrl="https://tophat.top/" description="笔记与摘要"/>
       <outline text="自学路漫漫" type="rss" xmlUrl="https://blog.fxcdev.com/feed/" htmlUrl="https://blog.fxcdev.com" description="山，快马加鞭未下鞍。惊回首，离天三尺三。"/>
