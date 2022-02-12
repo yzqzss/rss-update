@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Fri, 11 Feb 2022 12:27:01</dateCreated>
+    <dateCreated>Sat, 12 Feb 2022 12:27:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -772,7 +772,7 @@
       <outline text="Vibration 歪波音室" type="rss" xmlUrl="https://vibration-radio.com/episodes/feed.xml" htmlUrl="https://vibration-radio.com/" description="音乐太多，耳朵太少"/>
       <outline text="weak self" type="rss" xmlUrl="https://feeds.soundon.fm/podcasts/233d04e2-60e9-4060-a687-6b7316187f48.xml" htmlUrl="https://weakself.dev/" description="在 iOS 開發圈打滾的台灣工程師，專為 Apple &amp; iOS 開發者而製作的中文 Podcast。內容涵蓋 Apple 開發圈的新知討論、踩坑經驗、人物採訪、社群活動、職場生活。更多資訊請見官網 https://weakself.dev 或是 Twitter @weak_self"/>
       <outline text="WEB VIEW" type="rss" xmlUrl="https://webview.tech/category/podcast/feed/" htmlUrl="https://webview.tech/" description="不囿于 WEB，不止于 VIEW"/>
-      <outline text="WūJīMāChā瞭望台" type="rss" xmlUrl="https://zizhengw.github.io/wujimacha-outreach/rss.xml" htmlUrl="https://www.wujimacha.com/podcast" description="Architectural Observation, Art and Philosophy, Life and Work. 記錄觀察和思考，從而推動行動。更多請見主頁：https://www.wujimacha.com/"/>
+      <outline text="WūJīMāChā瞭望台" type="rss" xmlUrl="https://zizhengw.github.io/wujimacha-outreach/rss.xml" htmlUrl="https://www.wujimacha.com/podcast" description="&lt;p&gt;&#10;        Architectural Observation, Art &amp; Philosophy, Life &amp; Work. WūJīMāChā Podcast documents observations and reflections to inspire and promote actions. Updates monthly.&#10;        &lt;br&gt;&#10;        建築性觀察，藝術 &amp; 哲學，生活 &amp; 工作。「WūJīMāChā 瞭望台」記錄觀察和思考，從而啓發和推動行動。每月更新。&#10;      &lt;/p&gt;&#10;      &lt;p&gt;&#10;        Visit WūJīMāChā to discover more: &lt;a href=&quot;https://www.wujimacha.com/&quot; target=&quot;_blank&quot;&gt;https://www.wujimacha.com/&lt;/a&gt;&#10;        &lt;br&gt;&#10;        訪問 WūJīMāChā 以探索更多：&lt;a href=&quot;https://www.wujimacha.com/&quot; target=&quot;_blank&quot;&gt;https://www.wujimacha.com/&lt;/a&gt;&#10;      &lt;/p&gt;&#10;      &lt;p&gt;&#10;        Happy listening :)&#10;        &lt;br&gt;&#10;        收聽愉快：）&#10;      &lt;/p&gt;"/>
       <outline text="一天世界" type="rss" xmlUrl="https://yitianshijie.net/feed/audio.xml" htmlUrl="https://yitianshijie.net/" description="一天世界，昆乱不挡。不鳥萬如一主理。IPN 出品。&#10;&#10;《一天世界》博客：http://blog.yitianshijie.net"/>
       <outline text="一树闲谈" type="rss" xmlUrl="https://www.arbretalk.com/rss" htmlUrl="https://www.arbretalk.com/" description="一档艺术类跑题闲聊节目&#10;邮箱：arbretalk@outlook.com&#10;微信公号：一树arbre&#10;地址：深圳市福田区园岭新村74号楼103"/>
       <outline text="一派·Podcast - 少数派 SSPAI 旗下播客节目" type="rss" xmlUrl="https://sspai.typlog.io/feed/audio.xml" htmlUrl="https://sspai.fireside.fm/" description="少数派旗下播客节目，高效工作，品质生活。"/>
@@ -951,6 +951,7 @@
       <outline text="yiyun's Blog" type="rss" xmlUrl="https://moeci.com/atom.xml" htmlUrl="https://moeci.com/" description="The stupid one is me"/>
       <outline text="ypingcn" type="rss" xmlUrl="https://blog.ypingcn.com/feed.xml" htmlUrl="https://blog.ypingcn.com/" description="这里是 @ypingcn 的个人博客，期待与你发现更大的世界。"/>
       <outline text="ZDDHUB" type="rss" xmlUrl="https://zddhub.com/feed" htmlUrl="https://www.zddhub.com/" description="ZDDHUB's blog | Just for fun"/>
+      <outline text="zd小达's blog😎" type="rss" xmlUrl="https://blog.zhangda.xyz/feed/" htmlUrl="https://blog.zhangda.xyz/" description="一些无聊的破事儿"/>
       <outline text="Zenithal Hourly Radio" type="rss" xmlUrl="https://blog.zenithal.me/atom.xml" htmlUrl="https://blog.zenithal.me/" description=""/>
       <outline text="ZingLix Blog" type="rss" xmlUrl="https://zinglix.xyz/feed.xml" htmlUrl="https://zinglix.xyz/" description="这里是 ZingLix 的个人博客，与你一起在计算机的世界探索~"/>
       <outline text="[米随随] s5s5" type="rss" xmlUrl="https://s5s5.me/feed" htmlUrl="https://s5s5.me/" description="本站是基于人类交互的，您的想象决定了我们的应用！"/>
