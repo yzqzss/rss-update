@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Sun, 13 Feb 2022 12:27:01</dateCreated>
+    <dateCreated>Mon, 14 Feb 2022 12:27:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -298,7 +298,7 @@
       <outline text="SKYue's Home" type="rss" xmlUrl="https://www.skyue.com/feed/" htmlUrl="https://www.skyue.com/" description=""/>
       <outline text="Skywind Inside" type="rss" xmlUrl="http://www.skywind.me/blog/feed" htmlUrl="http://www.skywind.me/blog" description="写自己的代码，让别人猜去吧"/>
       <outline text="SOLOS" type="rss" xmlUrl="https://www.ifdie.cn/feed" htmlUrl="https://www.ifdie.cn/" description="SOLOS 技术博客"/>
-      <outline text="std::bodun::blog" type="rss" xmlUrl="https://www.bodunhu.com/blog/index.xml" htmlUrl="https://www.bodunhu.com/blog/" description="Personal Blog of Bodun (Edward) Hu. CS PhD student at University of Texas at Austin. Operating systems, network, heterogeneity, MLSys, anything system. UTCS"/>
+      <outline text="std::bodun::blog" type="rss" xmlUrl="https://www.bodunhu.com/blog/index.xml" htmlUrl="https://www.bodunhu.com/blog/" description="std::bodun::blog. Personal Blog of Bodun (Edward) Hu. CS PhD student at University of Texas at Austin. Operating systems, network, heterogeneity, MLSys, anything system. UTCS"/>
       <outline text="Stitch's Blog" type="rss" xmlUrl="https://stitch.cn/atom.xml" htmlUrl="https://stitch.cn/" description="不管梦想有多远,走了多少弯路,总有一天,我们还是会回到,那个最初的地方！"/>
       <outline text="strongwong's Blog" type="rss" xmlUrl="https://blog.strongwong.top/atom.xml" htmlUrl="https://blog.strongwong.top/" description="Embedded Software Engineer. Blogging about tech and life."/>
       <outline text="Sukka's Blog" type="rss" xmlUrl="https://blog.skk.moe/atom.xml" htmlUrl="https://blog.skk.moe/" description=""/>
@@ -768,7 +768,7 @@
       <outline text="Steve说" type="rss" xmlUrl="http://steveshuo.com/rss" htmlUrl="http://steveshuo.com/" description="“Steve说”被评为2019苹果最佳播客，这是一个基于泛心理学视角，通过深度交流拓展意识边界，探索个人成长之道，加深对自我和世界理解的谈话类节目。主播史秀雄是独立心理咨询师，译有现象级心理学著作《人生十二法则》，著有畅销书《假性亲密关系》，国内首档男性气质主题播客《Man立》的主播，心理学讲师，2017年中国最具影响力的50位心理学者，巴西柔术蓝带，哈雷骑手。微博/公众号：@史秀雄Steve，微信：stevesfk。"/>
       <outline text="UX Coffee 设计咖" type="rss" xmlUrl="https://uxcoffee.com/feed/audio.xml" htmlUrl="https://www.uxcoffee.com/" description="我们试图通过和设计这个世界的人们交谈，探寻创造的过程。&#10;&#10;合作：uxcoffee123@gmail.com"/>
       <outline text="Velas电波站" type="rss" xmlUrl="https://www.velasx.com/feed" htmlUrl="https://www.velasx.com" description="非正常信号发射与搜寻装置"/>
-      <outline text="Vibration 歪波音室" type="rss" xmlUrl="https://vibration-radio.com/episodes/feed.xml" htmlUrl="https://vibration-radio.com/" description="音乐太多，耳朵太少"/>
+      <outline text="Vibration 歪波音室" type="rss" xmlUrl="https://vibration-radio.com/feed/audio.xml" htmlUrl="https://vibration-radio.com/" description="音乐太多，耳朵太少"/>
       <outline text="weak self" type="rss" xmlUrl="https://feeds.soundon.fm/podcasts/233d04e2-60e9-4060-a687-6b7316187f48.xml" htmlUrl="https://weakself.dev/" description="在 iOS 開發圈打滾的台灣工程師，專為 Apple &amp; iOS 開發者而製作的中文 Podcast。內容涵蓋 Apple 開發圈的新知討論、踩坑經驗、人物採訪、社群活動、職場生活。更多資訊請見官網 https://weakself.dev 或是 Twitter @weak_self"/>
       <outline text="WEB VIEW" type="rss" xmlUrl="https://webview.tech/category/podcast/feed/" htmlUrl="https://webview.tech/" description="不囿于 WEB，不止于 VIEW"/>
       <outline text="WūJīMāChā瞭望台" type="rss" xmlUrl="https://zizhengw.github.io/wujimacha-outreach/rss.xml" htmlUrl="https://www.wujimacha.com/podcast" description="&lt;p&gt;&#10;        Architectural Observation, Art &amp; Philosophy, Life &amp; Work. WūJīMāChā Podcast documents observations and reflections to inspire and promote actions. Updates monthly.&#10;        &lt;br&gt;&#10;        建築性觀察，藝術 &amp; 哲學，生活 &amp; 工作。「WūJīMāChā 瞭望台」記錄觀察和思考，從而啓發和推動行動。每月更新。&#10;      &lt;/p&gt;&#10;      &lt;p&gt;&#10;        Visit WūJīMāChā to discover more: &lt;a href=&quot;https://www.wujimacha.com/&quot; target=&quot;_blank&quot;&gt;https://www.wujimacha.com/&lt;/a&gt;&#10;        &lt;br&gt;&#10;        訪問 WūJīMāChā 以探索更多：&lt;a href=&quot;https://www.wujimacha.com/&quot; target=&quot;_blank&quot;&gt;https://www.wujimacha.com/&lt;/a&gt;&#10;      &lt;/p&gt;&#10;      &lt;p&gt;&#10;        Happy listening :)&#10;        &lt;br&gt;&#10;        收聽愉快：）&#10;      &lt;/p&gt;"/>
@@ -1124,7 +1124,6 @@
       <outline text="Amphibia" type="rss" xmlUrl="https://lumitytw.github.io/index.xml" htmlUrl="https://lumitytw.github.io/" description="Recent content on Amphibia"/>
       <outline text="Daniel's Blog" type="rss" xmlUrl="https://moecm.com/feed/" htmlUrl="https://moecm.com/" description="Here's the BioniCosmos!"/>
       <outline text="HUI 爷的小破站" type="rss" xmlUrl="https://www.ghost666.xyz/index.php/feed/" htmlUrl="https://www.ghost666.xyz/" description="暂时不知道用来干什么"/>
-      <outline text="Mr.Zan" type="rss" xmlUrl="https://mrzan.xyz/feed" htmlUrl="https://mrzan.xyz/" description=""/>
       <outline text="myfreax" type="rss" xmlUrl="https://www.myfreax.com/rss/" htmlUrl="https://www.myfreax.com/" description="编程,语言,IT,技术,玩家,linux,命令行,终端,黑客,工具,myfreax"/>
       <outline text="roustar31的博客" type="rss" xmlUrl="https://www.star31s.com/feed" htmlUrl="https://www.star31s.com/" description=""/>
       <outline text="xiaix's Blog" type="rss" xmlUrl="https://xiaix.me/rss/" htmlUrl="https://xiaix.me" description="个人学习笔记"/>
