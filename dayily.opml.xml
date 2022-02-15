@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Mon, 14 Feb 2022 12:27:02</dateCreated>
+    <dateCreated>Tue, 15 Feb 2022 12:28:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -496,7 +496,7 @@
       <outline text="崎径 其镜赵安琪的博客" type="rss" xmlUrl="http://www.z16388.top/atom.xml" htmlUrl="http://www.z16388.top/" description="求学道路上的行车记录仪"/>
       <outline text="己羊的梦" type="rss" xmlUrl="https://www.jiyang00.cn/atom.xml" htmlUrl="https://www.jiyang00.cn/" description="己羊的小站"/>
       <outline text="年华转瞬" type="rss" xmlUrl="https://blog.xiaket.org/feed.xml" htmlUrl="https://blog.xiaket.org" description="夏恺, xiaket, 读书人, Pythonista, DevOps"/>
-      <outline text="幸吾有志" type="rss" xmlUrl="https://www.symbk.cn/feed/" htmlUrl="https://www.symbk.cn/" description="志仍在 人依存"/>
+      <outline text="幸吾有志" type="rss" xmlUrl="https://fmcf.cc/feed/" htmlUrl="https://www.symbk.cn/" description="生命的绽放"/>
       <outline text="幻想世界轻小说" type="rss" xmlUrl="https://book.1meji.com/feed" htmlUrl="https://book.1meji.com/" description="轻阅读"/>
       <outline text="开源之心" type="rss" xmlUrl="http://sht2019.cn/atom.xml" htmlUrl="http://sht2019.cn/" description="我歌赞无上的造物主，它威严的作品向我展示万物的真理，我的眼耳跟随它走向女神之路。"/>
       <outline text="开源实验室" type="rss" xmlUrl="https://www.kymjs.com/feed.xml" htmlUrl="https://kymjs.com" description="张涛的开源实验室"/>
@@ -787,7 +787,7 @@
       <outline text="二分电台" type="rss" xmlUrl="https://binary.2bab.me/feed/audio.xml" htmlUrl="https://binary.2bab.me/" description="一档互联网主题的闲聊节目，旨在少传播焦虑，多分享热忱。"/>
       <outline text="交差点" type="rss" xmlUrl="https://jiaocha.io/feed.xml" htmlUrl="https://jiaocha.io/" description="《交差点》是一档由 Jesse Chan 发起，与 Alex、林檎共同主播的科技人文主题播客。我们主张「科技与人文的十字路口」背后不应是一种二元的选择，两者应当是相互作用，并彼此驱动的关系。 除了用技术的方法解决问题，我们将致力于探索如何在技术崇拜盛行的今天保留人性，试图用人文的视角解读技术语境下的趣味，消除二者的对立，促成其有机结合。"/>
       <outline text="人间指南" type="rss" xmlUrl="https://renjianzhinan.xyz/podcast.xml" htmlUrl="https://renjianzhinan.xyz/" description="人间指南，hb 制作"/>
-      <outline text="余生皆假期" type="rss" xmlUrl="https://hayami-blog.typlog.io/feed/audio.xml" htmlUrl="https://podcasts.apple.com/us/podcast/%E4%BD%99%E7%94%9F%E7%9A%86%E5%81%87%E6%9C%9F/id1555909745" description="不如我们做朋友吧，一起开车兜风一起吃饭。从今天开始，我的余生都是假期啦。"/>
+      <outline text="余生皆假期" type="rss" xmlUrl="https://hayami-blog.typlog.io/feed/audio.xml" htmlUrl="https://podcasts.apple.com/us/podcast/%E4%BD%99%E7%94%9F%E7%9A%86%E5%81%87%E6%9C%9F/id1555909745" description="一档满足日常好奇心的私人对话册。身处果壳之中，仍自以为是无限宇宙之王。&#10;&#10;关心科技/人文/艺术/城市公共空间/女性和性别议题/劳工权益/个体叙事/新闻媒体/电影/纪录片/音乐/书/星星&#10;&#10;主播：早见hayami，产品经理/up主/blogger/podcaster"/>
       <outline text="八分" type="rss" xmlUrl="https://api.vistopia.com.cn/rss/program/11.xml" htmlUrl="https://shop.vistopia.com.cn/detail?id=4z4Ew" description="《八分》第四季2022年1月14日起已开始更新，欢迎下载「看理想」App独家收听。&#10;「看理想」App，一个陪你成长的知识剧场。&#10;「八分」是由梁文道和看理想团队共同打造的一档全新文化类音频节目。梁文道将和你一起从理想走到现实，重新审视文化现象，社会趋势和热点话题。&#10;欢迎下载「看理想」App和梁文道互动，每集节目中，梁文道会回答一位听众提问。"/>
       <outline text="八百颗栗子" type="rss" xmlUrl="https://800chestnut.com/feed.xml" htmlUrl="http://800chestnut.com/" description=""/>
       <outline text="内核恐慌" type="rss" xmlUrl="https://pan.icu/feed" htmlUrl="https://pan.icu/" description="一档号称硬核却也没什么干货的 IT 技术主题娱乐节目"/>
