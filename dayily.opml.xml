@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Wed, 16 Feb 2022 12:28:01</dateCreated>
+    <dateCreated>Thu, 17 Feb 2022 12:28:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -992,7 +992,7 @@
       <outline text="开飞机的老张" type="rss" xmlUrl="https://kaifeiji.cc/atom.xml" htmlUrl="http://kaifeiji.cc/" description="写给未来的信"/>
       <outline text="当代写作仓库" type="rss" xmlUrl="https://zuopin.jingluole.com/feed" htmlUrl="https://zuopin.jingluole.com/" description="开放、免费的当代汉语写作仓库，收录小说、诗歌、随笔、评论等文学文本"/>
       <outline text="御坂研究所" type="rss" xmlUrl="https://www.nosuchfield.com/atom.xml" htmlUrl="http://www.nosuchfield.com/" description=""/>
-      <outline text="忘忧的小站" type="rss" xmlUrl="https://wangyou233.wang/rss" htmlUrl="https://wangyou233.wang/" description="努力搬砖的程序员"/>
+      <outline text="忘忧的小站" type="rss" xmlUrl="https://wangyou.ink/atom.xml" htmlUrl="https://wangyou.ink/" description=""/>
       <outline text="思泉 | Jev0n" type="rss" xmlUrl="https://jev0n.com/feed/" htmlUrl="https://jev0n.com/" description="Coder,CTFer,专业写BUG"/>
       <outline text="惶心博客" type="rss" xmlUrl="https://huangxin.dev/atom2.xml" htmlUrl="https://huangxin.dev/" description="要知道躯壳会破败 而想法会传载"/>
       <outline text="愆伏" type="rss" xmlUrl="https://www.tortorse.com/atom.xml" htmlUrl="https://www.tortorse.com/" description="互联网杂谈"/>
@@ -1024,7 +1024,7 @@
       <outline text="程序猿DD" type="rss" xmlUrl="https://blog.didispace.com/atom.xml" htmlUrl="https://blog.didispace.com/" description="Dream big, work smart, deliver fast"/>
       <outline text="竹林里有冰的博客" type="rss" xmlUrl="https://blog.zhullyb.top/rss.xml" htmlUrl="https://blog.zhullyb.top/" description="zhullyb's blog"/>
       <outline text="竹炉山房" type="rss" xmlUrl="https://synyan.cn/t/feed/" htmlUrl="https://synyan.cn/t" description="Hermit Cottage"/>
-      <outline text="素履独行" type="rss" xmlUrl="https://blog.yuanpei.me/index.xml" htmlUrl="https://blog.yuanpei.me/" description="元培的个人博客"/>
+      <outline text="素履独行" type="rss" xmlUrl="https://blog.yuanpei.me/index.xml" htmlUrl="https://blog.yuanpei.me/" description="Recent content on 素履独行"/>
       <outline text="红灯博客" type="rss" xmlUrl="http://www.hdgogogo.com/feed" htmlUrl="http://www.hdgogogo.com/" description="拥抱希望，拥抱生活"/>
       <outline text="纬八路生活随笔集" type="rss" xmlUrl="http://www.weibalu.com/?feed=rss2" htmlUrl="http://www.weibalu.com/" description="不要让生活单调的只剩自己"/>
       <outline text="网络热度" type="rss" xmlUrl="https://www.packetmania.net/atom.xml" htmlUrl="https://www.packetmania.net/" description="技术 新知 共享"/>
@@ -1134,6 +1134,7 @@
       <outline text="城中村群租房" type="rss" xmlUrl="https://www.darmau.com/rss/" htmlUrl="https://www.darmau.com" description="深圳不是我的家，我的家乡没有城中村"/>
       <outline text="多半不走运" type="rss" xmlUrl="https://www.likelyunlucky.xyz/feed/" htmlUrl="https://www.likelyunlucky.xyz" description="多半不走运"/>
       <outline text="小钻风的博客" type="rss" xmlUrl="https://zuanfeng.club/index.php/feed/" htmlUrl="https://zuanfeng.club/" description="让思考和读书成为一种生活方式"/>
+      <outline text="忘忧的小站" type="rss" xmlUrl="https://wangyou233.wang/rss" htmlUrl="https://wangyou233.wang/" description="努力搬砖的程序员"/>
       <outline text="梦墨's Blog" type="rss" xmlUrl="https://idream.ink/atom.xml" htmlUrl="https://idream.ink/" description="这个人很懒，但ta似乎留下了什么？"/>
       <outline text="洛尘曦" type="rss" xmlUrl="https://www.sgyzyun.club/feed/" htmlUrl="https://www.sgyzyun.club/" description="我的学习研究"/>
       <outline text="笔记" type="rss" xmlUrl="http://acg19.top/atom.xml" htmlUrl="https://steamfinder.github.io/" description=""/>
