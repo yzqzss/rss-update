@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Fri, 18 Feb 2022 12:28:01</dateCreated>
+    <dateCreated>Sat, 19 Feb 2022 12:28:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -320,7 +320,7 @@
       <outline text="Tinyfool的中文Blog" type="rss" xmlUrl="https://codechina.org/feed/" htmlUrl="https://codechina.org/" description=""/>
       <outline text="Tonm's Blog" type="rss" xmlUrl="https://owo-bo.cn/feed/" htmlUrl="https://owo-bo.cn/" description="彼岸花开彼岸，断肠草断肝肠"/>
       <outline text="Tony's Toy Blog" type="rss" xmlUrl="https://www.tony-bro.com/atom.xml" htmlUrl="https://www.tony-bro.com/" description="TONY'S TOY BLOG"/>
-      <outline text="TRHX'S BLOG" type="rss" xmlUrl="https://www.itrhx.com/atom.xml" htmlUrl="https://www.itrhx.com/" description="一入 IT 深似海 从此学习无绝期"/>
+      <outline text="TRHX'S BLOG" type="rss" xmlUrl="https://www.itbob.cn/atom.xml" htmlUrl="https://www.itrhx.com/" description="一入 IT 深似海 从此学习无绝期"/>
       <outline text="TripleZ's Blog" type="rss" xmlUrl="https://blog.triplez.cn/index.xml" htmlUrl="https://blog.triplez.cn/" description="Recent content on TripleZ's Blog"/>
       <outline text="Tsanfer's Blog" type="rss" xmlUrl="https://tsanfer.xyz/rss.xml" htmlUrl="https://tsanfer.xyz/" description="现居住于猎户臂上的一个碳基生命"/>
       <outline text="TuTu生活志" type="rss" xmlUrl="https://tutulifestyle.com/feed/" htmlUrl="https://tutulifestyle.com/" description="TuTulifestyle"/>
@@ -833,6 +833,7 @@
       <outline text="生活在别处" type="rss" xmlUrl="https://feeds.fireside.fm/life-is-elsewhere/rss" htmlUrl="https://life-is-elsewhere.com/" description="欢迎光临“生活在别处”，我是主播响响。“生活在别处”，是一档 和嘉宾们一起探索打卡上班之外另一种人生体验 的聊天节目，内容与嘉宾的日常执迷的爱好高度相关，涉及且不限于，文学、电影、博物、绘画等等。如果你感兴趣，可以在Apple podcast, Spotify以及其他泛用性播客和官网 life-is-elsewhere.com 收听和订阅本节目。"/>
       <outline text="疯投圈" type="rss" xmlUrl="https://crazy.capital/feed" htmlUrl="https://crazy.capital/" description="做中文世界最有意思的商业类播客"/>
       <outline text="看理想电台" type="rss" xmlUrl="https://api.vistopia.com.cn/rss/program/13.xml" htmlUrl="https://api.vistopia.com.cn/rss/program/13.xml" description="「看理想」App，一个陪你成长的知识剧场。&#10;看理想电台，由看理想出品，入选“2019 Apple 最佳播客”。每周四更新，不一定有用的电台杂志。&#10;欢迎下载「看理想」App留言互动。"/>
+      <outline text="硬地文化" type="rss" xmlUrl="https://www.indie.cn/feed/" htmlUrl="https://www.indie.cn/" description=""/>
       <outline text="硬影像" type="rss" xmlUrl="https://hardimage.pro/feed/audio.xml" htmlUrl="https://hardimage.pro/" description="《硬影像》由 IPN 出品，由罗登主持，是一个关注影像之一切的播客。谈论影像背后的技术，历史和哲理。"/>
       <outline text="社会人科技评论" type="rss" xmlUrl="https://techreview.social/rss" htmlUrl="http://techreview.social/" description="《社会人科技评论》是一档非公益性却也没啥营利预期的科技评论媒体。"/>
       <outline text="神爱玩财" type="rss" xmlUrl="https://jingshu.love/feed/audio.xml" htmlUrl="https://jingshu.love/" description="【神】温饱之外的精神生活，聊哲学，聊信仰，聊宗教或非宗教的神性体验，深度思考现代精神疾病；&#10;&#10;【爱】不是一对一的浪漫爱，是多样化的亲密关系，以及与自己、原生家庭、社群、生态的联结；&#10;&#10;【玩】旅行、运动、游戏、厨艺、喜剧，以及一切回归赤子之心的玩法；&#10;&#10;【财】挣钱、消费与投资，金钱折射出的心态和价值观，挖掘金钱之外的财富。"/>
@@ -910,6 +911,7 @@
       <outline text="Leao's Blog | Leao的博客" type="rss" xmlUrl="https://blog.ascn.site/atom.xml" htmlUrl="https://blog.ascn.site/" description="记录我修BUG的日常"/>
       <outline text="Lei Mao's Log Book" type="rss" xmlUrl="https://leimao.github.io/atom.xml" htmlUrl="https://leimao.github.io/" description="Hello Underworld!"/>
       <outline text="Librehat的部落格" type="rss" xmlUrl="https://www.librehat.com/feed/" htmlUrl="https://www.librehat.com/" description="Code can be lovely"/>
+      <outline text="Linmi" type="rss" xmlUrl="https://linmi.cc/feed" htmlUrl="https://linmi.cc/" description="探索未知，沉淀新知，迭代认知。"/>
       <outline text="Lithia's Core / t'" type="rss" xmlUrl="https://lithcore.cn/feed/" htmlUrl="https://lithcore.cn/" description=""/>
       <outline text="LLLgoyour的世界" type="rss" xmlUrl="https://blog.lllgoyour.tk/feed/" htmlUrl="https://blog.lllgoyour.tk/" description="事有终始，万物归源"/>
       <outline text="lowinli’s blog" type="rss" xmlUrl="https://lowin.li/atom.xml" htmlUrl="https://lowin.li/" description="from drop to ocean"/>
@@ -1020,6 +1022,7 @@
       <outline text="玉明-风起于青萍之末" type="rss" xmlUrl="https://xdym11235.com/feed" htmlUrl="https://xdym11235.com/" description="风起于青萍之末"/>
       <outline text="王小嗨的不老歌" type="rss" xmlUrl="https://sogola.com/index.xml" htmlUrl="https://sogola.com/" description="王小嗨的不老歌"/>
       <outline text="王志勇-和平海底" type="rss" xmlUrl="http://www.auiou.com/feed/" htmlUrl="http://www.auiou.com/" description="和平海底"/>
+      <outline text="王掌柜" type="rss" xmlUrl="https://geek.wasai.org/feed/" htmlUrl="https://geek.wasai.org/" description="更有效的投资理财！"/>
       <outline text="瓠樽" type="rss" xmlUrl="https://blog.dylanwu.space/feed.xml" htmlUrl="https://blog.dylanwu.space/" description="以瓠為樽而浮乎江湖"/>
       <outline text="程序员充电站" type="rss" xmlUrl="https://itcharge.cn/feed/" htmlUrl="https://itcharge.cn/" description="高效率编程，慢节奏生活。"/>
       <outline text="程序猿DD" type="rss" xmlUrl="https://blog.didispace.com/atom.xml" htmlUrl="https://blog.didispace.com/" description="Dream big, work smart, deliver fast"/>
@@ -1069,7 +1072,7 @@
     </outline>
     <outline text="优质博客">
       <outline text="1 Byte" type="rss" xmlUrl="https://1byte.io/rss.xml" htmlUrl="https://1byte.io/" description="Articles about life, technology, and startups."/>
-      <outline text="Neverland – Wherefore art thou?" type="rss" xmlUrl="https://type.cyhsu.xyz/feed.xml" htmlUrl="https://type.cyhsu.xyz/" description="Wherefore art thou?"/>
+      <outline text="Neverland – Wherefore art thou?" type="rss" xmlUrl="https://type.cyhsu.xyz/feed.xml" htmlUrl="https://type.cyhsu.xyz/" description="Recent content on Neverland"/>
       <outline text="Platform Thinking +" type="rss" xmlUrl="https://pt.plus/rss/" htmlUrl="https://platformthinking.plus/" description="A guide to the world of platforms."/>
       <outline text="TSBBLOG" type="rss" xmlUrl="https://tsb2blog.com/feed" htmlUrl="https://tsb2blog.com/" description="独立观察及记录"/>
       <outline text="书伴" type="rss" xmlUrl="http://feeds.feedburner.com/bookfere" htmlUrl="https://bookfere.com/" description="为静心阅读而生"/>
