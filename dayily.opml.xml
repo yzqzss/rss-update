@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Wed, 23 Feb 2022 12:28:02</dateCreated>
+    <dateCreated>Thu, 24 Feb 2022 12:28:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -403,7 +403,7 @@
       <outline text="云游君的小站" type="rss" xmlUrl="https://www.yunyoujun.cn/atom.xml" htmlUrl="https://www.yunyoujun.cn" description="All at sea."/>
       <outline text="云顶天的世界" type="rss" xmlUrl="http://blog.cloudtopsky.com/feed/" htmlUrl="http://blog.cloudtopsky.com/" description="云顶天和他的朋友们"/>
       <outline text="云风的 BLOG" type="rss" xmlUrl="https://blog.codingnow.com/atom.xml" htmlUrl="https://blog.codingnow.com" description="思绪来得快去得也快，偶尔会在这里停留"/>
-      <outline text="五葉魔法書" type="rss" xmlUrl="https://grimoire.cn/feed/" htmlUrl="https://grimoire.cn/" description="永不放弃的魔法"/>
+      <outline text="五葉魔法書" type="rss" xmlUrl="https://grimoire.cn/feed/" htmlUrl="https://grimoire.cn/" description="永不放弃就是我的魔法"/>
       <outline text="人人都是产品经理——iamsujie" type="rss" xmlUrl="http://iamsujie.com/feed/" htmlUrl="http://iamsujie.com" description="——  成长中的产品经理，期待和同学们一起，用好产品改变世界~"/>
       <outline text="人生這部戲" type="rss" xmlUrl="https://www.frank.hk/rss.xml" htmlUrl="https://www.frank.hk/" description="人生這部戲"/>
       <outline text="代码家" type="rss" xmlUrl="https://daimajia.com/feed" htmlUrl="https://daimajia.com" description="善存于心，世界和平。"/>
@@ -551,7 +551,7 @@
       <outline text="木匣子" type="rss" xmlUrl="https://blog.mutoo.im/atom.xml" htmlUrl="https://mutoo.im" description="Web/Game/Programming/Life etc."/>
       <outline text="木土金王可" type="rss" xmlUrl="https://www.dujinke.com/feed.xml" htmlUrl="https://www.dujinke.com/" description="木土金王可"/>
       <outline text="木子" type="rss" xmlUrl="https://blog.k8s.li/atom.xml" htmlUrl="https://blog.k8s.li/" description=""/>
-      <outline text="木小丰的博客" type="rss" xmlUrl="https://lesofn.com/atom.xml" htmlUrl="https://lesofn.com/" description="美团Java工程师，关注架构、软件工程、全栈等，公共号：Java研发"/>
+      <outline text="木小丰的博客" type="rss" xmlUrl="https://lesofn.com/atom.xml" htmlUrl="https://lesofn.com/" description="美团Java技术专家，关注架构、软件工程、全栈等，公共号：Java研发"/>
       <outline text="木遥的窗子" type="rss" xmlUrl="http://blog.farmostwood.net/feed" htmlUrl="http://blog.farmostwood.net/" description=""/>
       <outline text="未知的世界" type="rss" xmlUrl="https://lulalap.com/atom.xml" htmlUrl="http://lulalap.com/" description=""/>
       <outline text="本格异想录" type="rss" xmlUrl="https://astrianzheng.cn/atom.xml" htmlUrl="https://astrianzheng.cn/" description=""/>
@@ -972,6 +972,7 @@
       <outline text="冯兄话吉" type="rss" xmlUrl="https://fengmengzhao.github.io/feed.xml" htmlUrl="http://fengmengzhao.github.io/" description="『格物致知，不可私享；冯兄话吉，载文传享』"/>
       <outline text="凌赟's blog" type="rss" xmlUrl="https://www.zhukang.tech/feed.xml" htmlUrl="https://www.zhukang.tech//" description="正心，诚意，进德，修身，养气，为学，笃行，慎独。 微信公众号：zhukang6139."/>
       <outline text="初之音" type="rss" xmlUrl="https://www.himiku.com/feed" htmlUrl="https://www.himiku.com/" description="聆听心中最初的声音"/>
+      <outline text="北京奇安盘古实验室科技有限公司" type="rss" xmlUrl="https://www.pangulab.cn/index.xml" htmlUrl="https://www.pangulab.cn/" description="Recent content on 北京奇安盘古实验室科技有限公司"/>
       <outline text="千古壹号的博客" type="rss" xmlUrl="https://qianguyihao.com/atom.xml" htmlUrl="https://www.qianguyihao.com/" description=""/>
       <outline text="双猫CC" type="rss" xmlUrl="https://catcat.cc/post/index.xml#force_feed" htmlUrl="https://catcat.cc/post/index.xml" description="Recent content on 双猫CC"/>
       <outline text="同和故事匯" type="rss" xmlUrl="https://hocassian.cn/feed/" htmlUrl="https://hocassian.cn/" description=""/>
