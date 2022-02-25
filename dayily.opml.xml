@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Thu, 24 Feb 2022 12:28:01</dateCreated>
+    <dateCreated>Fri, 25 Feb 2022 12:28:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -593,7 +593,7 @@
       <outline text="治部少辅" type="rss" xmlUrl="https://www.codewoody.com/atom.xml" htmlUrl="https://www.codewoody.com" description="大一大万大吉"/>
       <outline text="浩瀚银河~Powered By 1108lin" type="rss" xmlUrl="https://www.haohanyh.com/index.php/feed/" htmlUrl="https://blog.bt7.xyz/" description="https://hexo.haohanyh.com 浩瀚银河重新开始，hexo新平台，浩瀚銀河重新開始，hexo新平臺。"/>
       <outline text="浮云游子意" type="rss" xmlUrl="https://leonson.me/feed.xml" htmlUrl="https://leonson.me" description="Leonson's personal blog"/>
-      <outline text="海加尔金鹰" type="rss" xmlUrl="https://www.hjljy.cn/rss.xml" htmlUrl="https://www.hjljy.cn/" description="一个菜鸟程序员的踩坑日记"/>
+      <outline text="海加尔金鹰" type="rss" xmlUrl="https://www.hjljy.cn/rss.xml" htmlUrl="https://www.hjljy.cn/" description="天道酬勤，星星之火可以燎原"/>
       <outline text="海布里天井" type="rss" xmlUrl="https://blog.feimind.xyz/feed" htmlUrl="https://blog.feimind.xyz/" description="记录我遇见我"/>
       <outline text="海德沙龙（HeadSalon）" type="rss" xmlUrl="http://headsalon.org/feed" htmlUrl="http://headsalon.org/" description="A Salon for Heads, No Sofa for Ass"/>
       <outline text="涯余" type="rss" xmlUrl="https://yanhang.me/index.xml" htmlUrl="https://yanhang.me" description="Recent content on The Blog"/>
@@ -706,7 +706,7 @@
       <outline text="野生程序猴子" type="rss" xmlUrl="https://ljason.cn/atom.xml" htmlUrl="https://ljason.cn" description=""/>
       <outline text="长征部落格" type="rss" xmlUrl="https://www.cxmoe.com/atom.xml" htmlUrl="https://www.cz5h.com/" description="保持怀疑，独立思考"/>
       <outline text="闲趣日评" type="rss" xmlUrl="https://xqrp.com/feed" htmlUrl="https://xqrp.com" description="记录生活与学习的个人博客网站"/>
-      <outline text="阁子" type="rss" xmlUrl="https://dfine.tech/atom.xml" htmlUrl="https://dfine.tech/" description="Newdee's Blog"/>
+      <outline text="阁子" type="rss" xmlUrl="https://dfine.tech/atom.xml" htmlUrl="https://dfine.tech/" description="dfine's Blog"/>
       <outline text="阿掖山：一个博客" type="rss" xmlUrl="https://mountaye.github.io/blog/feed.xml" htmlUrl="https://mountaye.github.io/blog/mountaye.github.io/blog/" description="智力活动是一种生活态度"/>
       <outline text="阿毛的蛋疼地" type="rss" xmlUrl="https://xiangwangfeng.com/atom.xml" htmlUrl="https://xiangwangfeng.com/" description=""/>
       <outline text="陆个陆个人博客" type="rss" xmlUrl="http://yidianliangdiansandiansidianwudianliudianqidianbadianjiudianshi.com/feed.asp" htmlUrl="http://yidianliangdiansandiansidianwudianliudianqidianbadianjiudianshi.com/" description="十点博客-一个著名的十点超长域名个人博客-the longest domain personal blog"/>
@@ -804,7 +804,7 @@
       <outline text="幸福猫Podcast" type="rss" xmlUrl="https://anchor.fm/s/2ad39814/podcast/rss" htmlUrl="https://anchor.fm/happycatpodcast" description="嗨你好，欢迎收听幸福猫podcast，我是鱼晨。这是一档讲述华人旅德生活的节目。&#10; 主页：happycat.cc"/>
       <outline text="忽左忽右" type="rss" xmlUrl="https://justpodmedia.com/rss/left-right.xml" htmlUrl="https://justpodmedia.com/" description="「忽左忽右」是一档文化沙龙类播客节目，试图为中文播客听众提供基于经验视角的话题和内容。本节目由JustPod出品。曾荣获苹果播客2019年度最佳播客。"/>
       <outline text="所建所闻" type="rss" xmlUrl="https://www.architalk.xyz/rss" htmlUrl="https://www.architalk.xyz/" description="「所建所闻」是一档呈现建筑师在思考什么、建造什么的播客节目，尝试以专业的视角来讨论周围的建成环境。&#10;我们不仅会聊建筑和建筑师，也会讨论与之相关的城市、历史、科技、和艺术。&#10;希望通过分享我们的所见所闻，让听众有更多的视角重新认识你所生活的地方，在熟悉的建筑和城市中获得更加丰富的体验。&#10;我们的网站是architalk.xyz，推荐使用泛用型播客客户端订阅收听。&#10;主播：&#10;璟璐、慧珊&#10;邮箱：hi@architalk.xyz&#10;新浪微博：所建所闻 (https://m.weibo.cn/profile/6895347942)&#10;Twitter：ArchiTalkXYZ (https://twitter.com/ArchiTalkXYZ)&#10;Instagram：architalk.xyz (https://www.instagram.com/architalk.xyz/)"/>
-      <outline text="执异" type="rss" xmlUrl="https://zhiyi.life/feed/audio.xml" htmlUrl="https://zhiyi.life/" description="《执异》是阿默和昆弟一起主持的一档播客节目，我们讨论所有让我们感兴趣的事物。"/>
+      <outline text="执异" type="rss" xmlUrl="http://zhiyi.life/feed/audio.xml" htmlUrl="https://zhiyi.life/" description="《执异》是阿默和昆弟一起主持的一档播客节目，我们讨论所有让我们感兴趣的事物。"/>
       <outline text="折尔根播客" type="rss" xmlUrl="https://zheergen.club/feed/audio.xml" htmlUrl="http://zheergen.club/episodes/" description="这是一档较为走心的陪伴型播客，尔是偶尔的尔，不是耳朵的耳。&#10;&#10;我的朋友们和我在这里一起聊天，对生活中的方方面面产生思想的碰撞，留下语音的记录。  &#10;我们不传道，不授业，不解惑，不限主题，没有重点，一切皆可聊。&#10;&#10;我们的愿望，是成为你生活的背景音。&#10;&#10;官网：http://zheergen.club/  &#10;微博：@折尔根播客&#10;Twitter：@zegpod  &#10;Email: hi@zheergen.club  &#10;&#10;欢迎在以上的各个社交网络平台给我们提出意见，建议和反馈，也可以直接发送电子邮件。"/>
       <outline text="捕蛇者说" type="rss" xmlUrl="https://pythonhunter.org/feed/audio.xml" htmlUrl="https://pythonhunter.org/" description="《捕蛇者说》是一档以编程为主题的聊天节目。我们会聊聊编程、程序员和 Python。"/>
       <outline text="掘火电台" type="rss" xmlUrl="https://www.digforfire.net/digforfire_radio_feed.xml" htmlUrl="https://www.digforfire.net/?cat=7" description="掘火档案（http://www.digforfire.net) 有声部分。除了使用podcast收听外，您还可以访问掘火主页收听并查阅曲目/唱片/附带视频及其他更多资料，或到苹果appstore下载掘火电台app。电台封面设计: vac, petit, yowen, mog, zzz"/>
