@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Thu, 03 Mar 2022 12:28:01</dateCreated>
+    <dateCreated>Fri, 04 Mar 2022 12:29:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -85,7 +85,7 @@
       <outline text="Eluyee" type="rss" xmlUrl="https://www.eluyee.com/feed/" htmlUrl="https://www.eluyee.com/" description="人就像茶，得受得了，高温熬，叶片从浮到沉，由卷至舒，艰辛多少"/>
       <outline text="emperinter" type="rss" xmlUrl="https://www.emperinter.info/feed/" htmlUrl="https://www.emperinter.info/" description="Personal Blog"/>
       <outline text="Est's Blog" type="rss" xmlUrl="http://feeds.feedburner.com/Initiative" htmlUrl="https://blog.est.im/" description="This blog is rated  R⃣ , viewer discretion is advised"/>
-      <outline text="Eternal digital memory - 永恒的数字记忆" type="rss" xmlUrl="https://hee.ink/index.xml" htmlUrl="https://hee.ink/" description="Digital Evergarden - 数字永恒花园 | 蒟蒻的博客"/>
+      <outline text="Eternal digital memory - 永恒的数字记忆" type="rss" xmlUrl="https://hee.ink/index.xml" htmlUrl="https://hee.ink/" description="Recent content on Digital Evergarden"/>
       <outline text="EVILCOS" type="rss" xmlUrl="https://evilcos.me/?feed=rss2" htmlUrl="https://evilcos.me/" description="//:alert(/Hacking Symbol/)//余弦"/>
       <outline text="f2h2h1's blog" type="rss" xmlUrl="https://f2h2h1.github.io/rss.xml" htmlUrl="https://f2h2h1.github.io/" description="f2h2h1's blog"/>
       <outline text="Fat Blog" type="rss" xmlUrl="https://tingfei.space/index.xml" htmlUrl="https://tingfei.space/" description="Recent content on Fat Blog"/>
@@ -864,7 +864,7 @@
       <outline text="ZM沫. - Life record . 记录自己的日常琐事.旅途世界" type="rss" xmlUrl="https://zmmio.com/feed" htmlUrl="https://zmmio.com/" description="Life record . 记录自己的日常琐事.旅途世界. ZM沫,旅行,日记,宅,Midousir,猫,Typecho,Markdown,css,js,php,html，一个养了猫的非专业技术宅男."/>
     </outline>
     <outline text="Uncategorized">
-      <outline text="7gugu's Blog" type="rss" xmlUrl="https://7gugu.com/index.php/feed/" htmlUrl="https://7gugu.com/" description="在鹅厂搬砖ing"/>
+      <outline text="7gugu's Blog" type="rss" xmlUrl="https://7gugu.com/index.php/feed/" htmlUrl="https://7gugu.com/" description="面对未来, 悲观者正确, 乐观者成功"/>
       <outline text="Aemon's Blog" type="rss" xmlUrl="https://aemoncao.github.io/rss2.xml" htmlUrl="https://www.aemon.top/" description=""/>
       <outline text="Alliot's blog" type="rss" xmlUrl="https://www.iots.vip/atom.xml" htmlUrl="https://www.iots.vip/" description="Maker &amp; Developer"/>
       <outline text="An's Blog" type="rss" xmlUrl="https://zincnode.com/index.xml" htmlUrl="https://zincnode.com/" description="Recent content on An's Blog"/>
