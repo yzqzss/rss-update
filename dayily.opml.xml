@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Tue, 08 Mar 2022 12:29:01</dateCreated>
+    <dateCreated>Wed, 09 Mar 2022 12:29:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -923,7 +923,6 @@
       <outline text="MCOO猫叔" type="rss" xmlUrl="http://mcoo.cc/feed/" htmlUrl="http://mcoo.cc/" description="猫叔日常吐槽，偶尔分享代码。"/>
       <outline text="MlgmXyysd's Cat Nest" type="rss" xmlUrl="https://www.neko.ink/feed/" htmlUrl="https://www.neko.ink/" description="欢迎来猫窝，喵。"/>
       <outline text="MouT.me" type="rss" xmlUrl="https://ghost.mout.me/rss/" htmlUrl="https://mout.me" description="给生活打个草稿"/>
-      <outline text="Mr. Will" type="rss" xmlUrl="https://blog.mrwillcom.vercel.app/atom.xml" htmlUrl="https://mrwillcom.vercel.app/" description="Mr. Will's Blog"/>
       <outline text="ObservatoryX 天文觀測站" type="rss" xmlUrl="https://observatoryx.github.io/atom.xml" htmlUrl="https://observatoryx.github.io/" description=""/>
       <outline text="Palfans's BLOG" type="rss" xmlUrl="https://www.palfans.net/index.xml" htmlUrl="https://www.palfans.net/" description="Recent content on Palfans's BLOG"/>
       <outline text="Phoenix Rain" type="rss" xmlUrl="https://blog.lhp-pku.top/atom.xml" htmlUrl="https://phoenixrain-pku.github.io/" description=""/>
@@ -1048,8 +1047,7 @@
       <outline text="胡子博客" type="rss" xmlUrl="https://huzizi.com/feed/" htmlUrl="https://huzizi.com/" description=""/>
       <outline text="蔬食狂想" type="rss" xmlUrl="https://leafyrhapsody.typlog.io/feed.xml" htmlUrl="https://leafyrhapsody.typlog.io/" description="生命不是商品|聚焦饮食哲思|识破科技之恶|欣赏寂静之美"/>
       <outline text="薇拉航线" type="rss" xmlUrl="https://www.zuozuovera.com/feed" htmlUrl="https://www.zuozuovera.com/" description="网络安全/隐私保护/数据驱动安全/杂记"/>
-      <outline text="蟹壳" type="rss" xmlUrl="https://shellc.cn/feed.xml" htmlUrl="http://shellc.cn/" description="Blog"/>
-      <outline text="蟹壳" type="rss" xmlUrl="http://shellc.cn/feed.xml" htmlUrl="http://shellc.cn/" description="Blog"/>
+      <outline text="蟹壳" type="rss" xmlUrl="https://shellc.cn/feed.xml" htmlUrl="https://shellc.cn/" description="Blog"/>
       <outline text="西乔的九卦" type="rss" xmlUrl="http://blog.xiqiao.info/feed/" htmlUrl="http://blog.xiqiao.info/" description="你会成为你想要成为的样子"/>
       <outline text="认知困难户" type="rss" xmlUrl="https://wangluzhou.com/atom.xml" htmlUrl="http://wangluzhou.github.io/" description="Keep it easy and keep myself busy."/>
       <outline text="贾跃华" type="rss" xmlUrl="https://www.jiayuehua.com/feed.xml" htmlUrl="https://www.jiayuehua.com/" description="大船必能远航！"/>
@@ -1138,6 +1136,7 @@
     </outline>
     <outline text="处理中">
       <outline text="Amphibia" type="rss" xmlUrl="https://lumitytw.github.io/index.xml" htmlUrl="https://lumitytw.github.io/" description="Recent content on Amphibia"/>
+      <outline text="Bboysoul's Blog" type="rss" xmlUrl="https://www.bboy.app/atom.xml" htmlUrl="https://www.bboy.app/" description="向知识投资"/>
       <outline text="BIHell" type="rss" xmlUrl="https://bihell.com/feed.xml" htmlUrl="https://bihell.com/" description="专注于大数据技术"/>
       <outline text="CallMeSoul" type="rss" xmlUrl="https://callmesoul.cn/rss.xml" htmlUrl="https://callmesoul.cn" description="callmesoul前端开发者"/>
       <outline text="Daniel's Blog" type="rss" xmlUrl="https://moecm.com/feed/" htmlUrl="https://moecm.com/" description="Here's the BioniCosmos!"/>
@@ -1170,7 +1169,6 @@
       <outline text="Yamdr" type="rss" xmlUrl="https://www.yamdr.cn/feed" htmlUrl="https://www.yamdr.cn/" description="一个不太随大众的小站，希望这个小站是一张名片,来的人有所收获,故事不结束，青春不散场"/>
     </outline>
     <outline text="暂时隐藏">
-      <outline text="Bboysoul's Blog" type="rss" xmlUrl="https://www.bboy.app/atom.xml" htmlUrl="https://www.bboy.app/" description="向知识投资"/>
       <outline text="LFhacks.com" type="rss" xmlUrl="https://www.lfhacks.com/index.xml" htmlUrl="https://www.lfhacks.com/" description="Recent content on LFhacks.com"/>
       <outline text="Posts on Changkun's Blog" type="rss" xmlUrl="https://changkun.de/blog/posts/index.xml" htmlUrl="https://blog.changkun.de/posts/" description="Recent content in Posts on Changkun's Blog"/>
     </outline>
