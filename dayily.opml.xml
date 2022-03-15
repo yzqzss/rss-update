@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Mon, 14 Mar 2022 12:36:02</dateCreated>
+    <dateCreated>Tue, 15 Mar 2022 12:29:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -143,7 +143,7 @@
       <outline text="iTimothy" type="rss" xmlUrl="https://xiaozhou.net/atom.xml" htmlUrl="https://xiaozhou.net" description="君看一叶舟，出没风波里"/>
       <outline text="Jack.H 's Blog" type="rss" xmlUrl="https://www.jackh.cn/feed" htmlUrl="https://www.jackh.cn/" description="Life is a movie."/>
       <outline text="Jack Liu博客" type="rss" xmlUrl="https://www.jack-liu.com/rss.php" htmlUrl="https://www.jack-liu.com" description="专注于研究新西兰技术移民"/>
-      <outline text="Jacky Tong" type="rss" xmlUrl="http://www.jackytong.com/feed/" htmlUrl="http://www.jackytong.com/" description=""/>
+      <outline text="Jacky Tong" type="rss" xmlUrl="https://www.jackytong.com/feed" htmlUrl="http://www.jackytong.com/" description=""/>
       <outline text="JalenChuh" type="rss" xmlUrl="https://blog.jalenchuh.cn/atom.xml" htmlUrl="https://blog.jalenchuh.cn" description="少年的我"/>
       <outline text="Jarodise – 数字游民部落 – A Chinese Digital Nomad Blog" type="rss" xmlUrl="https://jarodise.com/rss.xml" htmlUrl="https://jarodise.com/" description="中文互联网最权威的数字游民生活方式设计主题内容品牌"/>
       <outline text="Jartto's Blog" type="rss" xmlUrl="http://jartto.wang/atom.xml" htmlUrl="http://jartto.wang/" description="Jartto 个人博客"/>
@@ -295,7 +295,7 @@
       <outline text="std::bodun::blog" type="rss" xmlUrl="https://www.bodunhu.com/blog/index.xml" htmlUrl="https://www.bodunhu.com/blog/" description="std::bodun::blog. Personal Blog of Bodun (Edward) Hu. CS PhD student at University of Texas at Austin. Operating systems, network, heterogeneity, MLSys, anything system. UTCS"/>
       <outline text="Stitch's Blog" type="rss" xmlUrl="https://stitch.cn/atom.xml" htmlUrl="https://stitch.cn/" description="不管梦想有多远,走了多少弯路,总有一天,我们还是会回到,那个最初的地方！"/>
       <outline text="strongwong's Blog" type="rss" xmlUrl="https://blog.strongwong.top/atom.xml" htmlUrl="https://blog.strongwong.top/" description="Embedded Software Engineer. Blogging about tech and life."/>
-      <outline text="Sukka's Blog" type="rss" xmlUrl="https://blog.skk.moe/atom.xml" htmlUrl="https://blog.skk.moe/" description=""/>
+      <outline text="Sukka's Blog" type="rss" xmlUrl="https://blog.skk.moe/atom.xml" htmlUrl="https://blog.skk.moe/" description="Sukka's Blog 苏卡卡的有底洞（博客） —— Sukka(@SukkaW) 随便写东西的地方；技术向，以 Web 相关、前端开发和 Android 相关内容为主"/>
       <outline text="sulinehk's blog - 专注于计算机科学与软件工程的技术博客" type="rss" xmlUrl="https://www.sulinehk.com/index.xml" htmlUrl="https://www.sulinehk.com/" description="Recent content on sulinehk's blog - 专注于计算机科学与软件工程的技术博客"/>
       <outline text="sunnyxx的技术博客" type="rss" xmlUrl="http://blog.sunnyxx.com/atom.xml" htmlUrl="http://blog.sunnyxx.com/" description=""/>
       <outline text="Surager" type="rss" xmlUrl="https://surager.pub/feed.xml" htmlUrl="https://surager.pub/" description="19计算机专业在读&lt;br/&gt;&#10;V&amp;N Blue-Whale&lt;br/&gt;&#10;龙鸣PWN手&lt;br/&gt;&#10;希望你能在这里学到东西&lt;br/&gt;&#10;&lt;a href=&quot;mailto:surager2019@gmail.com&quot;&gt;&#10;  &lt;i class=&quot;fas fa-envelope&quot;&gt;&lt;/i&gt;&#10;&lt;/a&gt;&#10;&lt;a href=&quot;https://github.com/Surager&quot;&gt;&#10;  &lt;i class=&quot;fab fa-github&quot;&gt;&lt;/i&gt;&#10;&lt;/a&gt;&#10;&lt;a href=&quot;https://surager.pub/feed.xml&quot;&gt;&#10;  &lt;i class=&quot;fas fa-rss&quot;&gt;&lt;/i&gt;&#10;&lt;/a&gt;&#10;&lt;iframe &#10;  frameborder=&quot;no&quot; &#10;  border=&quot;0&quot; &#10;  marginwidth=&quot;0&quot; &#10;  marginheight=&quot;0&quot; &#10;  width=100% &#10;  height=52 &#10;  src=&quot;https://music.163.com/outchain/player?type=2&amp;id=1453894413&amp;auto=0&amp;height=32&quot;&#10;&gt;&lt;/iframe&gt;"/>
@@ -826,6 +826,7 @@
       <outline text="生产力维基" type="rss" xmlUrl="https://productivity.wiki/feed/podcast" htmlUrl="https://productivity.wiki" description="一个关注时间管理、知识管理、目标管理、项目管理、精力管理和个人效能的播客. 欢迎一同讨论生产力工具的心得！"/>
       <outline text="生活在别处" type="rss" xmlUrl="https://feeds.fireside.fm/life-is-elsewhere/rss" htmlUrl="https://life-is-elsewhere.com/" description="欢迎光临“生活在别处”，我是主播响响。“生活在别处”，是一档 和嘉宾们一起探索打卡上班之外另一种人生体验 的聊天节目，内容与嘉宾的日常执迷的爱好高度相关，涉及且不限于，文学、电影、博物、绘画等等。如果你感兴趣，可以在Apple podcast, Spotify以及其他泛用性播客和官网 life-is-elsewhere.com 收听和订阅本节目。"/>
       <outline text="疯投圈" type="rss" xmlUrl="https://crazy.capital/feed" htmlUrl="https://crazy.capital/" description="做中文世界最有意思的商业类播客"/>
+      <outline text="疲惫娇娃 CyberPink" type="rss" xmlUrl="https://cyberpinkfm.typlog.io/feed.xml" htmlUrl="https://cyberpinkfm.typlog.io/" description="一档从饭桌聊到宇宙深处的泛文化播客，用女性的声波延展对世界的参与和想象"/>
       <outline text="看理想电台" type="rss" xmlUrl="https://api.vistopia.com.cn/rss/program/13.xml" htmlUrl="https://api.vistopia.com.cn/rss/program/13.xml" description="「看理想」App，一个陪你成长的知识剧场。&#10;看理想电台，由看理想出品，入选“2019 Apple 最佳播客”。每周四更新，不一定有用的电台杂志。&#10;欢迎下载「看理想」App留言互动。"/>
       <outline text="硬地文化" type="rss" xmlUrl="https://www.indie.cn/feed/" htmlUrl="https://www.indie.cn/" description=""/>
       <outline text="硬影像" type="rss" xmlUrl="https://hardimage.pro/feed/audio.xml" htmlUrl="https://hardimage.pro/" description="《硬影像》由 IPN 出品，由罗登主持，是一个关注影像之一切的播客。谈论影像背后的技术，历史和哲理。"/>
@@ -884,6 +885,7 @@
       <outline text="Ek1ng's Blog" type="rss" xmlUrl="https://ek1ng.com/atom.xml" htmlUrl="http://ek1ng.com/" description=""/>
       <outline text="Eulerian Moe" type="rss" xmlUrl="https://eulerian.xyz/feed.xml" htmlUrl="https://eulerian.xyz/" description=""/>
       <outline text="Fatesinger" type="rss" xmlUrl="https://fatesinger.com/feed" htmlUrl="https://fatesinger.com/" description="This is my zine. I write about shit I care about."/>
+      <outline text="Folyd's Blog" type="rss" xmlUrl="https://folyd.com/blog/feed.xml" htmlUrl="https://folyd.com/blog/" description=""/>
       <outline text="Frank笔记" type="rss" xmlUrl="https://frank2019.me/rss.xml" htmlUrl="https://frank2019.me/" description="记录蜕变后的生活"/>
       <outline text="gd1214b's blog" type="rss" xmlUrl="https://blog.gd1214b.icu/atom.xml" htmlUrl="https://blog.gd1214b.icu/" description="念念不忘，必有回响"/>
       <outline text="Guyskk的博客" type="rss" xmlUrl="https://blog.guyskk.com/feed.xml" htmlUrl="https://blog.guyskk.com/" description="Guyskk的博客 | 聊技术，谈生活，分享我的作品"/>
