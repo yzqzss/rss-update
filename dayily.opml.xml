@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Wed, 16 Mar 2022 12:28:01</dateCreated>
+    <dateCreated>Thu, 17 Mar 2022 12:29:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -392,6 +392,7 @@
       <outline text="乐趣生活" type="rss" xmlUrl="https://funs.life/atom.xml" htmlUrl="https://funs.life/" description="发现生活的乐趣，放肆生活"/>
       <outline text="也而的博客" type="rss" xmlUrl="https://zoomyale.com/rss/" htmlUrl="https://zoomyale.com/" description="在天涯和海角 放石头和葡萄"/>
       <outline text="乱谈府" type="rss" xmlUrl="https://laffitto.xyz/atom.xml" htmlUrl="https://laffitto.xyz/" description="也扯淡，也思考，也学习，也生活"/>
+      <outline text="二丫讲梵" type="rss" xmlUrl="https://wiki.eryajf.net/rss.xml" htmlUrl="https://wiki.eryajf.net" description="💻学习📝记录🔗分享&#13;&#10;学无止境是永远前进的基础，跃然纸上是对知识的总结交代，与众分享则是实现价值的最好方式。"/>
       <outline text="二只老虎" type="rss" xmlUrl="https://2hu.net/feed.xml" htmlUrl="https://2hu.net/" description="虤，二虎博客，二只老虎，熊的猫，标准城市空巢青年。本博客基于Jekyll进行书写。源自生活的点点滴滴和碎碎念。"/>
       <outline text="云原生" type="rss" xmlUrl="https://jimmysong.io/index.xml" htmlUrl="https://jimmysong.io" description="Recent content on Jimmy Song - 云原生|开源|社区"/>
       <outline text="云游君的小站" type="rss" xmlUrl="https://www.yunyoujun.cn/atom.xml" htmlUrl="https://www.yunyoujun.cn" description="All at sea."/>
@@ -576,7 +577,7 @@
       <outline text="橙光笔记" type="rss" xmlUrl="https://kai666666.com/atom.xml" htmlUrl="https://www.kai666666.top/" description=""/>
       <outline text="欧雷流" type="rss" xmlUrl="https://ourai.ws/atom.xml" htmlUrl="https://ourai.ws/" description="我叫欧雷，是一个出生于上世纪 80 年代的理想主义叛逆青年。喜欢日本，热爱咖啡，善于总结。这里有我对技术和语言的研究，也有对世界和生活的思考。"/>
       <outline text="步步走" type="rss" xmlUrl="https://bubuzou.com/atom.xml" htmlUrl="https://bubuzou.com/" description="编程; 前端; 生活; 读书"/>
-      <outline text="比目鱼博客：Bimuyu's Blog" type="rss" xmlUrl="http://www.bimuyu.com/blog/rss.xml" htmlUrl="http://www.bimuyu.com/blog/" description="比目鱼博客"/>
+      <outline text="比目鱼博客：Bimuyu's Blog" type="rss" xmlUrl="https://www.bimuyu.com/blog/rss.xml" htmlUrl="http://www.bimuyu.com/blog/" description="比目鱼: 博客"/>
       <outline text="水八口记 • 记录当下赠与未来" type="rss" xmlUrl="http://blog.shuiba.co/feed" htmlUrl="http://blog.shuiba.co/" description=""/>
       <outline text="求闻 — 中国大陆维基人" type="rss" xmlUrl="https://qiuwen.wmcug.org.cn/feed/" htmlUrl="https://qiuwen.wmcug.org.cn/" description="Qiuwen - Wikimedians of Mainland China"/>
       <outline text="江边的旱鸭子" type="rss" xmlUrl="https://blog.joouis.com/atom.xml" htmlUrl="https://blog.joouis.com" description="Blog of Joou"/>
@@ -760,7 +761,7 @@
       <outline text="ggtalk" type="rss" xmlUrl="https://talkcdn.swift.gg/static/rss.xml" htmlUrl="https://talk.swift.gg/" description="接地气、有价值的闲聊节目。一帮程序员，在无尽的接需求写代码改 bug 加班上线循环中开辟出来的一块空地，想想过去，聊聊现在，偶尔也展望一下未来。&#10;&#10;头发越来越少，经验越来越多；颈椎开始僵硬，头脑依然灵活。代码写多了就想尝试点新东西，聊技术，聊工作，聊生活。挤地铁？又堵车？随便点一期吧，听个乐呵。&#10;&#10;我们的网站：https://swift.gg，我们的微博@SwiftGG翻译组，我的微博@梁杰_numbbbbb，我的邮箱：numbbbbb@swift.gg。"/>
       <outline text="Go 夜聊" type="rss" xmlUrl="https://talkgo.fm/index.xml" htmlUrl="https://talkgo.fm/" description="「Go 夜聊」是一档由杨文和欧长坤主持的针对 Go 语言发展史的播客节目。我们的宗旨是让更多的人了解 Go 语言的发展历史和未来规划，希望大家在这里可以了解到 Go 语言的方方面面。如果你觉得「Go 夜聊」做的还不错，欢迎你推荐给身边的朋友。如果你对我们有任何意见或建议，请给我们来信，我们的邮箱地址是 [hi@talkgo.fm](mailto:hi@talkgo.fm)，如果你想跟大家交流讨论，可以加入我们的 [telegram 群](https://t.me/talkgofm) Listen Notes"/>
       <outline text="NickTalk" type="rss" xmlUrl="https://niketaoke.com/rss" htmlUrl="https://www.nicktalk.com/" description="格物致知，興趣相投。紀錄關於政治、科技和文化的奇思妙想。"/>
-      <outline text="Steve说" type="rss" xmlUrl="http://steveshuo.com/rss" htmlUrl="http://steveshuo.com/" description="“Steve说”被评为2019苹果最佳播客，这是一个基于泛心理学视角，通过深度交流拓展意识边界，探索个人成长之道，加深对自我和世界理解的谈话类节目。主播史秀雄是独立心理咨询师，译有现象级心理学著作《人生十二法则》，著有畅销书《假性亲密关系》，国内首档男性气质主题播客《Man立》的主播，心理学讲师，2017年中国最具影响力的50位心理学者，巴西柔术蓝带，哈雷骑手。微博/公众号：@史秀雄Steve，微信：stevesfk。"/>
+      <outline text="Steve说" type="rss" xmlUrl="http://steveshuo.com/rss" htmlUrl="http://steveshuo.com/" description="“Steve说”被评为2019苹果最佳播客，这是一个基于泛心理学视角，通过深度交流拓展意识边界，探索个人成长之道，加深对自我和世界理解的谈话类节目。主播史秀雄是独立心理咨询师，译有现象级心理学著作《人生十二法则》，著有畅销书《假性亲密关系》，国内首档男性气质主题播客《Man立》的主播，心理学讲师，2017年中国最具影响力的50位心理学者，巴西柔术蓝带，哈雷骑手。微博@史秀雄Steve说，公众号/知乎@史秀雄Steve，微信：stevesfk。"/>
       <outline text="UX Coffee 设计咖" type="rss" xmlUrl="https://uxcoffee.com/feed/audio.xml" htmlUrl="https://www.uxcoffee.com/" description="我们试图通过和设计这个世界的人们交谈，探寻创造的过程。&#10;&#10;合作：uxcoffee123@gmail.com"/>
       <outline text="Velas电波站" type="rss" xmlUrl="https://www.velasx.com/feed" htmlUrl="https://www.velasx.com" description="非正常信号发射与搜寻装置"/>
       <outline text="Vibration 歪波音室" type="rss" xmlUrl="https://vibration-radio.com/feed/audio.xml" htmlUrl="https://vibration-radio.com/" description="音乐太多，耳朵太少"/>
@@ -1156,7 +1157,6 @@
       <outline text="zcmimi's blog" type="rss" xmlUrl="https://blog.zcmimi.top/atom.xml" htmlUrl="https://blog.zcmimi.top/" description=""/>
       <outline text="ZM沫. - Life record . 记录自己的日常琐事.旅途世界" type="rss" xmlUrl="https://zmmio.com/feed/" htmlUrl="https://zmmio.com/" description="Life record . 记录自己的日常琐事.旅途世界. ZM沫,旅行,日记,宅,Midousir,猫,Typecho,Markdown,css,js,php,html，一个养了猫的非专业技术宅男."/>
       <outline text="不一止集" type="rss" xmlUrl="http://buyivi.xyz/feed/" htmlUrl="http://buyivi.xyz/" description="从不会离去，才知道何时会相逢"/>
-      <outline text="二丫讲梵" type="rss" xmlUrl="https://wiki.eryajf.net/rss.xml" htmlUrl="https://wiki.eryajf.net" description="💻学习📝记录🔗分享&#10;学无止境是永远前进的基础，跃然纸上是对知识的总结交代，与众分享则是实现价值的最好方式。"/>
       <outline text="二楞的闲谈杂鱼" type="rss" xmlUrl="https://godruoyi.com/feeds" htmlUrl="https://godruoyi.com/" description="二楞的闲谈杂鱼."/>
       <outline text="四方之云" type="rss" xmlUrl="https://jingyig.com/atom.xml" htmlUrl="https://jingyig.com/" description=""/>
       <outline text="城中村群租房" type="rss" xmlUrl="https://www.darmau.com/rss/" htmlUrl="https://www.darmau.com" description="深圳不是我的家，我的家乡没有城中村"/>
