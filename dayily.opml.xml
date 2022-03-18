@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Thu, 17 Mar 2022 12:29:01</dateCreated>
+    <dateCreated>Fri, 18 Mar 2022 12:29:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -896,6 +896,7 @@
       <outline text="HardCoder" type="rss" xmlUrl="https://www.netroby.com/rss" htmlUrl="https://www.netroby.com/" description="Opensource , linux, golang"/>
       <outline text="Harry Chen’s Blog" type="rss" xmlUrl="https://harrychen.xyz/feed.xml" htmlUrl="https://harrychen.xyz/" description="The personal blog of Shengqi Chen &lt;i at harrychen dot xyz&gt;"/>
       <outline text="Houge's Madness Blog" type="rss" xmlUrl="https://litterhougelangley.life/blog/feed/" htmlUrl="https://litterhougelangley.life/blog" description="哪里有人会喜欢孤独，不过是不喜欢失望"/>
+      <outline text="I'm KT" type="rss" xmlUrl="https://kytrun.com/atom.xml" htmlUrl="https://kytrun.com/" description="Work is part of life, life is all."/>
       <outline text="iBug" type="rss" xmlUrl="https://ibug.io/feed.xml" htmlUrl="https://ibug.io/" description="The little personal site for iBug"/>
       <outline text="ice@yaya" type="rss" xmlUrl="https://blog.yaya.pm/feed" htmlUrl="https://blog.yaya.pm/" description="try again, fail better."/>
       <outline text="icebreaker" type="rss" xmlUrl="https://www.icebreaker.top/rss.xml" htmlUrl="https://icebreaker.top/" description="一位打字员"/>
@@ -1065,6 +1066,7 @@
       <outline text="风雨雷电堂" type="rss" xmlUrl="https://www.linchangyu.com/feed.xml" htmlUrl="http://www.linchangyu.com/" description="十八线互联网公司产品经理/UX行业研究/独立开发者/填字游戏爱好者"/>
       <outline text="鱼有愚见" type="rss" xmlUrl="https://blog.acwinds.com/feed/" htmlUrl="https://blog.acwinds.com/" description="数据记事本"/>
       <outline text="黑羽的个人博客" type="rss" xmlUrl="https://blog.thetbw.xyz/atom.xml" htmlUrl="https://blog.thetbw.xyz/" description="分享记录"/>
+      <outline text="默默小屋" type="rss" xmlUrl="http://www.gexiao.me/atom.xml" htmlUrl="http://www.gexiao.me/" description=""/>
       <outline text="𝙋𝙞𝙣𝙠 𝙏𝙝𝙚𝙢𝙚" type="rss" xmlUrl="https://kam.space/feed/" htmlUrl="https://kam.space/" description="一个私人朋友圈主题"/>
     </outline>
     <outline text="不在首页显示">
