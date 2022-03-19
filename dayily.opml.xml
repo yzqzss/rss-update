@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Fri, 18 Mar 2022 12:29:02</dateCreated>
+    <dateCreated>Sat, 19 Mar 2022 12:28:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -332,7 +332,7 @@
       <outline text="walterlv" type="rss" xmlUrl="https://blog.walterlv.com/feed.xml" htmlUrl="https://blog.walterlv.com/" description="吕毅的博客。.NET/C#/WinUI/MAUI/WPF Windows 应用开发者，微软最有价值专家，Microsoft MVP。"/>
       <outline text="Wangjianshuo's Blog" type="rss" xmlUrl="http://home.wangjianshuo.com/feed" htmlUrl="http://home.wangjianshuo.com/" description="Events (in Shanghai) that affect my life (and others')"/>
       <outline text="webfrogs" type="rss" xmlUrl="https://nswebfrog.com/index.xml" htmlUrl="https://nswebfrog.com/" description="Recent content on nswebfrog"/>
-      <outline text="WeepingDogel's Blog" type="rss" xmlUrl="https://weepingdogel.github.io/index.xml" htmlUrl="https://weepingdogel.github.io/" description="Recent content on WeepingDogel's Blog"/>
+      <outline text="WeepingDogel's Blog" type="rss" xmlUrl="https://weepingdogel.github.io/index.xml" htmlUrl="https://weepingdogel.github.io/" description="Write to share"/>
       <outline text="Wei's Blog – All About Money" type="rss" xmlUrl="https://chattymoney.com/feed/" htmlUrl="https://chattymoney.com/" description="Financial Freedom Starts Here"/>
       <outline text="weirane's blog" type="rss" xmlUrl="https://blog.ruo-chen.wang/feed.xml" htmlUrl="https://weirane.github.io/" description="weirane's blog"/>
       <outline text="Windsky博客 | 晔's blog" type="rss" xmlUrl="https://www.okace.cn/feed/" htmlUrl="https://www.okace.cn/" description="Windsky博客 （www.okace.cn） 闫立晔同学的个人博客，爱我所爱，从未离开，欢迎访问。"/>
@@ -392,7 +392,7 @@
       <outline text="乐趣生活" type="rss" xmlUrl="https://funs.life/atom.xml" htmlUrl="https://funs.life/" description="发现生活的乐趣，放肆生活"/>
       <outline text="也而的博客" type="rss" xmlUrl="https://zoomyale.com/rss/" htmlUrl="https://zoomyale.com/" description="在天涯和海角 放石头和葡萄"/>
       <outline text="乱谈府" type="rss" xmlUrl="https://laffitto.xyz/atom.xml" htmlUrl="https://laffitto.xyz/" description="也扯淡，也思考，也学习，也生活"/>
-      <outline text="二丫讲梵" type="rss" xmlUrl="https://wiki.eryajf.net/rss.xml" htmlUrl="https://wiki.eryajf.net" description="💻学习📝记录🔗分享&#13;&#10;学无止境是永远前进的基础，跃然纸上是对知识的总结交代，与众分享则是实现价值的最好方式。"/>
+      <outline text="二丫讲梵" type="rss" xmlUrl="https://wiki.eryajf.net/rss.xml" htmlUrl="https://wiki.eryajf.net" description="💻学习📝记录🔗分享&#10;学无止境是永远前进的基础，跃然纸上是对知识的总结交代，与众分享则是实现价值的最好方式。"/>
       <outline text="二只老虎" type="rss" xmlUrl="https://2hu.net/feed.xml" htmlUrl="https://2hu.net/" description="虤，二虎博客，二只老虎，熊的猫，标准城市空巢青年。本博客基于Jekyll进行书写。源自生活的点点滴滴和碎碎念。"/>
       <outline text="云原生" type="rss" xmlUrl="https://jimmysong.io/index.xml" htmlUrl="https://jimmysong.io" description="Recent content on Jimmy Song - 云原生|开源|社区"/>
       <outline text="云游君的小站" type="rss" xmlUrl="https://www.yunyoujun.cn/atom.xml" htmlUrl="https://www.yunyoujun.cn" description="All at sea."/>
@@ -467,7 +467,7 @@
       <outline text="如鱼饮水" type="rss" xmlUrl="https://wangjiezhe.com/atom.xml" htmlUrl="https://wangjiezhe.com/" description="冷暖自知"/>
       <outline text="姬涛的个人网站" type="rss" xmlUrl="https://www.jitao.tech/rss.xml" htmlUrl="https://www.jitao.tech/" description="一个全栈工程师，来自北京。关注如何用 IT 系统解决实际的业务问题。"/>
       <outline text="字节星球" type="rss" xmlUrl="https://www.bytecho.net/feed/" htmlUrl="https://www.bytecho.net/" description="致力于分享C++、Java、数据结构与算法等计算机科学内容及解决方案。"/>
-      <outline text="孤岛客 - 几支无用笔，半打有心人。" type="rss" xmlUrl="http://www.huangjiwei.com/blog/?feed=rss2" htmlUrl="http://www.huangjiwei.com/blog/" description="几支无用笔，半打有心人。"/>
+      <outline text="孤岛客 - 几支无用笔，半打有心人。" type="rss" xmlUrl="https://www.huangjiwei.com/blog/?feed=rss2" htmlUrl="http://www.huangjiwei.com/blog/" description="几支无用笔，半打有心人。"/>
       <outline text="宇宙的心弦" type="rss" xmlUrl="https://www.physixfan.com/feed/" htmlUrl="https://www.physixfan.com" description="细推物理须行乐 何用浮名绊此身"/>
       <outline text="安志合的学习博客" type="rss" xmlUrl="https://chegva.com/feed/" htmlUrl="https://chegva.com" description="让我们面对现实  让我们忠于理想"/>
       <outline text="宋春林" type="rss" xmlUrl="http://songchunlin.net/cn/feed/" htmlUrl="http://sixf.org/" description=""/>
@@ -1053,6 +1053,7 @@
       <outline text="薇拉航线" type="rss" xmlUrl="https://www.zuozuovera.com/feed" htmlUrl="https://www.zuozuovera.com/" description="网络安全/隐私保护/数据驱动安全/杂记"/>
       <outline text="蟹壳" type="rss" xmlUrl="https://shellc.cn/feed.xml" htmlUrl="https://shellc.cn/" description="Blog"/>
       <outline text="西乔的九卦" type="rss" xmlUrl="http://blog.xiqiao.info/feed/" htmlUrl="http://blog.xiqiao.info/" description="你会成为你想要成为的样子"/>
+      <outline text="覆沉" type="rss" xmlUrl="https://blog.ryey.icu/feeds/atom.xml" htmlUrl="https://blog.ryey.icu/" description="對沒錯，這是「人云E云」那貨的博客"/>
       <outline text="认知困难户" type="rss" xmlUrl="https://wangluzhou.com/atom.xml" htmlUrl="http://wangluzhou.github.io/" description="Keep it easy and keep myself busy."/>
       <outline text="贾跃华" type="rss" xmlUrl="https://www.jiayuehua.com/feed.xml" htmlUrl="https://www.jiayuehua.com/" description="大船必能远航！"/>
       <outline text="赫尔米娜及其他" type="rss" xmlUrl="https://hermine.in/atom.xml" htmlUrl="https://hermine.in/" description="Dear Hermine"/>
