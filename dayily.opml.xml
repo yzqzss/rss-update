@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Mon, 21 Mar 2022 12:29:01</dateCreated>
+    <dateCreated>Tue, 22 Mar 2022 12:29:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -897,6 +897,7 @@
       <outline text="HardCoder" type="rss" xmlUrl="https://www.netroby.com/rss" htmlUrl="https://www.netroby.com/" description="Opensource , linux, golang"/>
       <outline text="Harry Chen’s Blog" type="rss" xmlUrl="https://harrychen.xyz/feed.xml" htmlUrl="https://harrychen.xyz/" description="The personal blog of Shengqi Chen &lt;i at harrychen dot xyz&gt;"/>
       <outline text="Houge's Madness Blog" type="rss" xmlUrl="https://litterhougelangley.life/blog/feed/" htmlUrl="https://litterhougelangley.life/blog" description="哪里有人会喜欢孤独，不过是不喜欢失望"/>
+      <outline text="Hugo.Linの生活志" type="rss" xmlUrl="https://399s.com/feed" htmlUrl="https://399s.com/" description="It's My Life."/>
       <outline text="I'm KT" type="rss" xmlUrl="https://kytrun.com/atom.xml" htmlUrl="https://kytrun.com/" description="Work is part of life, life is all."/>
       <outline text="iBug" type="rss" xmlUrl="https://ibug.io/feed.xml" htmlUrl="https://ibug.io/" description="The little personal site for iBug"/>
       <outline text="ice@yaya" type="rss" xmlUrl="https://blog.yaya.pm/feed" htmlUrl="https://blog.yaya.pm/" description="try again, fail better."/>
@@ -1016,7 +1017,7 @@
       <outline text="御坂研究所" type="rss" xmlUrl="https://www.nosuchfield.com/atom.xml" htmlUrl="http://www.nosuchfield.com/" description=""/>
       <outline text="忘忧的小站" type="rss" xmlUrl="https://wangyou.ink/atom.xml" htmlUrl="https://wangyou.ink/" description=""/>
       <outline text="思泉 | Jev0n" type="rss" xmlUrl="https://jev0n.com/feed/" htmlUrl="https://jev0n.com/" description="Coder,CTFer,专业写BUG"/>
-      <outline text="惶心博客" type="rss" xmlUrl="https://huangxin.dev/atom.xml" htmlUrl="https://huangxin.dev/" description="要知道躯壳会破败 而想法会传载"/>
+      <outline text="惶心博客" type="rss" xmlUrl="https://huangxin.dev/atom.xml" htmlUrl="https://huangxin.dev/" description="等到世界末日那天 偷偷地许愿"/>
       <outline text="愆伏" type="rss" xmlUrl="https://www.tortorse.com/atom.xml" htmlUrl="https://www.tortorse.com/" description="互联网杂谈"/>
       <outline text="提莫酱のBlog" type="rss" xmlUrl="https://www.timochan.cn/feed" htmlUrl="https://www.timochan.cn/" description=""/>
       <outline text="明天的乌云" type="rss" xmlUrl="https://blog.xlab.app/atom.xml" htmlUrl="https://blog.xlab.app/" description="透明人博客"/>
