@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Wed, 23 Mar 2022 12:29:02</dateCreated>
+    <dateCreated>Thu, 24 Mar 2022 12:30:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -173,7 +173,7 @@
       <outline text="Kevin Blog" type="rss" xmlUrl="https://blog.kevinzhow.com/rss/" htmlUrl="https://zhowkev.in/" description="关于产品、技术、生活的碎片"/>
       <outline text="kirito" type="rss" xmlUrl="https://www.kirito41dd.cn/index.xml" htmlUrl="https://www.kirito41dd.cn" description="kirito's blog"/>
       <outline text="kok的笔记本" type="rss" xmlUrl="https://wocai.de/index.xml/" htmlUrl="https://wocai.de" description="Recent content on kok的笔记本"/>
-      <outline text="KP" type="rss" xmlUrl="https://zkpeace.com/blog-cn/atom.xml" htmlUrl="http://zkpeace.com/blog-cn/" description="kp‘s personal site"/>
+      <outline text="KP" type="rss" xmlUrl="https://zkpeace.com/blog-cn/atom.xml" htmlUrl="http://zkpeace.com/blog-cn/" description="The Universe of KP"/>
       <outline text="Krypton's Blog" type="rss" xmlUrl="https://blog.2333332.xyz/atom.xml" htmlUrl="https://blog.2333332.xyz/" description="快来扑腾的博客"/>
       <outline text="KSkun's Blog" type="rss" xmlUrl="https://ksmeow.moe/feed/" htmlUrl="https://ksmeow.moe/" description="May all the beauty be blessed."/>
       <outline text="KuangjuX(狂且)" type="rss" xmlUrl="http://blog.kuangjux.top/atom.xml" htmlUrl="http://blog.kuangjux.top/" description="风声雨声读书声 声声入耳 家事国事天下事 事事关心"/>
