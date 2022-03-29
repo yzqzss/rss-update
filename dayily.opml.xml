@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Mon, 28 Mar 2022 12:29:02</dateCreated>
+    <dateCreated>Tue, 29 Mar 2022 12:29:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -1179,7 +1179,7 @@
       <outline text="ZM沫. - Life record . 记录自己的日常琐事.旅途世界" type="rss" xmlUrl="https://zmmio.com/feed/" htmlUrl="https://zmmio.com/" description="Life record . 记录自己的日常琐事.旅途世界. ZM沫,旅行,日记,宅,Midousir,猫,Typecho,Markdown,css,js,php,html，一个养了猫的非专业技术宅男."/>
       <outline text="不一止集" type="rss" xmlUrl="http://buyivi.xyz/feed/" htmlUrl="http://buyivi.xyz/" description="从不会离去，才知道何时会相逢"/>
       <outline text="二楞的闲谈杂鱼" type="rss" xmlUrl="https://godruoyi.com/feeds" htmlUrl="https://godruoyi.com/" description="二楞的闲谈杂鱼."/>
-      <outline text="四方之云" type="rss" xmlUrl="https://jingyig.com/atom.xml" htmlUrl="https://jingyig.com/" description=""/>
+      <outline text="四方之云" type="rss" xmlUrl="https://jingyig.com/atom.xml" htmlUrl="https://jingyig01.github.io/" description=""/>
       <outline text="城中村群租房" type="rss" xmlUrl="https://www.darmau.com/rss/" htmlUrl="https://www.darmau.com" description="深圳不是我的家，我的家乡没有城中村"/>
       <outline text="多半不走运" type="rss" xmlUrl="https://www.likelyunlucky.xyz/feed/" htmlUrl="https://www.likelyunlucky.xyz" description="多半不走运"/>
       <outline text="小简博客" type="rss" xmlUrl="https://blog.janyork.com/index.php/feed/" htmlUrl="https://blog.janyork.com/" description="专注Java及其他计算机技术、互联网技术教程"/>
