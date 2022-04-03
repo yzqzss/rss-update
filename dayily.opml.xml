@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Sat, 02 Apr 2022 12:29:01</dateCreated>
+    <dateCreated>Sun, 03 Apr 2022 12:29:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -449,6 +449,7 @@
       <outline text="YeungYeah 的乱写地" type="rss" xmlUrl="https://scottyeung.top/atom.xml" htmlUrl="http://scottyeung.top/" description="YeungYeah 的乱写地中记录了作者的所思所想及所为。"/>
       <outline text="Yi's blog" type="rss" xmlUrl="https://wangyi.ai/atom.xml" htmlUrl="https://wangyi.ai/" description=""/>
       <outline text="Yikun" type="rss" xmlUrl="https://yikun.github.io/atom.xml" htmlUrl="http://yikun.github.io/" description=""/>
+      <outline text="Yindongliang" type="rss" xmlUrl="https://yindongliang.com/index.xml" htmlUrl="https://yindongliang.com/" description="Recent content on Yindongliang"/>
       <outline text="Yiran's Blog" type="rss" xmlUrl="https://zdyxry.github.io/atom.xml" htmlUrl="https://zdyxry.github.io/" description=""/>
       <outline text="yiyun's Blog" type="rss" xmlUrl="https://moeci.com/atom.xml" htmlUrl="https://moeci.com/" description="The stupid one is me"/>
       <outline text="ypingcn" type="rss" xmlUrl="https://blog.ypingcn.com/feed.xml" htmlUrl="https://blog.ypingcn.com/" description="这里是 @ypingcn 的个人博客，期待与你发现更大的世界。"/>
@@ -890,7 +891,7 @@
       <outline text="费照君个人网站" type="rss" xmlUrl="https://feizhaojun.com/?feed=rss2" htmlUrl="https://feizhaojun.com" description="费照君"/>
       <outline text="贺叶霜的树" type="rss" xmlUrl="https://blog.heysh.xyz/feed.xml" htmlUrl="https://blog.heysh.xyz/" description="Recent content on 林中阴影"/>
       <outline text="贼拉正经的技术博客" type="rss" xmlUrl="https://stackoverflow.wiki/blog/rss.xml" htmlUrl="https://www.stackoverflow.wiki/" description="@adlered"/>
-      <outline text="贾跃华" type="rss" xmlUrl="https://www.jiayuehua.com/feed.xml" htmlUrl="https://www.jiayuehua.com/" description="大船必能远航！"/>
+      <outline text="贾跃华" type="rss" xmlUrl="https://www.jiayuehua.com/feed.xml" htmlUrl="https://www.jiayuehua.com/" description="Stuff about C++"/>
       <outline text="赫尔米娜及其他" type="rss" xmlUrl="https://hermine.in/atom.xml" htmlUrl="https://hermine.in/" description="Dear Hermine"/>
       <outline text="超能小紫 – mokeyjay" type="rss" xmlUrl="https://www.mokeyjay.com/feed" htmlUrl="https://www.mokeyjay.com/" description="某全沾工程师的博客与日常"/>
       <outline text="轉個彎日誌" type="rss" xmlUrl="https://blog.turn.tw/?feed=rss2" htmlUrl="http://blog.turn.tw" description="by 阿川先生"/>
