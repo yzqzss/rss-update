@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Sat, 09 Apr 2022 12:30:02</dateCreated>
+    <dateCreated>Sun, 10 Apr 2022 12:29:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -29,6 +29,7 @@
       <outline text="anran758's blog" type="rss" xmlUrl="https://anran758.github.io/blog/atom.xml" htmlUrl="https://anran758.github.io/blog/" description=""/>
       <outline text="Armin's Blog" type="rss" xmlUrl="https://arminli.com/rss.xml" htmlUrl="https://arminli.com" description="Armin's Blog."/>
       <outline text="Armstrong" type="rss" xmlUrl="https://armstrong.viyf.org/feed" htmlUrl="https://armstrong.viyf.org/" description="一位视障学生的日志"/>
+      <outline text="ArthurChiao's Blog" type="rss" xmlUrl="http://arthurchiao.art/feed.xml" htmlUrl="https://arthurchiao.github.io/" description="ArthurChiao's Blog"/>
       <outline text="Atlas' Blog" type="rss" xmlUrl="https://atlasoin.xyz/atom.xml" htmlUrl="https://atlasquan.github.io/" description="三七的深夜食堂"/>
       <outline text="Aynxul03 写字的地方" type="rss" xmlUrl="https://ayx.moefox.tech/index.xml" htmlUrl="https://ayx.moefox.tech/" description="Recent content on Aynxul03 写字的地方"/>
       <outline text="azhuge233's" type="rss" xmlUrl="https://azhuge233.com/feed/" htmlUrl="https://azhuge233.com/" description="Hi"/>
@@ -1018,6 +1019,7 @@
       <outline text="Go 夜聊" type="rss" xmlUrl="https://talkgo.fm/index.xml" htmlUrl="https://talkgo.fm/" description="「Go 夜聊」是一档由杨文和欧长坤主持的针对 Go 语言发展史的播客节目。我们的宗旨是让更多的人了解 Go 语言的发展历史和未来规划，希望大家在这里可以了解到 Go 语言的方方面面。如果你觉得「Go 夜聊」做的还不错，欢迎你推荐给身边的朋友。如果你对我们有任何意见或建议，请给我们来信，我们的邮箱地址是 [hi@talkgo.fm](mailto:hi@talkgo.fm)，如果你想跟大家交流讨论，可以加入我们的 [telegram 群](https://t.me/talkgofm) Listen Notes"/>
       <outline text="NickTalk" type="rss" xmlUrl="https://niketaoke.com/rss" htmlUrl="https://www.nicktalk.com/" description="格物致知，興趣相投。紀錄關於政治、科技和文化的奇思妙想。"/>
       <outline text="Steve说" type="rss" xmlUrl="http://steveshuo.com/rss" htmlUrl="http://steveshuo.com/" description="“Steve说”被评为2019苹果最佳播客，这是一个基于泛心理学视角，通过深度交流拓展意识边界，探索个人成长之道，加深对自我和世界理解的谈话类节目。主播史秀雄是独立心理咨询师，译有现象级心理学著作《人生十二法则》，著有畅销书《假性亲密关系》，国内首档男性气质主题播客《Man立》的主播，心理学讲师，2017年中国最具影响力的50位心理学者，巴西柔术蓝带，哈雷骑手。微博@史秀雄Steve说，公众号/知乎@史秀雄Steve，微信：stevesfk。"/>
+      <outline text="Tunight - 金枪鱼之夜" type="rss" xmlUrl="https://podcast.tuna.moe/podcast.xml" htmlUrl="https://podcast.tuna.moe/" description="金枪鱼之夜"/>
       <outline text="UX Coffee 设计咖" type="rss" xmlUrl="https://uxcoffee.com/feed/audio.xml" htmlUrl="https://www.uxcoffee.com/" description="我们试图通过和设计这个世界的人们交谈，探寻创造的过程。&#10;&#10;合作：uxcoffee123@gmail.com"/>
       <outline text="Vibration 歪波音室" type="rss" xmlUrl="https://vibration-radio.com/feed.xml" htmlUrl="https://vibration-radio.com/" description="音乐太多，耳朵太少"/>
       <outline text="weak self" type="rss" xmlUrl="https://feeds.soundon.fm/podcasts/233d04e2-60e9-4060-a687-6b7316187f48.xml" htmlUrl="https://weakself.dev/" description="在 iOS 開發圈打滾的台灣工程師，專為 Apple &amp; iOS 開發者而製作的中文 Podcast。內容涵蓋 Apple 開發圈的新知討論、踩坑經驗、人物採訪、社群活動、職場生活。更多資訊請見官網 https://weakself.dev 或是 Twitter @weak_self"/>
