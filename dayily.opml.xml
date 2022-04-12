@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Mon, 11 Apr 2022 12:30:02</dateCreated>
+    <dateCreated>Tue, 12 Apr 2022 12:29:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -392,6 +392,7 @@
       <outline text="SOLOS" type="rss" xmlUrl="https://www.ifdie.cn/feed" htmlUrl="https://www.ifdie.cn/" description="SOLOS 技术博客"/>
       <outline text="std::bodun::blog" type="rss" xmlUrl="https://www.bodunhu.com/blog/index.xml" htmlUrl="https://www.bodunhu.com/blog/" description="std::bodun::blog. Personal Blog of Bodun (Edward) Hu. CS PhD student at University of Texas at Austin. Operating systems, network, heterogeneity, MLSys, anything system. UTCS"/>
       <outline text="Stitch's Blog" type="rss" xmlUrl="https://stitch.cn/atom.xml" htmlUrl="https://stitch.cn/" description="不管梦想有多远,走了多少弯路,总有一天,我们还是会回到,那个最初的地方！"/>
+      <outline text="Stray Episode" type="rss" xmlUrl="https://farer.org/rss/" htmlUrl="https://farer.org/" description="Scientific Evocation"/>
       <outline text="strongwong's Blog" type="rss" xmlUrl="https://blog.strongwong.top/atom.xml" htmlUrl="https://blog.strongwong.top/" description="Embedded Software Engineer. Blogging about tech and life."/>
       <outline text="Sukka's Blog" type="rss" xmlUrl="https://blog.skk.moe/atom.xml" htmlUrl="https://blog.skk.moe/" description="Sukka's Blog 苏卡卡的有底洞（博客） —— Sukka(@SukkaW) 随便写东西的地方；技术向，以 Web 相关、前端开发和 Android 相关内容为主"/>
       <outline text="sulinehk's blog - 专注于计算机科学与软件工程的技术博客" type="rss" xmlUrl="https://www.sulinehk.com/index.xml" htmlUrl="https://www.sulinehk.com/" description="Recent content on sulinehk's blog - 专注于计算机科学与软件工程的技术博客"/>
@@ -987,6 +988,7 @@
       <outline text="高金的博客" type="rss" xmlUrl="https://igaojin.me/atom.xml" htmlUrl="https://igaojin.me/" description=""/>
       <outline text="魚立说" type="rss" xmlUrl="https://www.yulisay.com/rss.xml" htmlUrl="https://www.yulisay.com/?utm_source=feed" description="魚立说 | 一个专注于阅读、编码与写作的个人成长网站。"/>
       <outline text="鱼有愚见" type="rss" xmlUrl="https://blog.acwinds.com/feed/" htmlUrl="https://blog.acwinds.com/" description="数据记事本"/>
+      <outline text="鸟叔の窝" type="rss" xmlUrl="https://thornbird.org/feed" htmlUrl="https://thornbird.org/" description=""/>
       <outline text="鸟窝" type="rss" xmlUrl="https://colobu.com/atom.xml" htmlUrl="https://colobu.com/" description="大道至简 Simplicity is the ultimate form of sophistication"/>
       <outline text="鹏." type="rss" xmlUrl="https://fyljp.com/atom.xml" htmlUrl="https://fyljp.com/" description="Recent content on 疯魔"/>
       <outline text="黄杰敏的博客" type="rss" xmlUrl="https://www.jiemin.com/feed" htmlUrl="https://www.jiemin.com/" description="Welcome to JieMin.com"/>
