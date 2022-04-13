@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Tue, 12 Apr 2022 12:29:02</dateCreated>
+    <dateCreated>Wed, 13 Apr 2022 12:31:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -28,7 +28,7 @@
       <outline text="Android Performance" type="rss" xmlUrl="https://androidperformance.com/atom.xml" htmlUrl="https://androidperformance.com/" description="闻道有先后,术业有专攻,如是而已"/>
       <outline text="anran758's blog" type="rss" xmlUrl="https://anran758.github.io/blog/atom.xml" htmlUrl="https://anran758.github.io/blog/" description=""/>
       <outline text="Armin's Blog" type="rss" xmlUrl="https://arminli.com/rss.xml" htmlUrl="https://arminli.com" description="Armin's Blog."/>
-      <outline text="Armstrong" type="rss" xmlUrl="https://armstrong.viyf.org/feed" htmlUrl="https://armstrong.viyf.org/" description="一位视障学生的日志"/>
+      <outline text="Armstrong" type="rss" xmlUrl="https://lad.one/feed" htmlUrl="https://armstrong.viyf.org/" description="一位视障学生的日志"/>
       <outline text="ArthurChiao's Blog" type="rss" xmlUrl="http://arthurchiao.art/feed.xml" htmlUrl="https://arthurchiao.github.io/" description="ArthurChiao's Blog"/>
       <outline text="Atlas' Blog" type="rss" xmlUrl="https://atlasoin.xyz/atom.xml" htmlUrl="https://atlasquan.github.io/" description="三七的深夜食堂"/>
       <outline text="Aynxul03 写字的地方" type="rss" xmlUrl="https://ayx.moefox.tech/index.xml" htmlUrl="https://ayx.moefox.tech/" description="Recent content on Aynxul03 写字的地方"/>
@@ -1041,7 +1041,7 @@
       <outline text="不在场" type="rss" xmlUrl="https://buzaichang.xyz/feed/audio.xml" htmlUrl="https://buzaichang.xyz/" description="对无用之事的obsessions"/>
       <outline text="业余玩家" type="rss" xmlUrl="https://amateurplayer.libsyn.com/rss" htmlUrl="https://www.yeyuwanjia.net" description="《业余玩家》是一档关注影像、科技的播客，关注艺术和技术背后的故事。我们推荐您用泛用型播客客户端收听我们的节目。您也可以在喜马拉雅、网易云音乐等平台搜索「业余玩家播客」找到我们。"/>
       <outline text="主唱死了" type="rss" xmlUrl="https://zhuchangsile.xyz/feed/audio.xml" htmlUrl="https://zhuchangsile.xyz/" description="中文世界中与器乐摇滚有关的资料和讨论都太少了。&#10;&#10;《主唱死了》由活跃于上海地下音乐现场的 B 哥和佳杰创立并主持，内容聚焦于与器乐摇滚有关的乐队、唱片、现场等；通过这档谈话节目，希望能为各位新老乐迷提供聆听指南及值得探讨的话题，为中国地下器乐摇滚场景增添更多时鲜内容。&#10;&#10;主持：&#10;B：非主流器乐摇滚乐迷&#10;佳杰：An Corporation 乐队吉他手，Telegram Channel：「蛙音通讯」&#10;&#10;官网：zhuchangsile.xyz&#10;Instagram，微博，公众号，Patreon，爱发电：「主唱死了」"/>
-      <outline text="九木侃" type="rss" xmlUrl="https://jiumutalk.com/feed/audio.xml" htmlUrl="https://jiumutalk.com/" description="一档从「信息安全博士」和「新晋奶爸」两个视角进行的关于前沿科技思考和生活娱乐闲聊的播客节目"/>
+      <outline text="九木侃" type="rss" xmlUrl="https://jiumutalk.com/feed/audio.xml" htmlUrl="https://jiumutalk.com/" description="一档「信息安全博士」和「新晋奶爸」视角下的前沿科技思考和生活娱乐闲聊播客"/>
       <outline text="二分电台" type="rss" xmlUrl="https://binary.2bab.me/feed/audio.xml" htmlUrl="https://binary.2bab.me/" description="一档互联网主题的闲聊节目，旨在少传播焦虑，多分享热忱。"/>
       <outline text="交差点" type="rss" xmlUrl="https://jiaocha.io/feed.xml" htmlUrl="https://jiaocha.io/" description="《交差点》是一档由 Jesse Chan 发起，与 Alex、林檎共同主播的科技人文主题播客。我们主张「科技与人文的十字路口」背后不应是一种二元的选择，两者应当是相互作用，并彼此驱动的关系。 除了用技术的方法解决问题，我们将致力于探索如何在技术崇拜盛行的今天保留人性，试图用人文的视角解读技术语境下的趣味，消除二者的对立，促成其有机结合。"/>
       <outline text="人间指南" type="rss" xmlUrl="https://renjianzhinan.xyz/podcast.xml" htmlUrl="https://renjianzhinan.xyz/" description="人间指南，hb 制作"/>
@@ -1123,6 +1123,9 @@
     </outline>
     <outline text="SSL错误">
       <outline text="ZM沫. - Life record . 记录自己的日常琐事.旅途世界" type="rss" xmlUrl="https://zmmio.com/feed" htmlUrl="https://zmmio.com/" description="Life record . 记录自己的日常琐事.旅途世界. ZM沫,旅行,日记,宅,Midousir,猫,Typecho,Markdown,css,js,php,html，一个养了猫的非专业技术宅男."/>
+    </outline>
+    <outline text="Uncategorized">
+      <outline text="openSUSE 中文社区" type="rss" xmlUrl="https://suse.org.cn/feed.xml" htmlUrl="https://suse.org.cn/feed.xml" description="openSUSE 中文社区主页，为您带来最新的 openSUSE 资讯，为中文用户的交流提供一席之地。"/>
     </outline>
     <outline text="不在首页显示">
       <outline text="Cryptospace" type="rss" xmlUrl="https://dbarobin.com/feed.xml" htmlUrl="https://dbarobin.com" description="Bitcoin Hodler，自由主义者，区块链创业者，ChainONE 社区发起人，dbarobin.com 博主，隐私极客。如您所见，本人发布的文章与评论内容仅代表本人观点。「万物之中，希望至美；至美之物，永不凋零。」"/>
