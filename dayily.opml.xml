@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Wed, 13 Apr 2022 12:31:01</dateCreated>
+    <dateCreated>Thu, 14 Apr 2022 12:27:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -489,7 +489,7 @@
       <outline text="Zeqiang Fang | 方泽强" type="rss" xmlUrl="https://zeqiang.fun/index.xml" htmlUrl="https://zeqiang.fun/" description="Recent content on Zeqiang Fang | 方泽强"/>
       <outline text="ZFB" type="rss" xmlUrl="https://blog.whuzfb.cn/feed.xml" htmlUrl="https://blog.whuzfb.cn/" description="这是我的个人博客"/>
       <outline text="zhang0peter-记录生活" type="rss" xmlUrl="https://last2win.com/atom.xml" htmlUrl="http://zhang0peter.com/" description="记录学习与生活"/>
-      <outline text="ZhaoQuinn 's Blog" type="rss" xmlUrl="https://zhaoq.me/feed" htmlUrl="https://zhaoq.me/" description="热爱科技,热爱生活."/>
+      <outline text="ZhaoQuinn 's Blog" type="rss" xmlUrl="https://zhaoq.me/feed/" htmlUrl="https://zhaoq.me/" description="热爱科技,热爱生活."/>
       <outline text="Zhendong的博客-KXIT.NET" type="rss" xmlUrl="https://www.kxit.net/blog/feed" htmlUrl="https://www.kxit.net/blog" description="Zhendong的个人小站，分享属于我的态度，发出属于我的声音。"/>
       <outline text="zhengziying.com" type="rss" xmlUrl="https://zhengziying.com/feed/" htmlUrl="https://zhengziying.com/" description=""/>
       <outline text="zhonger 前端开发者，喜爱运维管理" type="rss" xmlUrl="https://blog.lui8.cn/feed.xml" htmlUrl="https://blog.lui8.cn/" description="个人的一个技术博客站点，主要用于记录个人在学习过程中遇到的技术问题及解决方法、技术实验，以及一些比较有趣的事情。"/>
@@ -660,7 +660,7 @@
       <outline text="小非的物理小站" type="rss" xmlUrl="https://xiaophy.com/feed.xml" htmlUrl="https://xiaophy.com/" description="Xiaofei&#10;          欢迎大家使用RSS订阅"/>
       <outline text="山月" type="rss" xmlUrl="https://sanguok.com/feed/" htmlUrl="https://sanguok.com/" description="左海逐月，雙峰遺夢"/>
       <outline text="山葵酱部落格" type="rss" xmlUrl="https://wasabi.fun/feed/" htmlUrl="https://wasabi.fun/" description="世界变幻莫测……我也变幻莫测……所以我是活的变幻莫测。"/>
-      <outline text="屹铭说 - LEO屹铭 - 朕弟先生的笔记" type="rss" xmlUrl="https://www.iccat.cn/feed" htmlUrl="https://www.iccat.cn/" description="记录点滴，学无止境，一个渺小但热爱学习的大学生，分享PHP源码，Python学习，有趣图片，以及一些生活中的心得，当自己的能力撑不起野心，就好好学习。"/>
+      <outline text="屹铭说 - LEO屹铭 - 朕弟先生的笔记" type="rss" xmlUrl="https://www.iccat.cn/feed/" htmlUrl="https://www.iccat.cn/" description="记录点滴，学无止境，一个渺小但热爱学习的大学生，分享PHP源码，Python学习，有趣图片，以及一些生活中的心得，当自己的能力撑不起野心，就好好学习。"/>
       <outline text="峡州仙士之页 - 技术" type="rss" xmlUrl="https://cjh0613.com/categories/%E6%8A%80%E6%9C%AF/rss2.xml" htmlUrl="https://cjh0613.com/" description=""/>
       <outline text="峡州仙士之页 - 日志" type="rss" xmlUrl="https://cjh0613.com/categories/%E6%97%A5%E5%BF%97/rss2.xml" htmlUrl="https://cjh0613.com/" description=""/>
       <outline text="峡州仙士之页 - 杂谈" type="rss" xmlUrl="https://cjh0613.com/categories/%E6%97%B6%E4%BA%8B-%E6%9D%82%E8%B0%88/rss2.xml" htmlUrl="https://cjh0613.com/" description=""/>
