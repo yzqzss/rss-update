@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Thu, 14 Apr 2022 12:27:02</dateCreated>
+    <dateCreated>Fri, 15 Apr 2022 12:43:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -1008,7 +1008,7 @@
       <outline text="翻译动态 | fanyi.news" type="rss" xmlUrl="https://s3.amazonaws.com/revue/accounts/rss_feeds/000/309/498/original/rss_feed_309498.xml?1636259263" htmlUrl="https://www.getrevue.co/profile/translation" description="全球翻译行业观察"/>
       <outline text="若有所播丨To Be Podcasting" type="rss" xmlUrl="https://www.getrevue.co/profile/tobepodcasting?format=rss" htmlUrl="https://www.getrevue.co/profile/tobepodcasting" description="若有所播丨To Be Podcasting"/>
       <outline text="轻芒封面" type="rss" xmlUrl="https://s3.amazonaws.com/revue/accounts/rss_feeds/000/259/726/original/rss_feed_259726.xml?1630972807" htmlUrl="https://www.getrevue.co/profile/qingmang" description="每周一到周五，和轻芒一起深度阅读。"/>
-      <outline text="野生架构师" type="rss" xmlUrl="https://s3.amazonaws.com/revue/accounts/rss_feeds/000/413/468/original/rss_feed_413468.xml?1648299808" htmlUrl="http://weekly.codelc.com/" description="💌 这是由 lcomplete 每周发送的 newsletter，它分享简短实用的效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 等，感谢你的阅读！&#10;所有的原文都放在 &lt;a href=&quot;https://github.com/lcomplete/TechShare&quot; rel=&quot;nofollow&quot;&gt;https://github.com/lcomplete/TechShare&lt;/a&gt; 。"/>
+      <outline text="野生架构师" type="rss" xmlUrl="https://s3.amazonaws.com/revue/accounts/rss_feeds/000/413/468/original/rss_feed_413468.xml?1648299808" htmlUrl="http://weekly.codelc.com/" description="💌 这是由 lcomplete 每周发送的 newsletter，包含 1 个深度话题和若干效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 等，感谢你的阅读！&#10;所有的原文都放在 &lt;a href=&quot;https://github.com/lcomplete/TechShare&quot; rel=&quot;nofollow&quot;&gt;https://github.com/lcomplete/TechShare&lt;/a&gt; 。"/>
     </outline>
     <outline text="Podcast|播客">
       <outline text="Anyway.FM 设计杂谈" type="rss" xmlUrl="https://anyway.fm/rss.xml" htmlUrl="https://anyway.fm/" description="由 UI 设计师 JJ Ying 和 Leon Gao 主播的 podcast，主题包括但不限于视觉设计，入选 2015 年 Apple 最佳播客榜单。Anyway.FM 是两个闷骚男抒发对设计热情的地方、Anyway.FM 是两个老男人吐槽世界的地方、Anyway.FM 也是一对好基友想把自己的见解分享给更多人的地方。"/>
