@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Sat, 16 Apr 2022 12:30:02</dateCreated>
+    <dateCreated>Sun, 17 Apr 2022 12:29:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -513,7 +513,7 @@
       <outline text="一克猫" type="rss" xmlUrl="https://www.1gcat.com/feed/" htmlUrl="https://www.1gcat.com/" description="一只微不足道的猫"/>
       <outline text="一只会敲代码的Sheep" type="rss" xmlUrl="https://codeyang.pages.dev/atom.xml" htmlUrl="https://codeyang.pages.dev/" description="Koyang'Blog"/>
       <outline text="一叶斋" type="rss" xmlUrl="https://xieguanglei.github.io/blog/feed.xml" htmlUrl="http://xieguanglei.github.io/" description="一叶障目 一叶知秋"/>
-      <outline text="一叶知秋" type="rss" xmlUrl="https://blog.rain.cx/feed/" htmlUrl="https://blog.rain.cx/" description="自知无人穷碧落，却愿有梦度余生。"/>
+      <outline text="一叶知秋" type="rss" xmlUrl="https://blog.rain.cx/feed/" htmlUrl="https://blog.rain.cx/" description="悟已往之不谏，知来者之可追。"/>
       <outline text="一座島 - 一座島，一個人，一個世界。" type="rss" xmlUrl="https://island.shaform.com/zh/index.xml" htmlUrl="https://island.shaform.com/zh/" description="Recent content on 一座島"/>
       <outline text="一杯茶" type="rss" xmlUrl="https://www.zuoyu.top/atom.xml" htmlUrl="https://www.zuoyu.top/" description="Follow your heart, Be yourself."/>
       <outline text="一派胡言" type="rss" xmlUrl="https://zhangyet.github.io/feed.xml" htmlUrl="https://zhangyet.github.io/" description="dantezy 的在线栋笃笑"/>
