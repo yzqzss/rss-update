@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Tue, 19 Apr 2022 12:43:01</dateCreated>
+    <dateCreated>Wed, 20 Apr 2022 12:55:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -471,7 +471,7 @@
       <outline text="YeungYeah 的乱写地" type="rss" xmlUrl="https://scottyeung.top/atom.xml" htmlUrl="http://scottyeung.top/" description="YeungYeah 的乱写地中记录了作者的所思所想及所为。"/>
       <outline text="Yi's blog" type="rss" xmlUrl="https://wangyi.ai/atom.xml" htmlUrl="https://wangyi.ai/" description=""/>
       <outline text="Yikun" type="rss" xmlUrl="https://yikun.github.io/atom.xml" htmlUrl="http://yikun.github.io/" description=""/>
-      <outline text="Yindongliang" type="rss" xmlUrl="https://yindongliang.com/index.xml" htmlUrl="https://yindongliang.com/" description="Recent content on Yindongliang"/>
+      <outline text="Yindongliang" type="rss" xmlUrl="https://yindongliang.com/index.xml" htmlUrl="https://yindongliang.com/" description="Recent content on 殷东亮的博客"/>
       <outline text="Yiran's Blog" type="rss" xmlUrl="https://zdyxry.github.io/atom.xml" htmlUrl="https://zdyxry.github.io/" description=""/>
       <outline text="yiyun's Blog" type="rss" xmlUrl="https://moeci.com/atom.xml" htmlUrl="https://moeci.com/" description="The stupid one is me"/>
       <outline text="ypingcn" type="rss" xmlUrl="https://blog.ypingcn.com/feed.xml" htmlUrl="https://blog.ypingcn.com/" description="这里是 @ypingcn 的个人博客，期待与你发现更大的世界。"/>
