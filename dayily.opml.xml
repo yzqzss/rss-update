@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Fri, 22 Apr 2022 12:55:02</dateCreated>
+    <dateCreated>Sat, 23 Apr 2022 12:29:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -209,6 +209,7 @@
       <outline text="JiaYin's Life" type="rss" xmlUrl="https://imjiayin.com/feed" htmlUrl="https://imjiayin.com/" description="I am not perfect but my life is."/>
       <outline text="JieJiSS' Blog" type="rss" xmlUrl="https://blog.jiejiss.com/atom.xml" htmlUrl="https://blog.jiejiss.com" description="Now you see me"/>
       <outline text="Jimmy Song - Cloud Native | Open Source | Community – 博客" type="rss" xmlUrl="https://jimmysong.io/blog/index.xml" htmlUrl="https://jimmysong.io/blog/" description="Recent content in 博客 on Jimmy Song - 云原生|开源|社区"/>
+      <outline text="Jimmy Tian's Blog" type="rss" xmlUrl="https://www.jimmytian.com/feed/" htmlUrl="https://www.jimmytian.com/" description="Jimmy's Notebook"/>
       <outline text="Joe's Blog" type="rss" xmlUrl="https://hijiangtao.github.io/feed.xml" htmlUrl="https://hijiangtao.github.io/" description="All I'm saying is inside, I had the element of surprise."/>
       <outline text="Johnrosen's Blog" type="rss" xmlUrl="https://johnrosen1.com/atom.xml" htmlUrl="https://johnrosen1.com/" description="A good place to share everything."/>
       <outline text="JohnSmith的小家" type="rss" xmlUrl="https://xsn123.top/feed/" htmlUrl="https://xsn123.top/" description="本站分享自己在生活学习中的一些心得体会，如果你也喜欢欢迎关注我"/>
@@ -284,7 +285,7 @@
       <outline text="Lyunvy's Blog" type="rss" xmlUrl="https://blog.lyunvy.top/atom.xml" htmlUrl="https://blog.lyunvy.top/" description="抓住计算机旁的那只蚂蚁"/>
       <outline text="lzw-723's blog" type="rss" xmlUrl="https://blog.lzwi.fun/atom.xml" htmlUrl="https://lzw-723.github.io/" description="要玩就玩得开心，这不代表我放弃"/>
       <outline text="M-x Chris-An-Emacser" type="rss" xmlUrl="https://chriszheng.science/atom.xml" htmlUrl="https://chriszheng.science/" description="一个Emacs爱好者的闲言碎语"/>
-      <outline text="MacTalk-池建强的随想录" type="rss" xmlUrl="http://macshuo.com/?feed=rss2" htmlUrl="http://macshuo.com" description="关注技术和人文"/>
+      <outline text="MacTalk-池建强的随想录" type="rss" xmlUrl="http://macshuo.com/?feed=rss2" htmlUrl="http://macshuo.com" description="让创作成为一种生活方式"/>
       <outline text="maemo的风船" type="rss" xmlUrl="https://www.maemo.cc/feed/" htmlUrl="https://www.maemo.cc/" description="maemolee的个人博客，记录我的兴趣和生活。人活一世，总要给这个世界留下点什么。"/>
       <outline text="MakeItClear" type="rss" xmlUrl="https://mkitclear.github.io/atom.xml" htmlUrl="https://mkitclear.github.io/" description="我不知将去向何方，但我已在路上。"/>
       <outline text="manateelazycat.github.io" type="rss" xmlUrl="https://manateelazycat.github.io/feed.xml" htmlUrl="https://manateelazycat.github.io/" description="My personal blog"/>
@@ -455,7 +456,7 @@
       <outline text="Wujunze's Blog" type="rss" xmlUrl="https://wujunze.com/index.xml" htmlUrl="https://wujunze.com" description="Recent content in wujunze`s Blog on wujunze`s Blog"/>
       <outline text="Wulu's Blog" type="rss" xmlUrl="https://wulu.zone/atom.xml" htmlUrl="https://emuqi.github.io/" description=""/>
       <outline text="WuSiYu Blog" type="rss" xmlUrl="https://wusiyu.me/feed/" htmlUrl="https://wusiyu.me" description="IT相关各种折腾"/>
-      <outline text="wys.me" type="rss" xmlUrl="https://wangyushuang.com/?feed=rss2" htmlUrl="https://wangyushuang.com" description="Including all the text paragraphs arranged by him."/>
+      <outline text="wys.me" type="rss" xmlUrl="https://wangyushuang.com/feed" htmlUrl="https://wangyushuang.com" description="Including all the text paragraphs arranged by him."/>
       <outline text="wzyboy's blog" type="rss" xmlUrl="https://wzyboy.im/feed.xml" htmlUrl="https://wzyboy.im/" description=""/>
       <outline text="XAOXUU" type="rss" xmlUrl="https://xaoxuu.com/atom.xml" htmlUrl="https://xaoxuu.com/" description="风暴前夕 | xaoxuu.com"/>
       <outline text="x Homology's RSS Feed" type="rss" xmlUrl="https://www.giuem.com/rss.xml" htmlUrl="https://www.giuem.com/" description="GIUEM(@giuemcom) 的博客，平常会简单开箱测评买到的科技数码产品，也会记录分享日常的折腾奇奇怪怪的东西，技术向的文章会偏前端、信息安全"/>
@@ -1010,7 +1011,7 @@
       <outline text="翻译动态 | fanyi.news" type="rss" xmlUrl="https://s3.amazonaws.com/revue/accounts/rss_feeds/000/309/498/original/rss_feed_309498.xml?1636259263" htmlUrl="https://www.getrevue.co/profile/translation" description="全球翻译行业观察"/>
       <outline text="若有所播丨To Be Podcasting" type="rss" xmlUrl="https://www.getrevue.co/profile/tobepodcasting?format=rss" htmlUrl="https://www.getrevue.co/profile/tobepodcasting" description="若有所播丨To Be Podcasting"/>
       <outline text="轻芒封面" type="rss" xmlUrl="https://s3.amazonaws.com/revue/accounts/rss_feeds/000/259/726/original/rss_feed_259726.xml?1630972807" htmlUrl="https://www.getrevue.co/profile/qingmang" description="每周一到周五，和轻芒一起深度阅读。"/>
-      <outline text="野生架构师" type="rss" xmlUrl="https://s3.amazonaws.com/revue/accounts/rss_feeds/000/413/468/original/rss_feed_413468.xml?1648299808" htmlUrl="http://weekly.codelc.com/" description="💌 这是由 lcomplete 发送的 newsletter，每周包含 1 个深度话题和若干效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 等，感谢你的阅读！&#10;所有的原文都放在 &lt;a href=&quot;https://github.com/lcomplete/TechShare&quot; rel=&quot;nofollow&quot;&gt;https://github.com/lcomplete/TechShare&lt;/a&gt; 。"/>
+      <outline text="野生架构师" type="rss" xmlUrl="https://s3.amazonaws.com/revue/accounts/rss_feeds/000/413/468/original/rss_feed_413468.xml?1648299808" htmlUrl="http://weekly.codelc.com/" description="💌 这是由 lcomplete 发送的 newsletter，每周包含📝 1 个深度话题和 N 个💻 开发资源、📖 推荐阅读、🕵 探索发现和🛠️ 实用工具 等，感谢你的阅读！&#10;所有的原文都放在 &lt;a href=&quot;https://github.com/lcomplete/TechShare&quot; rel=&quot;nofollow&quot;&gt;https://github.com/lcomplete/TechShare&lt;/a&gt; 。"/>
     </outline>
     <outline text="Podcast|播客">
       <outline text="Anyway.FM 设计杂谈" type="rss" xmlUrl="https://anyway.fm/rss.xml" htmlUrl="https://anyway.fm/" description="由 UI 设计师 JJ Ying 和 Leon Gao 主播的 podcast，主题包括但不限于视觉设计，入选 2015 年 Apple 最佳播客榜单。Anyway.FM 是两个闷骚男抒发对设计热情的地方、Anyway.FM 是两个老男人吐槽世界的地方、Anyway.FM 也是一对好基友想把自己的见解分享给更多人的地方。"/>
