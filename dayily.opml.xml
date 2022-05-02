@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Sun, 01 May 2022 12:42:02</dateCreated>
+    <dateCreated>Mon, 02 May 2022 12:57:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -345,7 +345,7 @@
       <outline text="Posts on Nova Kwok's Awesome Blog" type="rss" xmlUrl="https://nova.moe/posts/index.xml" htmlUrl="https://nova.moe/posts/" description="Recent content in Posts on Nova Kwok's Awesome Blog"/>
       <outline text="Posts on Olist.213" type="rss" xmlUrl="https://olist213.github.io/posts/index.xml" htmlUrl="https://olist213.github.io/posts/" description="Recent content in Posts on Olist.213"/>
       <outline text="Posts on 叶寻 | Cyrus Yip" type="rss" xmlUrl="https://cyrusyip.org/post/index.xml" htmlUrl="https://cyrusyip.org/post/" description="Recent content in Posts on Cyrus Yip | 叶寻"/>
-      <outline text="Power's Wiki Blog" type="rss" xmlUrl="https://wiki-power.com/blog/atom.xml" htmlUrl="https://wiki-power.com/blog" description="Power's Wiki Blog"/>
+      <outline text="Power's Wiki Blog" type="rss" xmlUrl="https://wiki-power.com/blog/atom.xml" htmlUrl="https://wiki-power.com/blog" description="Power's Wiki 的博客 RSS"/>
       <outline text="PRIEWIENV's Blog" type="rss" xmlUrl="https://blog.priewienv.me/index.xml" htmlUrl="https://blog.priewienv.me/" description="Recent content on PRIEWIENV's Blog"/>
       <outline text="Python 工匠" type="rss" xmlUrl="https://www.zlovezl.cn/feeds/latest/" htmlUrl="https://www.zlovezl.cn" description="Programming in python, JavaScript and Golang."/>
       <outline text="qinxs小站" type="rss" xmlUrl="https://7bxing.com/atom.xml" htmlUrl="https://7bxing.com/" description="qinxs的个人博客"/>
@@ -392,7 +392,7 @@
       <outline text="SKYue's Home" type="rss" xmlUrl="https://www.skyue.com/feed/" htmlUrl="https://www.skyue.com/" description=""/>
       <outline text="Skywind Inside" type="rss" xmlUrl="http://www.skywind.me/blog/feed" htmlUrl="http://www.skywind.me/blog" description="写自己的代码，让别人猜去吧"/>
       <outline text="SOLOS" type="rss" xmlUrl="https://www.ifdie.cn/feed" htmlUrl="https://www.ifdie.cn/" description="SOLOS 技术博客"/>
-      <outline text="std::bodun::blog" type="rss" xmlUrl="https://www.bodunhu.com/blog/index.xml" htmlUrl="https://www.bodunhu.com/blog/" description="std::bodun::blog. Personal Blog of Bodun (Edward) Hu. CS PhD student at University of Texas at Austin. Operating systems, network, heterogeneity, MLSys, anything system. UTCS"/>
+      <outline text="std::bodun::blog" type="rss" xmlUrl="https://www.bodunhu.com/blog/index.xml" htmlUrl="https://www.bodunhu.com/blog/" description="Recent content on std::bodun::blog"/>
       <outline text="Stitch's Blog" type="rss" xmlUrl="https://stitch.cn/atom.xml" htmlUrl="https://stitch.cn/" description="不管梦想有多远,走了多少弯路,总有一天,我们还是会回到,那个最初的地方！"/>
       <outline text="Stray Episode" type="rss" xmlUrl="https://farer.org/rss/" htmlUrl="https://farer.org/" description="Scientific Evocation"/>
       <outline text="strongwong's Blog" type="rss" xmlUrl="https://blog.strongwong.top/atom.xml" htmlUrl="https://blog.strongwong.top/" description="Embedded Software Engineer. Blogging about tech and life."/>
