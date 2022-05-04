@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Tue, 03 May 2022 12:39:01</dateCreated>
+    <dateCreated>Wed, 04 May 2022 12:38:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -983,7 +983,7 @@
       <outline text="面向信仰编程" type="rss" xmlUrl="https://draveness.me/feed.xml" htmlUrl="https://draveness.me/" description="面向信仰编程"/>
       <outline text="顾宇的研习笔记" type="rss" xmlUrl="https://www.guyu.me/posts/index.xml" htmlUrl="https://www.guyu.me/" description="Recent content in Posts on 顾宇的博客"/>
       <outline text="风与牧歌" type="rss" xmlUrl="https://blog.besscroft.com/rss.xml" htmlUrl="https://blog.besscroft.com/" description="这里是 BessCroft 的生活与技术博客！非常高兴认识你！"/>
-      <outline text="风也雨忆笙" type="rss" xmlUrl="https://blog.170601.xyz/feed/" htmlUrl="https://170601.xyz/" description="这里是珂泽（kaygb）的个人博客，记录某全沾工程师的技术笔记和划水日常，发布编程相关的笔记和日常生活中有趣的事情。"/>
+      <outline text="风也雨忆笙" type="rss" xmlUrl="https://www.kezez.com/feed/" htmlUrl="https://170601.xyz/" description="这里是珂泽（kaygb）的个人博客，记录某全沾工程师的技术笔记和划水日常，发布编程相关的笔记和日常生活中有趣的事情。"/>
       <outline text="风渐远" type="rss" xmlUrl="https://www.naraku.cn/feed/" htmlUrl="https://www.naraku.cn/" description="Web安全与渗透测试学习笔记"/>
       <outline text="风雨雷电堂" type="rss" xmlUrl="https://www.linchangyu.com/feed.xml" htmlUrl="http://www.linchangyu.com/" description="十八线互联网公司产品经理/UX行业研究/独立开发者/填字游戏爱好者"/>
       <outline text="飞刀博客" type="rss" xmlUrl="https://www.feidaoboke.com/feed.php" htmlUrl="https://www.feidaoboke.com" description="独立的个人博客"/>
