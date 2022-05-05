@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Wed, 04 May 2022 12:38:02</dateCreated>
+    <dateCreated>Thu, 05 May 2022 12:41:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -527,6 +527,7 @@
       <outline text="三省吾身丶丶" type="rss" xmlUrl="https://blog.guowenfh.com/atom.xml" htmlUrl="https://blog.guowenfh.com/" description="兴趣遍地都是，专注和持之以恒才是真正稀缺的。"/>
       <outline text="不吐不快" type="rss" xmlUrl="https://mianao.info/feed" htmlUrl="https://mianao.info" description="我心中的一团火是不会熄地"/>
       <outline text="不方思" type="rss" xmlUrl="https://irr.ink/atom.xml" htmlUrl="https://irr.ink/" description="Like tears in rain."/>
+      <outline text="不死鸟 - 分享为王官网" type="rss" xmlUrl="https://iui.su/feed/" htmlUrl="https://iao.su/" description="不死鸟:专注分享优质资源"/>
       <outline text="不点语书" type="rss" xmlUrl="https://yjalifebook.com/feed/" htmlUrl="https://yjalifebook.com/" description="不点语书：一块「思考」的自留地"/>
       <outline text="丝诺博了个客" type="rss" xmlUrl="https://zhangxue.name/feed/" htmlUrl="https://zhangxue.name/" description="个人博客记二次三次日常"/>
       <outline text="乐心湖's Blog" type="rss" xmlUrl="https://www.xn2001.com/feed/" htmlUrl="https://www.xn2001.com" description="热爱生活不参与吵杂,擅长吹水不失风度,努力平凡不失光芒,希望中国越来越好."/>
