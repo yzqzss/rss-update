@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Fri, 06 May 2022 12:31:01</dateCreated>
+    <dateCreated>Sat, 07 May 2022 12:30:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -895,6 +895,7 @@
       <outline text="胡言胡语" type="rss" xmlUrl="https://husay.cc/feed" htmlUrl="https://husay.cc/" description="总有那么一些话是胡说的"/>
       <outline text="胸毛齐腰" type="rss" xmlUrl="https://dearxs.github.io/index.xml" htmlUrl="https://dearxs.github.io/" description="Recent content on 胸毛齐腰"/>
       <outline text="臨池不輟" type="rss" xmlUrl="https://keelii.com/atom.xml" htmlUrl="https://keelii.com/" description="Recent content on 臨池不輟"/>
+      <outline text="自学路漫漫" type="rss" xmlUrl="https://blog.fxcdev.com/atom.xml" htmlUrl="https://blog.fxcdev.com" description="山，快马加鞭未下鞍。惊回首，离天三尺三。"/>
       <outline text="自由人的 BLOG" type="rss" xmlUrl="https://ifttl.com/rss/" htmlUrl="https://ifttl.com" description="日常记录和只言片语"/>
       <outline text="至道学宫" type="rss" xmlUrl="https://www.zdaox.com/feed" htmlUrl="https://www.zdaox.com/" description="有思想的人都在这里"/>
       <outline text="致郁系" type="rss" xmlUrl="https://www.juroku.net/feed" htmlUrl="https://www.juroku.net/" description=""/>
@@ -1235,7 +1236,6 @@
       <outline text="秋风阁" type="rss" xmlUrl="https://qiufeng.fun/feed/" htmlUrl="https://qiufeng.fun/" description="秋风阁-何处秋风至的个人学习小站"/>
       <outline text="笔记" type="rss" xmlUrl="http://acg19.top/atom.xml" htmlUrl="https://steamfinder.github.io/" description=""/>
       <outline text="笔记杂集" type="rss" xmlUrl="https://tophat.top/atom.xml" htmlUrl="https://tophat.top/" description="笔记与摘要"/>
-      <outline text="自学路漫漫" type="rss" xmlUrl="https://blog.fxcdev.com/feed/" htmlUrl="https://blog.fxcdev.com" description="山，快马加鞭未下鞍。惊回首，离天三尺三。"/>
       <outline text="芍芋之家" type="rss" xmlUrl="https://shoyu.top/feed/" htmlUrl="https://shoyu.top/" description="将会在未来装满干货（？"/>
       <outline text="鹤望兮" type="rss" xmlUrl="https://www.strelizia.cn/index.php/feed/" htmlUrl="https://www.strelizia.cn/" description=""/>
     </outline>
