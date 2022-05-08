@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Sat, 07 May 2022 12:30:02</dateCreated>
+    <dateCreated>Sun, 08 May 2022 12:31:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -297,6 +297,7 @@
       <outline text="mcfx's blog" type="rss" xmlUrl="https://mcfx.us/feed/" htmlUrl="https://mcfx.us/" description="题解、Writeup、游记和碎碎念"/>
       <outline text="MCOO猫叔" type="rss" xmlUrl="http://mcoo.cc/feed/" htmlUrl="http://mcoo.cc/" description="猫叔日常吐槽，偶尔分享代码。"/>
       <outline text="meleteur" type="rss" xmlUrl="https://meleteur.com/feed/" htmlUrl="https://meleteur.com/" description="抛瓦！！！"/>
+      <outline text="MeltyLand of geneLocated" type="rss" xmlUrl="https://melty.land/feed.xml" htmlUrl="https://melty.land" description="MeltyLand of geneLocated"/>
       <outline text="mengtnt的Blog" type="rss" xmlUrl="https://mengtnt.com/feed.xml" htmlUrl="https://mengtnt.com/" description="走自己的路，让别人说去吧"/>
       <outline text="mghio's Blog" type="rss" xmlUrl="https://www.mghio.cn/atom.xml" htmlUrl="https://www.mghio.cn/" description="Java 搬运工 &amp; 终身学习者。"/>
       <outline text="MiaoTony's Blog" type="rss" xmlUrl="https://miaotony.xyz/atom.xml" htmlUrl="https://miaotony.xyz/" description="喵喵喵~"/>
@@ -392,7 +393,7 @@
       <outline text="SKYue's Home" type="rss" xmlUrl="https://www.skyue.com/feed/" htmlUrl="https://www.skyue.com/" description=""/>
       <outline text="Skywind Inside" type="rss" xmlUrl="http://www.skywind.me/blog/feed" htmlUrl="http://www.skywind.me/blog" description="写自己的代码，让别人猜去吧"/>
       <outline text="SOLOS" type="rss" xmlUrl="https://www.ifdie.cn/feed" htmlUrl="https://www.ifdie.cn/" description="SOLOS 技术博客"/>
-      <outline text="std::bodun::blog" type="rss" xmlUrl="https://www.bodunhu.com/blog/index.xml" htmlUrl="https://www.bodunhu.com/blog/" description="Recent content on std::bodun::blog"/>
+      <outline text="std::bodun::blog" type="rss" xmlUrl="https://www.bodunhu.com/blog/index.xml" htmlUrl="https://www.bodunhu.com/blog/" description="PhD student at University of Texas at Austin 🤘. Doing systems for ML."/>
       <outline text="Stitch's Blog" type="rss" xmlUrl="https://stitch.cn/atom.xml" htmlUrl="https://stitch.cn/" description="不管梦想有多远,走了多少弯路,总有一天,我们还是会回到,那个最初的地方！"/>
       <outline text="Stray Episode" type="rss" xmlUrl="https://farer.org/rss/" htmlUrl="https://farer.org/" description="Scientific Evocation"/>
       <outline text="strongwong's Blog" type="rss" xmlUrl="https://blog.strongwong.top/atom.xml" htmlUrl="https://blog.strongwong.top/" description="Embedded Software Engineer. Blogging about tech and life."/>
