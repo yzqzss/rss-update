@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Sun, 08 May 2022 12:31:02</dateCreated>
+    <dateCreated>Mon, 09 May 2022 12:38:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -619,6 +619,7 @@
       <outline text="囧克斯 勾三股四" type="rss" xmlUrl="https://jiongks.name/atom.xml" htmlUrl="https://jiongks.name" description=""/>
       <outline text="土土哥的技术Blog" type="rss" xmlUrl="http://tutuge.me/atom.xml" htmlUrl="http://tutuge.me/" description="iOS程序猿.目前阿里,喜欢各种技术,RCFans"/>
       <outline text="土木坛子" type="rss" xmlUrl="https://tumutanzi.com/feed" htmlUrl="https://tumutanzi.com/" description="和光同尘，与时舒卷"/>
+      <outline text="坐卧行吟" type="rss" xmlUrl="https://lihuazhi.com/feed/" htmlUrl="https://lihuazhi.com/" description="活在这珍贵的人间 / 人类和植物一样幸福 / 爱情和雨水一样幸福"/>
       <outline text="城南以南花亦开" type="rss" xmlUrl="https://blog.coonaa.cn/feed/" htmlUrl="https://blog.coonaa.cn/" description="生活原本沉闷，但跑起来就会有风。"/>
       <outline text="城南旧事" type="rss" xmlUrl="https://blog.loli.top/feed/" htmlUrl="https://blog.loli.top/" description="透过文字和影像记忆，我们延长了至少三倍的生命。"/>
       <outline text="基石" type="rss" xmlUrl="https://sci-fic.xyz/feed/" htmlUrl="https://sci-fic.xyz/" description="基地-银河的边缘"/>
@@ -935,6 +936,7 @@
       <outline text="赫尔米娜及其他" type="rss" xmlUrl="https://hermine.in/atom.xml" htmlUrl="https://hermine.in/" description="Dear Hermine"/>
       <outline text="超能小紫 – mokeyjay" type="rss" xmlUrl="https://www.mokeyjay.com/feed" htmlUrl="https://www.mokeyjay.com/" description="某全沾工程师的博客与日常"/>
       <outline text="轉個彎日誌" type="rss" xmlUrl="https://blog.turn.tw/?feed=rss2" htmlUrl="http://blog.turn.tw" description="by 阿川先生"/>
+      <outline text="软通达" type="rss" xmlUrl="https://cyddgh.github.io/atom.xml" htmlUrl="https://cyddgh.github.io/" description="软件改善生活。本网站会讨论知识管理、时间管理、知识卡片、卡片写作等主题，软件包括thebrain、tiddlywiki、RoamResearch、Obsidian等等。"/>
       <outline text="轶哥博客" type="rss" xmlUrl="https://www.wyr.me/rss.xml" htmlUrl="https://www.wyr.me/" description="一个全栈程序员的技术博客。"/>
       <outline text="过千帆" type="rss" xmlUrl="https://blog.guoqianfan.com/feed.xml" htmlUrl="https://blog.guoqianfan.com/" description="过千帆的博客"/>
       <outline text="述尔" type="rss" xmlUrl="https://amore.ink/feed/" htmlUrl="https://amore.ink/" description="一个产品经理的碎碎念 | 一切从简"/>
