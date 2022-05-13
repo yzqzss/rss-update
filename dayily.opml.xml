@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Thu, 12 May 2022 12:39:01</dateCreated>
+    <dateCreated>Fri, 13 May 2022 13:01:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -81,6 +81,7 @@
       <outline text="DearXuan的主页" type="rss" xmlUrl="https://www.dearxuan.top/atom.xml" htmlUrl="https://www.dearxuan.top" description=""/>
       <outline text="DebugUself with DAMA ;-)" type="rss" xmlUrl="https://du.101.camp/atom.xml" htmlUrl="https://du.101.camp/" description=""/>
       <outline text="Debug客栈" type="rss" xmlUrl="https://www.debuginn.cn/feed" htmlUrl="https://www.debuginn.cn" description="做一个爱分享的程序猿"/>
+      <outline text="Decohack" type="rss" xmlUrl="https://www.decohack.com/feed" htmlUrl="https://www.decohack.com/" description="独立开发者灵感周刊"/>
       <outline text="Deepzz's Blog" type="rss" xmlUrl="https://deepzz.com/rss.html" htmlUrl="https://deepzz.com" description="唯爱与美食不可辜负也 :-D"/>
       <outline text="Dejavu's Blog" type="rss" xmlUrl="https://www.dejavu.moe/index.xml" htmlUrl="https://www.dejavu.moe/" description="Recent content on Dejavu's Blog"/>
       <outline text="delphij's Chaos" type="rss" xmlUrl="https://blog.delphij.net/index.xml" htmlUrl="https://blog.delphij.net/" description="Recent content on delphij's Chaos"/>
