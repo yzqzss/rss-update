@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Wed, 18 May 2022 12:38:02</dateCreated>
+    <dateCreated>Thu, 19 May 2022 12:41:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -223,7 +223,7 @@
       <outline text="JoyQi" type="rss" xmlUrl="https://joyqi.com/feed/" htmlUrl="https://joyqi.com/" description="Do not go gentle into that good night."/>
       <outline text="jtr109's Castle" type="rss" xmlUrl="https://www.jtr109.com/index.xml" htmlUrl="https://www.jtr109.com/" description="Recent content on jtr109's Castle"/>
       <outline text="Jun's Blog" type="rss" xmlUrl="https://www.junz.org/index.xml" htmlUrl="https://junz.org/" description="Recent content on Jun's Blog"/>
-      <outline text="Just.Snake" type="rss" xmlUrl="https://imsnake.cn/?feed=rss2" htmlUrl="https://imsnake.cn/" description="你若不离，我永相依。"/>
+      <outline text="Just.Snake" type="rss" xmlUrl="https://imsnake.cn/?feed=rss2" htmlUrl="https://imsnake.cn/" description="这个世界的主色调是悲伤，我又怎么可以缺席。"/>
       <outline text="Just for Life." type="rss" xmlUrl="https://muyuuuu.github.io/atom.xml" htmlUrl="https://muyuuuu.github.io/" description="明月更几时"/>
       <outline text="Just lepture" type="rss" xmlUrl="https://lepture.com/feed.xml" htmlUrl="https://lepture.com/" description="Love its people, but never trust its government."/>
       <outline text="JustZht" type="rss" xmlUrl="https://www.justzht.com/rss/" htmlUrl="https://www.justzht.com/" description="Haotian Zheng (Justin Fincher)'s blog. CMU mobile engineering student by day, indie apps/games developer by night. 郑昊天的碎碎念博客，日常记事 / 独立软件。"/>
