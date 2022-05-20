@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Thu, 19 May 2022 12:41:01</dateCreated>
+    <dateCreated>Fri, 20 May 2022 12:36:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -972,6 +972,7 @@
       <outline text="遥远的街市" type="rss" xmlUrl="https://blog.henix.info/rss2.0.xml" htmlUrl="https://blog.henix.info/" description="henix 的个人网站"/>
       <outline text="郑泽鑫的博客" type="rss" xmlUrl="https://zhengzexin.com/feed/" htmlUrl="https://zhengzexin.com/" description="一个生信工作者的独立博客"/>
       <outline text="郝海龙" type="rss" xmlUrl="https://haohailong.net/feed.xml" htmlUrl="https://haohailong.net/" description="O semper iuvenis, o semper lacrimans."/>
+      <outline text="酱紫表" type="rss" xmlUrl="https://qust.me/atom.xml" htmlUrl="https://qust.me/" description="复杂的世界里一个就足够了"/>
       <outline text="酷 壳 – CoolShell" type="rss" xmlUrl="https://coolshell.cn/feed" htmlUrl="https://coolshell.cn" description="享受编程和技术所带来的快乐 - Coding Your Ambition"/>
       <outline text="醉乐轩" type="rss" xmlUrl="https://behappy.cc/atom.xml" htmlUrl="https://behappy.cc/" description="以梦为马，醉乐其中。"/>
       <outline text="重归混沌的BLOG" type="rss" xmlUrl="https://blog.gotocoding.com/feed" htmlUrl="https://blog.gotocoding.com" description="师法天地, 道法自然"/>
