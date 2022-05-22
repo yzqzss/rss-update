@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Sat, 21 May 2022 12:32:02</dateCreated>
+    <dateCreated>Sun, 22 May 2022 12:31:03</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -472,6 +472,7 @@
       <outline text="x Homology's RSS Feed" type="rss" xmlUrl="https://www.giuem.com/rss.xml" htmlUrl="https://www.giuem.com/" description="GIUEM(@giuemcom) 的博客，平常会简单开箱测评买到的科技数码产品，也会记录分享日常的折腾奇奇怪怪的东西，技术向的文章会偏前端、信息安全"/>
       <outline text="xiantang - 自律者自由" type="rss" xmlUrl="https://vim0.com/index.xml" htmlUrl="https://xiantang.github.io/" description="Recent content on 咸糖 - 自律者自由"/>
       <outline text="XiaoHui.com" type="rss" xmlUrl="https://www.xiaohui.com/rss/" htmlUrl="https://www.xiaohui.com/" description="XiaoHui.com"/>
+      <outline text="Xiaowen.Z Deployed" type="rss" xmlUrl="https://www.xiaowenz.com/feed" htmlUrl="https://www.xiaowenz.com/" description="&quot;We all learn by making mistakes, and make mistakes again to learn more.&quot;"/>
       <outline text="Xieisabug" type="rss" xmlUrl="https://www.xiejingyang.com/feed/" htmlUrl="https://www.xiejingyang.com/" description="吃饭学家，复制学家，偷懒学家"/>
       <outline text="XIN." type="rss" xmlUrl="https://www.trann.cn/atom.xml" htmlUrl="https://www.trann.cn/" description=""/>
       <outline text="xStack" type="rss" xmlUrl="https://www.xqmq.icu/atom.xml" htmlUrl="http://www.xqmq.icu/m/" description=""/>
