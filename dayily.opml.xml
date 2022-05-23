@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Sun, 22 May 2022 12:31:03</dateCreated>
+    <dateCreated>Mon, 23 May 2022 12:40:04</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -1154,7 +1154,7 @@
     </outline>
     <outline text="Uncategorized">
       <outline text="openSUSE 中文社区" type="rss" xmlUrl="https://suse.org.cn/feed.xml" htmlUrl="https://suse.org.cn/feed.xml" description="openSUSE 中文社区主页，为您带来最新的 openSUSE 资讯，为中文用户的交流提供一席之地。"/>
-      <outline text="ROYWANG" type="rss" xmlUrl="https://uaxk.com/feed" htmlUrl="https://uaxk.com/" description="知善恶，懂因果"/>
+      <outline text="ROYWANG" type="rss" xmlUrl="https://uaxk.com/feed/" htmlUrl="https://uaxk.com/" description="知善恶，懂因果"/>
       <outline text="小小小日天的博客" type="rss" xmlUrl="https://359303267.github.io/atom.xml" htmlUrl="https://359303267.github.io/" description="瞧！这里有个不知道叫什么好的小玩意！"/>
       <outline text="贰猹の小窝" type="rss" xmlUrl="https://noionion.top/atom.xml" htmlUrl="https://noionion.top/" description="奋力奔跑，去追心中的那一道光"/>
     </outline>
