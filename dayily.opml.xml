@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Tue, 24 May 2022 12:41:02</dateCreated>
+    <dateCreated>Wed, 25 May 2022 12:38:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -353,7 +353,7 @@
       <outline text="Posts on Godot's Blog" type="rss" xmlUrl="https://iamgodot.com/posts/index.xml" htmlUrl="https://iamgodot.com/posts/" description="Recent content in Posts on Godot's Blog"/>
       <outline text="Posts on Nova Kwok's Awesome Blog" type="rss" xmlUrl="https://nova.moe/posts/index.xml" htmlUrl="https://nova.moe/posts/" description="Recent content in Posts on Nova Kwok's Awesome Blog"/>
       <outline text="Posts on Olist.213" type="rss" xmlUrl="https://olist213.github.io/posts/index.xml" htmlUrl="https://olist213.github.io/posts/" description="Recent content in Posts on Olist.213"/>
-      <outline text="Posts on 叶寻 | Cyrus Yip" type="rss" xmlUrl="https://cyrusyip.org/post/index.xml" htmlUrl="https://cyrusyip.org/post/" description="Recent content in Posts on Cyrus Yip | 叶寻"/>
+      <outline text="Posts on 叶寻 | Cyrus Yip" type="rss" xmlUrl="https://cyrusyip.org/post/index.xml" htmlUrl="https://cyrusyip.org/post/" description="Recent content on 叶寻的博客"/>
       <outline text="Power's Wiki Blog" type="rss" xmlUrl="https://wiki-power.com/blog/atom.xml" htmlUrl="https://wiki-power.com/blog" description="Power's Wiki 的博客 RSS"/>
       <outline text="PRIEWIENV's Blog" type="rss" xmlUrl="https://blog.priewienv.me/index.xml" htmlUrl="https://blog.priewienv.me/" description="Recent content on PRIEWIENV's Blog"/>
       <outline text="Python 工匠" type="rss" xmlUrl="https://www.zlovezl.cn/feeds/latest/" htmlUrl="https://www.zlovezl.cn" description="Programming in python, JavaScript and Golang."/>
