@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Wed, 25 May 2022 12:38:02</dateCreated>
+    <dateCreated>Thu, 26 May 2022 12:39:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -119,6 +119,7 @@
       <outline text="Eulerian Moe" type="rss" xmlUrl="https://eulerian.xyz/feed.xml" htmlUrl="https://eulerian.xyz/" description=""/>
       <outline text="EVILCOS" type="rss" xmlUrl="https://evilcos.me/?feed=rss2" htmlUrl="https://evilcos.me/" description="//:alert(/Hacking Symbol/)//余弦"/>
       <outline text="f2h2h1's blog" type="rss" xmlUrl="https://f2h2h1.github.io/rss.xml" htmlUrl="https://f2h2h1.github.io/" description="f2h2h1's blog"/>
+      <outline text="Farseerfc的小窩" type="rss" xmlUrl="https://farseerfc.me/feeds/atom.xml" htmlUrl="https://farseerfc.me/" description=""/>
       <outline text="Fat Blog" type="rss" xmlUrl="https://tingfei.space/index.xml" htmlUrl="https://tingfei.space/" description="Recent content on Fat Blog"/>
       <outline text="Fatesinger" type="rss" xmlUrl="https://fatesinger.com/feed" htmlUrl="https://fatesinger.com/" description="This is my zine. I write about shit I care about."/>
       <outline text="Fidel's Lab" type="rss" xmlUrl="https://fidel.js.org/rss.xml" htmlUrl="https://fidel.js.org/" description=""/>
@@ -184,8 +185,7 @@
       <outline text="icebreaker" type="rss" xmlUrl="https://www.icebreaker.top/rss.xml" htmlUrl="https://icebreaker.top/" description="一位打字员"/>
       <outline text="icy的博客" type="rss" xmlUrl="https://icys.top/atom.xml" htmlUrl="https://icys.top/" description="[object Object]"/>
       <outline text="idea's blog" type="rss" xmlUrl="https://www.ideawu.net/blog/feed" htmlUrl="http://www.ideawu.net/blog" description="全球分布式数据库, C/C++, 高性能分布式 Web 和网络应用开发, 架构设计, 移动应用开发"/>
-      <outline text="idealclover" type="rss" xmlUrl="https://idealclover.top/feed" htmlUrl="https://idealclover.top" description="愿未来能让人有所期待"/>
-      <outline text="idealclover" type="rss" xmlUrl="https://idealclover.top/feed/" htmlUrl="https://idealclover.top/" description="愿未来能让人有所期待"/>
+      <outline text="idealclover" type="rss" xmlUrl="https://idealclover.top/feed/" htmlUrl="https://idealclover.top" description="愿未来能让人有所期待"/>
       <outline text="iMaeGoo's Blog" type="rss" xmlUrl="https://www.imaegoo.com/atom.xml" htmlUrl="https://www.imaegoo.com/" description="虹墨空间站"/>
       <outline text="ImBearChild" type="rss" xmlUrl="https://imbearchild.cyou/feed/" htmlUrl="https://imbearchild.cyou/" description="又一个WordPress站点，我的自留地"/>
       <outline text="Inevitable" type="rss" xmlUrl="https://www.inevitable.tech/atom.xml" htmlUrl="https://www.inevitable.tech" description="文字所表现出来的美丽、恐惧。。还有率真之类的东西，我觉得在其他事物中还是很难寻得的。"/>
