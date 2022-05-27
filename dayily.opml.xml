@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Thu, 26 May 2022 12:39:02</dateCreated>
+    <dateCreated>Fri, 27 May 2022 12:40:03</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -156,7 +156,7 @@
       <outline text="HansChen 的博客" type="rss" xmlUrl="http://blog.hanschen.site/atom.xml" htmlUrl="http://blog.hanschen.site" description=""/>
       <outline text="haokunt的博客" type="rss" xmlUrl="https://hkvision.cn/index.xml" htmlUrl="https://hkvision.cn" description="Recent content on HaoKunT的博客"/>
       <outline text="HappyHack" type="rss" xmlUrl="https://blog.happyhack.io/atom.xml" htmlUrl="https://blog.happyhack.io" description="Holder的博客"/>
-      <outline text="happy xiao" type="rss" xmlUrl="https://happyxiao.com/feed/" htmlUrl="https://happyxiao.com/" description=""/>
+      <outline text="happy xiao" type="rss" xmlUrl="https://happyxiao.com/feed/" htmlUrl="https://happyxiao.com/" description="你应该订阅「可乐周报」和「零度日报」"/>
       <outline text="HardCoder" type="rss" xmlUrl="https://www.netroby.com/rss" htmlUrl="https://www.netroby.com/" description="Opensource , linux, golang"/>
       <outline text="Harry Chen’s Blog" type="rss" xmlUrl="https://harrychen.xyz/feed.xml" htmlUrl="https://harrychen.xyz/" description="The personal blog of Shengqi Chen &lt;i at harrychen dot xyz&gt;"/>
       <outline text="Hawstein's Blog" type="rss" xmlUrl="https://hawstein.com/feed.xml" htmlUrl="http://hawstein.com" description="程序员、创作者、生活艺术家与自我改造者 | 这里是 Hawstein 的个人博客，记录生活点滴。"/>
@@ -213,7 +213,7 @@
       <outline text="Jiayi Liu on Jiayi Liu" type="rss" xmlUrl="https://jiayiliu.me/index.xml" htmlUrl="https://jiayiliu.me/" description="Recent content in Jiayi Liu on Jiayi Liu"/>
       <outline text="JiaYin's Life" type="rss" xmlUrl="https://imjiayin.com/feed" htmlUrl="https://imjiayin.com/" description="I am not perfect but my life is."/>
       <outline text="JieJiSS' Blog" type="rss" xmlUrl="https://blog.jiejiss.com/atom.xml" htmlUrl="https://blog.jiejiss.com" description="Now you see me"/>
-      <outline text="Jimmy Song - Cloud Native | Open Source | Community – 博客" type="rss" xmlUrl="https://jimmysong.io/blog/index.xml" htmlUrl="https://jimmysong.io/blog/" description="Recent content in 博客 on Jimmy Song - 云原生"/>
+      <outline text="Jimmy Song - Cloud Native | Open Source | Community – 博客" type="rss" xmlUrl="https://jimmysong.io/blog/index.xml" htmlUrl="https://jimmysong.io/blog/" description="Recent content in 博客 on Jimmy Song - 宋净超的个人博客"/>
       <outline text="Jimmy Tian's Blog" type="rss" xmlUrl="https://www.jimmytian.com/feed/" htmlUrl="https://www.jimmytian.com/" description="Jimmy's Notebook"/>
       <outline text="Joe's Blog" type="rss" xmlUrl="https://hijiangtao.github.io/feed.xml" htmlUrl="https://hijiangtao.github.io/" description="All I'm saying is inside, I had the element of surprise."/>
       <outline text="Johnrosen's Blog" type="rss" xmlUrl="https://johnrosen1.com/atom.xml" htmlUrl="https://johnrosen1.com/" description="A good place to share everything."/>
@@ -551,7 +551,7 @@
       <outline text="乱谈府" type="rss" xmlUrl="https://laffitto.xyz/atom.xml" htmlUrl="https://laffitto.xyz/" description="也扯淡，也思考，也学习，也生活"/>
       <outline text="二丫讲梵" type="rss" xmlUrl="https://wiki.eryajf.net/rss.xml" htmlUrl="https://wiki.eryajf.net" description="💻学习📝记录🔗分享&#10;学无止境是永远前进的基础，跃然纸上是对知识的总结交代，与众分享则是实现价值的最好方式。"/>
       <outline text="二只老虎" type="rss" xmlUrl="https://2hu.net/feed.xml" htmlUrl="https://2hu.net/" description="虤，二虎博客，二只老虎，熊的猫，标准城市空巢青年。本博客基于Jekyll进行书写。源自生活的点点滴滴和碎碎念。"/>
-      <outline text="云原生" type="rss" xmlUrl="https://jimmysong.io/index.xml" htmlUrl="https://jimmysong.io" description="Recent content on Jimmy Song - 云原生"/>
+      <outline text="云原生" type="rss" xmlUrl="https://jimmysong.io/index.xml" htmlUrl="https://jimmysong.io" description="Recent content on Jimmy Song - 宋净超的个人博客"/>
       <outline text="云游君的小站" type="rss" xmlUrl="https://www.yunyoujun.cn/atom.xml" htmlUrl="https://www.yunyoujun.cn" description="All at sea."/>
       <outline text="云顶天的世界" type="rss" xmlUrl="http://blog.cloudtopsky.com/feed/" htmlUrl="http://blog.cloudtopsky.com/" description="云顶天和他的朋友们"/>
       <outline text="云风的 BLOG" type="rss" xmlUrl="https://blog.codingnow.com/atom.xml" htmlUrl="https://blog.codingnow.com" description="思绪来得快去得也快，偶尔会在这里停留"/>
