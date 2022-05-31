@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Mon, 30 May 2022 12:46:01</dateCreated>
+    <dateCreated>Tue, 31 May 2022 12:41:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -954,7 +954,7 @@
       <outline text="蔬食狂想" type="rss" xmlUrl="https://leafyrhapsody.typlog.io/feed.xml" htmlUrl="https://leafyrhapsody.typlog.io/" description="生命不是商品|聚焦饮食哲思|识破科技之恶|欣赏寂静之美"/>
       <outline text="薇拉航线" type="rss" xmlUrl="https://www.zuozuovera.com/feed" htmlUrl="https://www.zuozuovera.com/" description="网络安全/隐私保护/数据驱动安全/杂记"/>
       <outline text="虞双齐爱折腾" type="rss" xmlUrl="https://yushuangqi.com/index.xml" htmlUrl="https://yushuangqi.com/" description="Recent content on 虞双齐的博客"/>
-      <outline text="蚊子前端博客" type="rss" xmlUrl="https://www.xiabingbao.com/atom.xml" htmlUrl="https://www.xiabingbao.com" description=""/>
+      <outline text="蚊子前端博客" type="rss" xmlUrl="https://www.xiabingbao.com/atom.xml" htmlUrl="https://www.xiabingbao.com" description="蚊子在前端开发工作中的总结"/>
       <outline text="蚊子有点疼" type="rss" xmlUrl="https://wzydt.cn/feed/" htmlUrl="https://wzydt.cn/" description="生活再平凡也是限量版"/>
       <outline text="蟹壳" type="rss" xmlUrl="https://shellc.cn/feed.xml" htmlUrl="https://shellc.cn/" description="Blog"/>
       <outline text="血衫非弧の一存" type="rss" xmlUrl="https://blog.kelu.org/atom.xml" htmlUrl="https://blog.kelu.org/" description="网站记录了我运维开发的历程，着重于过程分享，希望能够帮助大家少踩坑，少有总结性。"/>
