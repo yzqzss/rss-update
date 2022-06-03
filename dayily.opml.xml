@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Thu, 02 Jun 2022 12:54:01</dateCreated>
+    <dateCreated>Fri, 03 Jun 2022 12:29:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -379,6 +379,7 @@
       <outline text="read and go" type="rss" xmlUrl="https://unee.wang/rss.xml" htmlUrl="https://unee.wang/" description="Read and Go"/>
       <outline text="Realcat" type="rss" xmlUrl="https://vincentqin.tech/atom.xml" htmlUrl="https://www.vincentqin.tech/" description="Turn on, Tune in, Drop out"/>
       <outline text="Redsunsets Hub" type="rss" xmlUrl="https://blog.rssins.net/feed" htmlUrl="https://blog.rssins.net/" description="摸鱼·搞事·发骚"/>
+      <outline text="Reorx’s Forge" type="rss" xmlUrl="https://reorx.com/feed.xml" htmlUrl="https://reorx.com/" description="Recent content on Reorx’s Forge"/>
       <outline text="Revincx的小破站" type="rss" xmlUrl="https://blog.revincx.icu/atom.xml" htmlUrl="https://blog.revincx.icu/" description="记录整活点滴"/>
       <outline text="Ric's Blog-李冲的个人博客" type="rss" xmlUrl="https://www.lichong.work/atom.xml" htmlUrl="https://www.lichong.work/" description="Talk less, think more, do more."/>
       <outline text="Richie的时光机" type="rss" xmlUrl="https://www.riichiie.net/feed/" htmlUrl="https://www.riichiie.net/" description="Some Day Some Where"/>
