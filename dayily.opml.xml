@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Tue, 07 Jun 2022 12:33:02</dateCreated>
+    <dateCreated>Wed, 08 Jun 2022 12:37:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -17,7 +17,7 @@
       <outline text="@Lenciel" type="rss" xmlUrl="https://lenciel.com/feed.xml" htmlUrl="https://lenciel.com/" description="Thoughts and Rants by Lenciel"/>
       <outline text="Aaron's Blog" type="rss" xmlUrl="https://blog.aoaoao.me/index.xml" htmlUrl="https://blog.aoaoao.me/" description="Recent content on Aaron's Blog"/>
       <outline text="Aemon's Blog" type="rss" xmlUrl="https://aemoncao.github.io/rss2.xml" htmlUrl="https://www.aemon.top/" description=""/>
-      <outline text="Aicsukの世界" type="rss" xmlUrl="https://www.aicsuk.moe/feed/" htmlUrl="https://www.aicsuk.moe/" description="一个小小的博客"/>
+      <outline text="Aicsukの世界" type="rss" xmlUrl="https://www.aicsuk.net/feed/" htmlUrl="https://www.aicsuk.moe/" description="一个小小的博客"/>
       <outline text="AiDai" type="rss" xmlUrl="https://aidaip.github.io/feed.xml" htmlUrl="https://aidaip.github.io/" description="AiDai"/>
       <outline text="Aiur · Zellux 的博客" type="rss" xmlUrl="https://blog.yxwang.me/index.xml" htmlUrl="https://blog.yxwang.me/" description="Recent content on Aiur · Zellux 的博客"/>
       <outline text="Alexander D Huang's Blog" type="rss" xmlUrl="https://alxddh.github.io/feed.xml" htmlUrl="https://alxddh.github.io" description="Enjoy writing"/>
