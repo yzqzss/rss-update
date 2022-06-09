@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Wed, 08 Jun 2022 12:37:01</dateCreated>
+    <dateCreated>Thu, 09 Jun 2022 12:36:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -11,7 +11,7 @@
       <outline text="1A23 Studio" type="rss" xmlUrl="https://1a23.com/feed/" htmlUrl="https://1a23.com/" description="We create."/>
       <outline text="4Ark" type="rss" xmlUrl="https://4ark.me/atom.xml" htmlUrl="https://4ark.me/" description="4Ark gd4ark WEB 前端 个人博客 博客"/>
       <outline text="7gugu's Blog" type="rss" xmlUrl="https://7gugu.com/index.php/feed/" htmlUrl="https://7gugu.com/" description="面对未来, 悲观者正确, 乐观者成功"/>
-      <outline text="61's life" type="rss" xmlUrl="https://61.life/feed.xml" htmlUrl="https://61.life/" description="Real artists ship."/>
+      <outline text="61's life" type="rss" xmlUrl="http://61.life/feed.xml" htmlUrl="https://61.life/" description="Real artists ship."/>
       <outline text="251's Blog." type="rss" xmlUrl="https://blog.251.sh/feed/" htmlUrl="https://blog.251.sh/" description="您要的页面找不到了，但我们不能停止斗争。"/>
       <outline text="186526's Blog" type="rss" xmlUrl="https://blog.186526.xyz/atom.xml" htmlUrl="https://blog.186526.xyz/" description="Just a blog"/>
       <outline text="@Lenciel" type="rss" xmlUrl="https://lenciel.com/feed.xml" htmlUrl="https://lenciel.com/" description="Thoughts and Rants by Lenciel"/>
@@ -999,7 +999,7 @@
       <outline text="遥行 Gofurther 技术&amp;ML&amp;BC博客" type="rss" xmlUrl="https://charlesliuyx.github.io/atom.xml" htmlUrl="https://charlesliuyx.github.io/" description="Stay Hungry, Stay Foolish"/>
       <outline text="遥远的街市" type="rss" xmlUrl="https://blog.henix.info/rss2.0.xml" htmlUrl="https://blog.henix.info/" description="henix 的个人网站"/>
       <outline text="郑泽鑫的博客" type="rss" xmlUrl="https://zhengzexin.com/feed/" htmlUrl="https://zhengzexin.com/" description="一个生信工作者的独立博客"/>
-      <outline text="郝海龙" type="rss" xmlUrl="https://haohailong.net/feed.xml" htmlUrl="https://haohailong.net/" description="O semper iuvenis, o semper lacrimans."/>
+      <outline text="郝海龙" type="rss" xmlUrl="https://haohailong.net/feed.xml" htmlUrl="https://haohailong.net/" description="书信、杂文、教程及小说的写作者"/>
       <outline text="酱紫表" type="rss" xmlUrl="https://qust.me/atom.xml" htmlUrl="https://qust.me/" description="复杂的世界里一个就足够了"/>
       <outline text="酷 壳 – CoolShell" type="rss" xmlUrl="https://coolshell.cn/feed" htmlUrl="https://coolshell.cn" description="享受编程和技术所带来的快乐 - Coding Your Ambition"/>
       <outline text="醉乐轩" type="rss" xmlUrl="https://behappy.cc/atom.xml" htmlUrl="https://behappy.cc/" description="以梦为马，醉乐其中。"/>
