@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Sat, 11 Jun 2022 12:29:01</dateCreated>
+    <dateCreated>Sun, 12 Jun 2022 12:31:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -513,7 +513,7 @@
       <outline text="Yuuno Blog" type="rss" xmlUrl="https://yuuno.cc/atom.xml" htmlUrl="https://yuuno.cc" description=""/>
       <outline text="yzqzss|一座桥在水上's Blog" type="rss" xmlUrl="https://blog.othing.xyz/feed/" htmlUrl="https://blog.othing.xyz/" description="你能听到吗？"/>
       <outline text="ZDDHUB" type="rss" xmlUrl="https://zddhub.com/feed" htmlUrl="https://www.zddhub.com/" description="ZDDHUB's blog | Just for fun"/>
-      <outline text="zd小达's blog😎" type="rss" xmlUrl="https://blog.zhangda.xyz/feed/" htmlUrl="https://blog.zhangda.xyz/" description="一些无聊的破事儿"/>
+      <outline text="zd小达's blog😎" type="rss" xmlUrl="https://blog.zhangda.xyz/feed/" htmlUrl="https://blog.zhangda.xyz/" description="一些无聊的破事儿|´・ω・)ノ"/>
       <outline text="zd小达's blog😎" type="rss" xmlUrl="https://blog.zhangda.xyz/feed" htmlUrl="https://blog.zhangda.xyz/" description="一些无聊的破事儿"/>
       <outline text="ZedeX" type="rss" xmlUrl="https://zedex.cn/feed" htmlUrl="https://zedex.cn" description="at a glance"/>
       <outline text="Zenithal Hourly Radio" type="rss" xmlUrl="https://blog.zenithal.me/atom.xml" htmlUrl="https://blog.zenithal.me/" description=""/>
@@ -660,6 +660,7 @@
       <outline text="夏·祈·楓" type="rss" xmlUrl="https://flymc.cc/atom.xml" htmlUrl="https://flymc.cc/" description=""/>
       <outline text="多媒体开发札记" type="rss" xmlUrl="https://glumes.com/index.xml" htmlUrl="https://glumes.com" description="Recent content on 音视频开发进阶"/>
       <outline text="多面體的雹子 polyhedron's blog" type="rss" xmlUrl="https://biopolyhedron.github.io/atom.xml" htmlUrl="https://biopolyhedron.github.io/" description="分子人類學、語言學及各種其它  molecular anthropology, linguistics, etc."/>
+      <outline text="夜将夜" type="rss" xmlUrl="https://yejiangye.com/feed/" htmlUrl="https://yejiangye.com/" description="一丝曙光划破这将夜的夜。"/>
       <outline text="大力译文" type="rss" xmlUrl="https://dearbojack.github.io/index.xml" htmlUrl="https://dearbojack.github.io/" description="Recent content on 大力译文"/>
       <outline text="大大的小蜗牛" type="rss" xmlUrl="https://eallion.com/atom.xml" htmlUrl="https://eallion.com/" description="Recent content in 首页 on 大大的小蜗牛"/>
       <outline text="大黄老鼠的番茄酱" type="rss" xmlUrl="https://blog.pikachu.net.cn/atom.xml" htmlUrl="https://blog.pikachu.net.cn/" description="我以前没得选择，现在我想做一个好人。——阿明"/>
