@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Tue, 14 Jun 2022 12:56:01</dateCreated>
+    <dateCreated>Wed, 15 Jun 2022 12:40:03</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -30,7 +30,7 @@
       <outline text="Android Performance" type="rss" xmlUrl="https://androidperformance.com/atom.xml" htmlUrl="https://androidperformance.com/" description="闻道有先后,术业有专攻,如是而已"/>
       <outline text="anran758's blog" type="rss" xmlUrl="https://anran758.github.io/blog/atom.xml" htmlUrl="https://anran758.github.io/blog/" description=""/>
       <outline text="Armin's Blog" type="rss" xmlUrl="https://arminli.com/rss.xml" htmlUrl="https://arminli.com" description="Armin's Blog."/>
-      <outline text="Armstrong" type="rss" xmlUrl="https://lad.one/feed" htmlUrl="https://armstrong.viyf.org/" description="一位视障学生的日志"/>
+      <outline text="Armstrong" type="rss" xmlUrl="https://armstrong.viyf.org/feed" htmlUrl="https://armstrong.viyf.org/" description="一位视障学生的日志"/>
       <outline text="ArthurChiao's Blog" type="rss" xmlUrl="http://arthurchiao.art/feed.xml" htmlUrl="https://arthurchiao.github.io/" description="ArthurChiao's Blog"/>
       <outline text="Atlas' Blog" type="rss" xmlUrl="https://atlasoin.xyz/atom.xml" htmlUrl="https://atlasquan.github.io/" description="三七的深夜食堂"/>
       <outline text="Aynxul03 写字的地方" type="rss" xmlUrl="https://ayx.moefox.tech/index.xml" htmlUrl="https://ayx.moefox.tech/" description="Recent content on Aynxul03 写字的地方"/>
