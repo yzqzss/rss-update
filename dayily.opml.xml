@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Wed, 15 Jun 2022 12:40:03</dateCreated>
+    <dateCreated>Thu, 16 Jun 2022 12:40:03</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -161,7 +161,7 @@
       <outline text="HansChen 的博客" type="rss" xmlUrl="http://blog.hanschen.site/atom.xml" htmlUrl="http://blog.hanschen.site" description=""/>
       <outline text="haokunt的博客" type="rss" xmlUrl="https://hkvision.cn/index.xml" htmlUrl="https://hkvision.cn" description="Recent content on HaoKunT的博客"/>
       <outline text="HappyHack" type="rss" xmlUrl="https://blog.happyhack.io/atom.xml" htmlUrl="https://blog.happyhack.io" description="Holder的博客"/>
-      <outline text="happy xiao" type="rss" xmlUrl="https://happyxiao.com/feed/" htmlUrl="https://happyxiao.com/" description="你应该订阅「可乐周报」和「零度日报」"/>
+      <outline text="happy xiao" type="rss" xmlUrl="https://happyxiao.com/feed/" htmlUrl="https://happyxiao.com/" description="请订阅可乐周报"/>
       <outline text="HardCoder" type="rss" xmlUrl="https://www.netroby.com/rss" htmlUrl="https://www.netroby.com/" description="Opensource , linux, golang"/>
       <outline text="Harry Chen’s Blog" type="rss" xmlUrl="https://harrychen.xyz/feed.xml" htmlUrl="https://harrychen.xyz/" description="The personal blog of Shengqi Chen &lt;i at harrychen dot xyz&gt;"/>
       <outline text="Hawstein's Blog" type="rss" xmlUrl="https://hawstein.com/feed.xml" htmlUrl="http://hawstein.com" description="程序员、创作者、生活艺术家与自我改造者 | 这里是 Hawstein 的个人博客，记录生活点滴。"/>
