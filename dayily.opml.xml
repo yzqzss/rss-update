@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Thu, 16 Jun 2022 12:40:03</dateCreated>
+    <dateCreated>Fri, 17 Jun 2022 12:39:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -602,7 +602,7 @@
       <outline text="六小編 Editor Leon" type="rss" xmlUrl="https://editor.leonh.space/atom.xml" htmlUrl="https://editor.leonh.space" description="Business &amp; Information Technology"/>
       <outline text="关关和六六 ' blog" type="rss" xmlUrl="https://www.gmcllp.cn/feed/" htmlUrl="https://www.gmcllp.cn/" description="向世界分享我们的故事"/>
       <outline text="冯兄话吉" type="rss" xmlUrl="https://fengmengzhao.github.io/feed.xml" htmlUrl="http://fengmengzhao.github.io/" description="『格物致知，不可私享；冯兄话吉，载文传享』"/>
-      <outline text="冯唐博客" type="rss" xmlUrl="http://www.fengtang.com/blog/?feed=rss2" htmlUrl="http://www.fengtang.com/blog/" description="用文字打败时间"/>
+      <outline text="冯唐博客" type="rss" xmlUrl="https://www.fengtang.com/blog/feed/" htmlUrl="http://www.fengtang.com/blog/" description="Feng Tang"/>
       <outline text="冰哥笔记" type="rss" xmlUrl="https://www.bgbiji.com/feed" htmlUrl="https://www.bgbiji.com/" description="做一个有趣、有料的博客"/>
       <outline text="冰橘的小窝" type="rss" xmlUrl="https://blog.moe233.net/atom.xml" htmlUrl="https://blog.moe233.net/" description=""/>
       <outline text="冰箱居所：食物和杂物等等" type="rss" xmlUrl="https://cirno.blog/feed" htmlUrl="https://cirno.blog/" description=""/>
