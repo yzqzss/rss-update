@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Sat, 18 Jun 2022 12:31:02</dateCreated>
+    <dateCreated>Sun, 19 Jun 2022 12:36:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -511,7 +511,7 @@
       <outline text="Yuexun`s Blog" type="rss" xmlUrl="https://yuexunjiang.me/rss.xml" htmlUrl="https://yuexunjiang.me/" description="想去发现生活中的无限美好"/>
       <outline text="Yuko's Blog" type="rss" xmlUrl="https://yuukoamamiya.github.io/index.xml" htmlUrl="https://yuukoamamiya.github.io/" description="Recent content on Yuko's Blog"/>
       <outline text="Yulin Lewis' Blog" type="rss" xmlUrl="https://lewky.cn/index.xml" htmlUrl="https://lewky.cn/" description="不想当写手的码农不是好咸鱼_(xз」∠)_"/>
-      <outline text="YunFanCH · 云帆沧海" type="rss" xmlUrl="https://yunfanch.com/feed" htmlUrl="https://yunfanch.com/" description="持续更新的个人博客，记录生活、工作、爱好的点点滴滴。一切过往，皆为序章。直挂云帆，乘风破浪。"/>
+      <outline text="YunFanCH · 云帆沧海" type="rss" xmlUrl="https://www.yunfanch.com/feed/" htmlUrl="https://yunfanch.com/" description="一个持续更新的个人博客，记录生活、工作、爱好的点点滴滴。"/>
       <outline text="Yuuno Blog" type="rss" xmlUrl="https://yuuno.cc/atom.xml" htmlUrl="https://yuuno.cc" description=""/>
       <outline text="yzqzss|一座桥在水上's Blog" type="rss" xmlUrl="https://blog.othing.xyz/feed/" htmlUrl="https://blog.othing.xyz/" description="你能听到吗？"/>
       <outline text="ZDDHUB" type="rss" xmlUrl="https://zddhub.com/feed" htmlUrl="https://www.zddhub.com/" description="ZDDHUB's blog | Just for fun"/>
@@ -590,7 +590,7 @@
       <outline text="住在山上的帽子姐姐" type="rss" xmlUrl="https://maozjj.com/?feed=rss2" htmlUrl="https://maozjj.com/" description="一个农民的日记"/>
       <outline text="佐仔志" type="rss" xmlUrl="https://www.jinbo123.com/feed" htmlUrl="https://www.jinbo123.com/" description="I try to make it simple!"/>
       <outline text="余果的博客" type="rss" xmlUrl="http://feeds.feedburner.com/yuguo" htmlUrl="https://yuguo.us" description="欢迎关注我的公众号：余果专栏"/>
-      <outline text="余海峯 David 物理喵 phycat" type="rss" xmlUrl="https://hfdavidyu.com/feed/" htmlUrl="https://hfdavidyu.com" description="teach your cat science"/>
+      <outline text="余海峯 David 物理喵 phycat" type="rss" xmlUrl="https://hfdavidyu.com/feed/" htmlUrl="https://hfdavidyu.com" description="TEACH YOUR CAT SCIENCE"/>
       <outline text="依云's Blog" type="rss" xmlUrl="https://blog.lilydjwg.me/posts.rss" htmlUrl="https://blog.lilydjwg.me" description=""/>
       <outline text="依米" type="rss" xmlUrl="https://www.feed.cc/feed/" htmlUrl="https://www.feed.cc/" description="时间在流逝，世界在变化，要比昨天的自己活得更有价值。"/>
       <outline text="保罗的小宇宙" type="rss" xmlUrl="https://paugram.com/feed" htmlUrl="https://paugram.com" description="Still single, still lonely."/>
@@ -724,7 +724,7 @@
       <outline text="张浩在路上" type="rss" xmlUrl="https://imzhanghao.com/atom.xml" htmlUrl="https://imzhanghao.com/" description="张浩在路上"/>
       <outline text="张贺的博客" type="rss" xmlUrl="https://herbertchang.github.io/atom.xml" htmlUrl="https://herbertchang.github.io/" description="若愚若昏"/>
       <outline text="张鑫旭-鑫空间-鑫生活" type="rss" xmlUrl="https://www.zhangxinxu.com/wordpress/feed/" htmlUrl="http://www.zhangxinxu.com" description="it's my whole life!"/>
-      <outline text="归·程" type="rss" xmlUrl="https://www.backroad.site/feed/" htmlUrl="https://www.backroad.site/" description="终于回归的风雨兼程"/>
+      <outline text="归·程" type="rss" xmlUrl="https://www.backroad.site/feed/" htmlUrl="https://www.backroad.site/" description="堆放着信息时代的文字垃圾"/>
       <outline text="当下" type="rss" xmlUrl="https://blog.fueis.com/feed" htmlUrl="http://blog.fueis.com/" description=""/>
       <outline text="当代写作仓库" type="rss" xmlUrl="https://zuopin.jingluole.com/feed" htmlUrl="https://zuopin.jingluole.com/" description="开放、免费的当代汉语写作仓库，收录小说、诗歌、随笔、评论等文学文本"/>
       <outline text="影留" type="rss" xmlUrl="https://leftshadow.com/?call_custom_simple_rss=1&amp;csrp_cat=11" htmlUrl="https://leftshadow.com" description=""/>
