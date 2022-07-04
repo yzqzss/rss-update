@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Sun, 03 Jul 2022 12:35:03</dateCreated>
+    <dateCreated>Mon, 04 Jul 2022 12:52:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -696,6 +696,7 @@
       <outline text="小打小闹写点bug" type="rss" xmlUrl="https://liutos.github.io/atom.xml" htmlUrl="https://liutos.github.io/" description="乍听之下，不无道理；仔细揣摩，胡说八道"/>
       <outline text="小撸" type="rss" xmlUrl="http://www.60sky.com/index.php/feed/" htmlUrl="http://www.60sky.com/" description="Follow Your Heart"/>
       <outline text="小明明S À DOMICILE" type="rss" xmlUrl="https://www.dongwm.com/atom.xml" htmlUrl="https://www.dongwm.com" description=""/>
+      <outline text="小游网" type="rss" xmlUrl="https://xiaoyou66.com/atom.xml" htmlUrl="https://xiaoyou66.com/" description="我的个人小站"/>
       <outline text="小炒肉" type="rss" xmlUrl="https://jicki.cn/index.xml" htmlUrl="https://jicki.cn/" description="小炒肉博客, kubernetes, docker, jicki"/>
       <outline text="小熊写字的地方" type="rss" xmlUrl="https://blog.skrskrskrskr.com/atom.xml" htmlUrl="https://blog.skrskrskrskr.com" description="小熊写字的地方"/>
       <outline text="小猪 - 部落格" type="rss" xmlUrl="https://xiaozhu.dev/index.xml" htmlUrl="https://xiaozhu.dev/" description="Recent content on 小猪 - 部落格"/>
@@ -1318,7 +1319,7 @@
       <outline text="u3coding" type="rss" xmlUrl="http://www.u3coding.com/feed/" htmlUrl="http://www.u3coding.com/" description="No practice, no gain in one's wit"/>
       <outline text="xiaix's Blog" type="rss" xmlUrl="https://xiaix.me/rss/" htmlUrl="https://xiaix.me" description="个人学习笔记"/>
       <outline text="YangYongKang's Blog" type="rss" xmlUrl="https://blog.yangyk.com/feed.xml" htmlUrl="http://blog.yangyk.com/" description="行有不得 反求诸己"/>
-      <outline text="Y同学" type="rss" xmlUrl="https://blog.couqiao.top/feed/" htmlUrl="https://blog.couqiao.top/" description="Xiamnsara的个人站"/>
+      <outline text="Y同学" type="rss" xmlUrl="https://blog.couqiao.top/feed/" htmlUrl="https://blog.couqiao.top/" description="Your description here."/>
       <outline text="zcmimi's blog" type="rss" xmlUrl="https://blog.zcmimi.top/atom.xml" htmlUrl="https://blog.zcmimi.top/" description=""/>
       <outline text="ZM沫. - Life record . 记录自己的日常琐事.旅途世界" type="rss" xmlUrl="https://zmmio.com/feed/" htmlUrl="https://zmmio.com/" description="Life record . 记录自己的日常琐事.旅途世界. ZM沫,旅行,日记,宅,Midousir,猫,Typecho,Markdown,css,js,php,html，一个养了猫的非专业技术宅男."/>
       <outline text="不一止集" type="rss" xmlUrl="http://buyivi.xyz/feed/" htmlUrl="http://buyivi.xyz/" description="从不会离去，才知道何时会相逢"/>
