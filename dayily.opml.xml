@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Mon, 04 Jul 2022 12:52:01</dateCreated>
+    <dateCreated>Tue, 05 Jul 2022 12:42:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -79,7 +79,7 @@
       <outline text="czp's blog" type="rss" xmlUrl="https://www.hiczp.com/rss.xml" htmlUrl="https://www.hiczp.com/" description="czp's blog"/>
       <outline text="Damao" type="rss" xmlUrl="https://damao2250.github.io/atom.xml" htmlUrl="http://damao2250.com/" description="乐躬耕于陇亩兮，吾爱吾庐。聊寄傲于琴书兮，以待天时。"/>
       <outline text="David前端技术分享" type="rss" xmlUrl="https://lvdawei.com/atom.xml" htmlUrl="https://lvdawei.com/" description=""/>
-      <outline text="Dawner" type="rss" xmlUrl="https://dawner.top/atom.xml" htmlUrl="https://dawner.top/" description="这是我的个人博客，在这里我会通过一些简单的符号来说明和表达一些东西……"/>
+      <outline text="Dawner" type="rss" xmlUrl="https://dawner.top/atom.xml" htmlUrl="https://dawner.top/" description="这是 Dawn 的个人博客，在这里我会通过一些简单的符号来说明和表达一些东西……"/>
       <outline text="Dawnnnnnn" type="rss" xmlUrl="https://dawnnnnnn.com/feed.xml" htmlUrl="https://dawnnnnnn.com/" description="记录一些平时遇到的问题_(:3 ⌒ﾞ)_"/>
       <outline text="DBA Notes" type="rss" xmlUrl="https://dbanotes.net/feed" htmlUrl="https://dbanotes.net/" description="记录一些关于互联网的信息碎片"/>
       <outline text="ddadaal.me" type="rss" xmlUrl="https://ddadaal.me/rss.xml" htmlUrl="https://ddadaal.me" description="ddadaal.me RSS"/>
