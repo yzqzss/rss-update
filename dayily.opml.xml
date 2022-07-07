@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
   <head>
-    <title>独立博客&amp;播客全订阅计划</title>
-    <dateCreated>Wed, 06 Jul 2022 12:53:01</dateCreated>
+    <title>[STWP]博客&amp;播客存档</title>
+    <dateCreated>Thu, 07 Jul 2022 12:52:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -1215,10 +1215,14 @@
       <outline text="俍注" type="rss" xmlUrl="https://oneinf.com/feed" htmlUrl="https://oneinf.com/" description="一个金融行业互联网人的记录与分享"/>
       <outline text="友人C" type="rss" xmlUrl="https://www.ihewro.com/feed/" htmlUrl="https://www.ihewro.com/" description="我们这一生很短，我们终将会失去它，所以不妨大胆一点。"/>
       <outline text="后宫学长" type="rss" xmlUrl="https://haremu.com/feed/" htmlUrl="https://haremu.com/" description="一个中二病宅的博客……"/>
+      <outline text="咖啡冰河" type="rss" xmlUrl="https://blog.mysto.cyou/index.xml" htmlUrl="https://blog.mysto.cyou/" description="无感而发，随性而谈"/>
       <outline text="夜未央" type="rss" xmlUrl="https://www.savouer.com/feed/" htmlUrl="https://www.savouer.com/" description="生活在生存的间隙"/>
+      <outline text="小z博客" type="rss" xmlUrl="https://www.xiaoz.me/feed" htmlUrl="https://www.xiaoz.me/" description="生命不息，吾将折腾不止。"/>
       <outline text="小众分享" type="rss" xmlUrl="https://www.smbinn.com/feed" htmlUrl="https://www.smbinn.com/" description=""/>
       <outline text="小小小日天的博客" type="rss" xmlUrl="https://359303267.github.io/atom.xml" htmlUrl="https://359303267.github.io/" description="瞧！这里有个不知道叫什么好的小玩意！"/>
+      <outline text="小物有理" type="rss" xmlUrl="https://www.xujilong.cn/feed/" htmlUrl="https://www.xujilong.cn/" description="小物有理是由中学物理教师徐继龙创建的，旨在分享个人物理学习、物理教学、教学技术等心得经验的平台，也欢迎广大老师同学前来投稿！"/>
       <outline text="尚寂新" type="rss" xmlUrl="https://shangjixin.com/feed/" htmlUrl="https://shangjixin.com/" description="三道水师提督尚寂新之站.这儿平常会发一些小东西和大家一起交流,也会跟着其他大佬一起折腾站点,因此也会有一些技术文章出现在本站.emmm...鄙人昵称原为尚寂新,经输入法的摧残之后就变成了机芯这个称谓...欢迎大家常来这儿转转~"/>
+      <outline text="左岸博客 - 科技宅有趣的技术分享！" type="rss" xmlUrl="https://www.zrahh.com/feed/" htmlUrl="https://www.zrahh.com/" description="左岸博客,一个恩爱狗的个人博客，记录成长，记录生活。不论是在人生或者编程的路上，我们永远只是初学者。"/>
       <outline text="心语难诉 - 周武杰个人博客" type="rss" xmlUrl="https://xinyu19.com/feed/" htmlUrl="https://xinyu19.com/" description="心语难诉自留地，周武杰个人博客 —— 原谅我凌乱的文字和那破碎的时光。"/>
       <outline text="杜老师说" type="rss" xmlUrl="https://dusays.com/atom.xml" htmlUrl="https://dusays.com/" description=""/>
       <outline text="江程训CensuJiang" type="rss" xmlUrl="https://censujiang.com/feed" htmlUrl="https://censujiang.com/" description=""/>
