@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Sat, 09 Jul 2022 12:30:02</dateCreated>
+    <dateCreated>Sun, 10 Jul 2022 12:35:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -1241,7 +1241,7 @@
     <outline text="不在首页显示">
       <outline text="Cryptospace" type="rss" xmlUrl="https://dbarobin.com/feed.xml" htmlUrl="https://dbarobin.com" description="Bitcoin Hodler，自由主义者，区块链创业者，ChainONE 社区发起人，dbarobin.com 博主，隐私极客。如您所见，本人发布的文章与评论内容仅代表本人观点。「万物之中，希望至美；至美之物，永不凋零。」"/>
       <outline text="懒得勤快的博客_互联网分享精神" type="rss" xmlUrl="https://ldqk.xyz/rss" htmlUrl="https://masuit.com/rss" description="若页面无法访问，可通过搜索引擎网页快照进行浏览。懒得勤快，互联网分享精神，勤于发现，乐于分享，稀缺软件分享，视频教程分享，各种优质资源分享，新日暮里哲学文化传媒，正版软件下载！"/>
-      <outline text="杏铃の小本" type="rss" xmlUrl="https://xn--8qvt52h.top/feed" htmlUrl="https://66ccff.work/" description="辐射4太好玩了！通关就更新游戏…这是一份赠与你的礼物，分享Galgame资源&amp;技术向教程&amp;奇怪的东西"/>
+      <outline text="杏铃の小本" type="rss" xmlUrl="https://xn--8qvt52h.top/feed" htmlUrl="https://66ccff.work/" description="这是一份赠与你的礼物，分享Galgame资源&amp;技术向教程&amp;奇怪的东西"/>
       <outline text="林羽凡博客" type="rss" xmlUrl="https://www.linyufan.com/rss.xml" htmlUrl="https://www.linyufan.com/" description="林羽凡个人博客，认认真真写日记的80后老伙计。"/>
       <outline text="游研社" type="rss" xmlUrl="https://www.yystv.cn/rss/feed" htmlUrl="https://www.yystv.cn/" description="无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。"/>
       <outline text="牛津的博客" type="rss" xmlUrl="https://blog.jinreal.com/index.xml" htmlUrl="https://blog.jinreal.com/" description="Recent content on 牛津的博客"/>
