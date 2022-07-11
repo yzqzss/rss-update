@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Sun, 10 Jul 2022 12:35:02</dateCreated>
+    <dateCreated>Mon, 11 Jul 2022 12:43:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -263,6 +263,7 @@
       <outline text="Librehat的部落格" type="rss" xmlUrl="https://www.librehat.com/feed/" htmlUrl="https://www.librehat.com/" description="Code can be lovely"/>
       <outline text="LiesAuer's Blog" type="rss" xmlUrl="https://www.liesauer.net/blog/feed/" htmlUrl="https://www.liesauer.net/" description=""/>
       <outline text="Life is an adventure" type="rss" xmlUrl="https://www.hannahwu.com/feed/" htmlUrl="https://www.hannahwu.com/" description="They say you can’t turn a bad girl good but once a good girl’s gone bad, she’s gone forever."/>
+      <outline text="Life Sailor" type="rss" xmlUrl="https://www.lifesailor.me/feed" htmlUrl="https://www.lifesailor.me/" description="One more struggle, and I am free"/>
       <outline text="lijiakaijun" type="rss" xmlUrl="https://blog.lijiakaijun.cyou/atom.xml" htmlUrl="https://blog.lijiakaijun.cyou/" description="跟随梦想的脚步，感受生命的温度"/>
       <outline text="limboy's HQ" type="rss" xmlUrl="http://feeds.feedburner.com/lzyy" htmlUrl="https://limboy.me" description="Recent content on Limboy's HQ"/>
       <outline text="Linghao's Blog" type="rss" xmlUrl="https://linghao.io/feed.xml" htmlUrl="https://linghao.io/" description="Synthesist in the Shell | Blog by Linghao"/>
@@ -1114,7 +1115,7 @@
       <outline text="一天世界" type="rss" xmlUrl="https://yitianshijie.net/feed/audio.xml" htmlUrl="https://yitianshijie.net/" description="一天世界，昆乱不挡。不鳥萬如一主理。IPN 出品。&#10;&#10;《一天世界》博客：http://blog.yitianshijie.net"/>
       <outline text="一树闲谈" type="rss" xmlUrl="https://www.arbretalk.com/rss" htmlUrl="https://www.arbretalk.com/" description="一档艺术类跑题闲聊节目&#10;邮箱：arbretalk@outlook.com&#10;微信公号：一树arbre&#10;地址：深圳市福田区园岭新村74号楼103"/>
       <outline text="一派·Podcast - 少数派 SSPAI 旗下播客节目" type="rss" xmlUrl="https://sspai.typlog.io/feed/audio.xml" htmlUrl="https://sspai.fireside.fm/" description="少数派旗下播客节目，高效工作，品质生活。"/>
-      <outline text="一画一话" type="rss" xmlUrl="http://www.theviewtalk.com/rss" htmlUrl="http://www.theviewtalk.com/" description="都市文化有声杂志，编辑部在上海。&#10;中文播客界第一个专注现当代艺术的节目。&#10;​给您进阶一点点的文艺分享。"/>
+      <outline text="一画一话" type="rss" xmlUrl="https://www.theviewtalk.com/rss" htmlUrl="http://www.theviewtalk.com/" description="都市文化有声杂志，编辑部在上海。&#10;中文播客界第一个专注现当代艺术的节目。&#10;​给您进阶一点点的文艺分享。"/>
       <outline text="不丧" type="rss" xmlUrl="http://busangpodcast.com/feed/audio.xml" htmlUrl="https://busangpodcast.com/" description="「不丧」是一档严肃活泼，温情脉脉的夫妻聊天节目，男主播思维迟缓，女主播百无禁忌，黄腔不断。我们读书，观影，谈论流行文化；也关心社会和政治，拒绝自我审查，呼唤不同背景下人与人间的同情和理解。"/>
       <outline text="不动声色" type="rss" xmlUrl="https://bds.wht.one/feed.xml" htmlUrl="https://bds.wht.one" description="这是一个声音记录档案，没有主题、没有制式，旨在呈现多样且有趣的声音。"/>
       <outline text="不可理论" type="rss" xmlUrl="https://bukelilun.com/feed.xml" htmlUrl="https://www.bukelilun.com/" description="一档带你用理论来理解生活的播客节目。"/>
@@ -1210,6 +1211,7 @@
       <outline text="EQblog" type="rss" xmlUrl="https://eqblog.com/feed" htmlUrl="https://eqblog.com/" description="Just another WordPress site"/>
       <outline text="Noxxxx" type="rss" xmlUrl="https://www.noxxxx.com/feed" htmlUrl="https://www.noxxxx.com/" description="清静无为"/>
       <outline text="openSUSE 中文社区" type="rss" xmlUrl="https://suse.org.cn/feed.xml" htmlUrl="https://suse.org.cn/feed.xml" description="openSUSE 中文社区主页，为您带来最新的 openSUSE 资讯，为中文用户的交流提供一席之地。"/>
+      <outline text="Rhuen on Rivendell" type="rss" xmlUrl="https://rhuen.netlify.app/index.xml" htmlUrl="https://rhuen.netlify.app/" description="Recent content in Rhuen on Rivendell"/>
       <outline text="ROYWANG" type="rss" xmlUrl="https://uaxk.com/feed/" htmlUrl="https://uaxk.com/" description="知善恶，懂因果"/>
       <outline text="两对半" type="rss" xmlUrl="https://www.liangduiban.com/feed.php" htmlUrl="https://www.liangduiban.com/" description="关注健康，记录生活，写自己感兴趣的内容"/>
       <outline text="俊杰の博客" type="rss" xmlUrl="https://cjj.today/feed/" htmlUrl="https://cjj.today/" description=""/>
@@ -1317,7 +1319,6 @@
       <outline text="EGOIST 庶民样本" type="rss" xmlUrl="https://egoist.sh/zh/atom.xml" htmlUrl="https://egoist.sh/" description="The coolest anime fan"/>
       <outline text="HUI 爷的小破站" type="rss" xmlUrl="https://www.ghost666.xyz/index.php/feed/" htmlUrl="https://www.ghost666.xyz/" description="与你同行"/>
       <outline text="infoier | 设计乘数" type="rss" xmlUrl="https://www.infoier.com/feed/" htmlUrl="https://www.infoier.com/" description=""/>
-      <outline text="Life Sailor" type="rss" xmlUrl="https://www.lifesailor.me/feed" htmlUrl="https://www.lifesailor.me/" description="One more struggle, and I am free"/>
       <outline text="Lihaoya 的技术博客" type="rss" xmlUrl="https://blog.lihaoya.com/rss" htmlUrl="https://blog.lihaoya.com/" description="👋🏻  我叫浩子，欢迎来到我的博客。😃  我是一名全栈软件工程师，非常喜欢编程，比较擅长 Java 和 Golang 同时也喜欢创造一些小轮子，目前我正在运营着 typeType.io"/>
       <outline text="Li Hui Blog" type="rss" xmlUrl="https://lihui.net/feed" htmlUrl="https://lihui.net/" description="想给世界留下一些东西"/>
       <outline text="myfreax" type="rss" xmlUrl="https://www.myfreax.com/rss/" htmlUrl="https://www.myfreax.com/" description="编程,语言,IT,技术,玩家,linux,命令行,终端,黑客,工具,myfreax"/>
@@ -1337,7 +1338,7 @@
       <outline text="多半不走运" type="rss" xmlUrl="https://www.likelyunlucky.xyz/feed/" htmlUrl="https://www.likelyunlucky.xyz" description="多半不走运"/>
       <outline text="小钻风的博客" type="rss" xmlUrl="https://zuanfeng.club/index.php/feed/" htmlUrl="https://zuanfeng.club/" description="让思考和读书成为一种生活方式"/>
       <outline text="己羊的梦" type="rss" xmlUrl="https://www.jiyang00.cn/atom.xml" htmlUrl="https://www.jiyang00.cn/" description="己羊的小站"/>
-      <outline text="无绘无会" type="rss" xmlUrl="https://blog.moennar.cn/feed/" htmlUrl="https://blog.moennar.cn/" description="待你而归"/>
+      <outline text="无绘无会" type="rss" xmlUrl="https://blog.moennar.cn/feed/" htmlUrl="https://blog.moennar.cn/" description="Slowly"/>
       <outline text="求闻 — 中国大陆维基人" type="rss" xmlUrl="https://qiuwen.wmcug.org.cn/feed/" htmlUrl="https://qiuwen.wmcug.org.cn/" description="Qiuwen - Wikimedians of Mainland China"/>
       <outline text="洋泾浜" type="rss" xmlUrl="https://www.yangjingbang.fm/?format=rss" htmlUrl="https://yangjingbang.fm/" description="我是洋泾浜，请侬大声笑。"/>
       <outline text="洛尘曦" type="rss" xmlUrl="https://www.sgyzyun.club/feed/" htmlUrl="https://www.sgyzyun.club/" description="我的学习研究"/>
