@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Mon, 11 Jul 2022 12:43:01</dateCreated>
+    <dateCreated>Tue, 12 Jul 2022 13:04:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -191,7 +191,7 @@
       <outline text="idea's blog" type="rss" xmlUrl="https://www.ideawu.net/blog/feed" htmlUrl="https://www.ideawu.net/blog" description="全球分布式数据库, C/C++, 高性能分布式 Web 和网络应用开发, 架构设计, 移动应用开发"/>
       <outline text="idealclover" type="rss" xmlUrl="https://idealclover.top/feed/" htmlUrl="https://idealclover.top" description="愿未来能让人有所期待"/>
       <outline text="iMaeGoo's Blog" type="rss" xmlUrl="https://www.imaegoo.com/atom.xml" htmlUrl="https://www.imaegoo.com/" description="虹墨空间站"/>
-      <outline text="ImBearChild" type="rss" xmlUrl="https://imbearchild.cyou/feed/" htmlUrl="https://imbearchild.cyou/" description="又一个WordPress站点，我的自留地"/>
+      <outline text="ImBearChild" type="rss" xmlUrl="https://imbearchild.cyou/feed/" htmlUrl="https://imbearchild.cyou/" description="又一个WordPress站点"/>
       <outline text="Inevitable" type="rss" xmlUrl="https://www.inevitable.tech/atom.xml" htmlUrl="https://www.inevitable.tech" description="文字所表现出来的美丽、恐惧。。还有率真之类的东西，我觉得在其他事物中还是很难寻得的。"/>
       <outline text="iNote" type="rss" xmlUrl="https://inote.xyz/rss/" htmlUrl="https://inote.xyz" description="iNote"/>
       <outline text="ipfans's Blog" type="rss" xmlUrl="https://www.4async.com/atom.xml" htmlUrl="https://www.4async.com/" description="Recent content on ipfans's Blog"/>
@@ -493,7 +493,7 @@
       <outline text="x Homology's RSS Feed" type="rss" xmlUrl="https://www.giuem.com/rss.xml" htmlUrl="https://www.giuem.com/" description="GIUEM(@giuemcom) 的博客，平常会简单开箱测评买到的科技数码产品，也会记录分享日常的折腾奇奇怪怪的东西，技术向的文章会偏前端、信息安全"/>
       <outline text="xiantang - 自律者自由" type="rss" xmlUrl="https://vim0.com/index.xml" htmlUrl="https://xiantang.github.io/" description="Recent content on 咸糖 - 自律者自由"/>
       <outline text="XiaoHui.com" type="rss" xmlUrl="https://www.xiaohui.com/rss/" htmlUrl="https://www.xiaohui.com/" description="XiaoHui.com"/>
-      <outline text="Xiaowen.Z Deployed" type="rss" xmlUrl="https://www.xiaowenz.com/feed" htmlUrl="https://www.xiaowenz.com/" description="&quot;We all learn by making mistakes, and make mistakes again to learn more.&quot;"/>
+      <outline text="Xiaowen.Z Deployed" type="rss" xmlUrl="https://xiaowenz.com/feed" htmlUrl="https://www.xiaowenz.com/" description="Recent content in Homepage on Xiaowen.Z Deployed..."/>
       <outline text="Xieisabug" type="rss" xmlUrl="https://www.xiejingyang.com/feed/" htmlUrl="https://www.xiejingyang.com/" description="吃饭学家，复制学家，偷懒学家"/>
       <outline text="XIN." type="rss" xmlUrl="https://www.trann.cn/atom.xml" htmlUrl="https://www.trann.cn/" description=""/>
       <outline text="xStack" type="rss" xmlUrl="https://www.xqmq.icu/atom.xml" htmlUrl="http://www.xqmq.icu/m/" description=""/>
@@ -514,7 +514,7 @@
       <outline text="Yuexun`s Blog" type="rss" xmlUrl="https://yuexunjiang.me/rss.xml" htmlUrl="https://yuexunjiang.me/" description="想去发现生活中的无限美好"/>
       <outline text="Yuko's Blog" type="rss" xmlUrl="https://yuukoamamiya.github.io/index.xml" htmlUrl="https://yuukoamamiya.github.io/" description="Recent content on Yuko's Blog"/>
       <outline text="Yulin Lewis' Blog" type="rss" xmlUrl="https://lewky.cn/index.xml" htmlUrl="https://lewky.cn/" description="不想当写手的码农不是好咸鱼_(xз」∠)_"/>
-      <outline text="YunFanCH · 云帆沧海" type="rss" xmlUrl="https://www.yunfanch.com/feed/" htmlUrl="https://yunfanch.com/" description="一个持续更新的个人博客，记录生活、工作、爱好的点点滴滴。"/>
+      <outline text="YunFanCH · 云帆沧海" type="rss" xmlUrl="https://yunfanch.com/feed/" htmlUrl="https://yunfanch.com/" description="一个持续更新的个人博客，记录生活、工作、爱好的点点滴滴。"/>
       <outline text="Yuuno Blog" type="rss" xmlUrl="https://yuuno.cc/atom.xml" htmlUrl="https://yuuno.cc" description=""/>
       <outline text="yzqzss|一座桥在水上's Blog" type="rss" xmlUrl="https://blog.othing.xyz/feed/" htmlUrl="https://blog.othing.xyz/" description="你能听到吗？"/>
       <outline text="ZDDHUB" type="rss" xmlUrl="https://zddhub.com/feed" htmlUrl="https://www.zddhub.com/" description="ZDDHUB's blog | Just for fun"/>
