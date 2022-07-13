@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Tue, 12 Jul 2022 13:04:01</dateCreated>
+    <dateCreated>Wed, 13 Jul 2022 12:42:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -493,7 +493,7 @@
       <outline text="x Homology's RSS Feed" type="rss" xmlUrl="https://www.giuem.com/rss.xml" htmlUrl="https://www.giuem.com/" description="GIUEM(@giuemcom) 的博客，平常会简单开箱测评买到的科技数码产品，也会记录分享日常的折腾奇奇怪怪的东西，技术向的文章会偏前端、信息安全"/>
       <outline text="xiantang - 自律者自由" type="rss" xmlUrl="https://vim0.com/index.xml" htmlUrl="https://xiantang.github.io/" description="Recent content on 咸糖 - 自律者自由"/>
       <outline text="XiaoHui.com" type="rss" xmlUrl="https://www.xiaohui.com/rss/" htmlUrl="https://www.xiaohui.com/" description="XiaoHui.com"/>
-      <outline text="Xiaowen.Z Deployed" type="rss" xmlUrl="https://xiaowenz.com/feed" htmlUrl="https://www.xiaowenz.com/" description="Recent content in Homepage on Xiaowen.Z Deployed..."/>
+      <outline text="Xiaowen.Z Deployed" type="rss" xmlUrl="https://xiaowenz.com/feed" htmlUrl="https://www.xiaowenz.com/" description="Recent content in Homepage on Xiaowen.Z Deployed"/>
       <outline text="Xieisabug" type="rss" xmlUrl="https://www.xiejingyang.com/feed/" htmlUrl="https://www.xiejingyang.com/" description="吃饭学家，复制学家，偷懒学家"/>
       <outline text="XIN." type="rss" xmlUrl="https://www.trann.cn/atom.xml" htmlUrl="https://www.trann.cn/" description=""/>
       <outline text="xStack" type="rss" xmlUrl="https://www.xqmq.icu/atom.xml" htmlUrl="http://www.xqmq.icu/m/" description=""/>
@@ -780,7 +780,7 @@
       <outline text="星外之神 Blog" type="rss" xmlUrl="https://wszqkzqk.github.io/feed.xml" htmlUrl="http://wszqkzqk.github.io/" description="天下难事，必作于易；天下大事，必作于细"/>
       <outline text="星尘独奏曲" type="rss" xmlUrl="https://www.starduster.me/feed/" htmlUrl="https://www.starduster.me/" description="Aria of Stardust"/>
       <outline text="星辰日记" type="rss" xmlUrl="https://blog.xsot.cn/feed/" htmlUrl="https://blog.xsot.cn/" description="Just Write Something"/>
-      <outline text="春为曙" type="rss" xmlUrl="https://omoi.cc/feed/" htmlUrl="https://omoi.cc/" description="一个有点顽劣的空想主义者 ,一个坚定信仰佛教的共产主义拥护者，旧时代过往新世纪的写手，尽管对人类的未来十分消极，但依然在自我欣赏。 优秀摄影师；设备只是手段，作品只是表象；五岱山上的灵魂车手。"/>
+      <outline text="春为曙" type="rss" xmlUrl="https://omoi.cc/feed/" htmlUrl="https://omoi.cc/" description="站点迁移中... ..."/>
       <outline text="春水煎茶" type="rss" xmlUrl="http://feeds.feedburner.com/writings-sh" htmlUrl="https://writings.sh/" description="王超的个人博客"/>
       <outline text="晓白博客" type="rss" xmlUrl="https://blog.chs.pub/index.xml" htmlUrl="https://blog.chs.pub/" description="Recent content on 晓白博客"/>
       <outline text="晚晴幽草轩" type="rss" xmlUrl="https://www.jeffjade.com/atom.xml" htmlUrl="https://www.jeffjade.com" description="It's only too late if you decide it is. Get busy living. or get busy dying!"/>
@@ -1208,6 +1208,7 @@
     <outline text="Uncategorized">
       <outline text="AoTxLand" type="rss" xmlUrl="https://aotxland.com/feed" htmlUrl="https://aotxland.com/" description="遨天翔地，记录行走和折腾之路"/>
       <outline text="BoxCat" type="rss" xmlUrl="https://boxcat.cc/?feed=rss2" htmlUrl="https://boxcat.cc/" description="盒猫的小窝"/>
+      <outline text="CHEN" type="rss" xmlUrl="https://czh.othing.xyz/feed/" htmlUrl="https://czh.othing.xyz/" description="Stromata"/>
       <outline text="EQblog" type="rss" xmlUrl="https://eqblog.com/feed" htmlUrl="https://eqblog.com/" description="Just another WordPress site"/>
       <outline text="Noxxxx" type="rss" xmlUrl="https://www.noxxxx.com/feed" htmlUrl="https://www.noxxxx.com/" description="清静无为"/>
       <outline text="openSUSE 中文社区" type="rss" xmlUrl="https://suse.org.cn/feed.xml" htmlUrl="https://suse.org.cn/feed.xml" description="openSUSE 中文社区主页，为您带来最新的 openSUSE 资讯，为中文用户的交流提供一席之地。"/>
