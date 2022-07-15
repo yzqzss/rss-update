@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Thu, 14 Jul 2022 12:56:01</dateCreated>
+    <dateCreated>Fri, 15 Jul 2022 13:09:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -227,7 +227,7 @@
       <outline text="JoyQi" type="rss" xmlUrl="https://joyqi.com/feed/" htmlUrl="https://joyqi.com/" description="Do not go gentle into that good night."/>
       <outline text="jtr109's Castle" type="rss" xmlUrl="https://www.jtr109.com/index.xml" htmlUrl="https://www.jtr109.com/" description="Recent content on jtr109's Castle"/>
       <outline text="Jun's Blog" type="rss" xmlUrl="https://www.junz.org/index.xml" htmlUrl="https://junz.org/" description="Recent content on Jun's Blog"/>
-      <outline text="Just.Snake" type="rss" xmlUrl="https://imsnake.cn/?feed=rss2" htmlUrl="https://imsnake.cn/" description="这个世界的主色调是悲伤，我又怎么可以缺席。"/>
+      <outline text="Just.Snake" type="rss" xmlUrl="https://imsnake.cn/?feed=rss2" htmlUrl="https://imsnake.cn/" description="Notic: I chance the theme finally."/>
       <outline text="Just for Life." type="rss" xmlUrl="https://muyuuuu.github.io/atom.xml" htmlUrl="https://muyuuuu.github.io/" description="明月更几时"/>
       <outline text="Just lepture" type="rss" xmlUrl="https://lepture.com/feed.xml" htmlUrl="https://lepture.com/" description="Love its people, but never trust its government."/>
       <outline text="JustZht" type="rss" xmlUrl="https://www.justzht.com/rss/" htmlUrl="https://www.justzht.com/" description="Haotian Zheng (Justin Fincher)'s blog. CMU mobile engineering student by day, indie apps/games developer by night. 郑昊天的碎碎念博客，日常记事 / 独立软件。"/>
@@ -732,7 +732,7 @@
       <outline text="张浩在路上" type="rss" xmlUrl="https://imzhanghao.com/atom.xml" htmlUrl="https://imzhanghao.com/" description="张浩在路上"/>
       <outline text="张贺的博客" type="rss" xmlUrl="https://herbertchang.github.io/atom.xml" htmlUrl="https://herbertchang.github.io/" description="若愚若昏"/>
       <outline text="张鑫旭-鑫空间-鑫生活" type="rss" xmlUrl="https://www.zhangxinxu.com/wordpress/feed/" htmlUrl="http://www.zhangxinxu.com" description="it's my whole life!"/>
-      <outline text="归·程" type="rss" xmlUrl="https://www.backroad.site/feed/" htmlUrl="https://www.backroad.site/" description="堆放着信息时代的文字垃圾"/>
+      <outline text="归·程" type="rss" xmlUrl="https://www.kutinai.com/feed/" htmlUrl="https://www.backroad.site/" description="堆放着信息时代的文字垃圾"/>
       <outline text="当下" type="rss" xmlUrl="https://blog.fueis.com/feed" htmlUrl="http://blog.fueis.com/" description=""/>
       <outline text="当代写作仓库" type="rss" xmlUrl="https://zuopin.jingluole.com/feed" htmlUrl="https://zuopin.jingluole.com/" description="开放、免费的当代汉语写作仓库，收录小说、诗歌、随笔、评论等文学文本"/>
       <outline text="影留" type="rss" xmlUrl="https://leftshadow.com/?call_custom_simple_rss=1&amp;csrp_cat=11" htmlUrl="https://leftshadow.com" description=""/>
