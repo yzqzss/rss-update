@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Fri, 15 Jul 2022 13:09:02</dateCreated>
+    <dateCreated>Sat, 16 Jul 2022 12:36:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -55,7 +55,7 @@
       <outline text="BTDOS - DOS怀旧网" type="rss" xmlUrl="http://www.btdos.com/rss.php" htmlUrl="http://www.btdos.com/" description="一个纪念DOS时代的怀旧网站"/>
       <outline text="buzhou.blog" type="rss" xmlUrl="https://buzhou.typlog.io/feed.xml" htmlUrl="https://buzhou.typlog.io/" description="不周的博客。"/>
       <outline text="Caos" type="rss" xmlUrl="https://caos.me/feed" htmlUrl="https://caos.me/" description="A description about your own website that really shows off what it's all about"/>
-      <outline text="Cat in Chinese" type="rss" xmlUrl="http://feeds.feedburner.com/CatChen/Chinese" htmlUrl="https://chinese.catchen.me" description=""/>
+      <outline text="Cat in Chinese" type="rss" xmlUrl="https://www.blogger.com/feeds/7005036/posts/default?redirect=false" htmlUrl="https://chinese.catchen.me" description=""/>
       <outline text="Caviar-X's archive" type="rss" xmlUrl="https://pigeons.icu/rss.xml" htmlUrl="https://pigeons.icu/" description="兜兜转转又回到了原点"/>
       <outline text="Celia的博客" type="rss" xmlUrl="https://blog.becomingcelia.com/feed.php" htmlUrl="https://blog.becomingcelia.com/" description="读万卷书，行万里路。本人是Celia，曾立志当走南闯北游历天下的独立博客博主，现为喜欢整活的高中生一枚，在此记下数学、编程、设计方面各种小杂碎、见闻与生活点滴，时不时分享图书软件小资源。"/>
       <outline text="chai2010 的博客" type="rss" xmlUrl="https://chai2010.cn/index.xml" htmlUrl="https://chai2010.cn" description="Recent content on chai2010 的博客"/>
@@ -227,7 +227,7 @@
       <outline text="JoyQi" type="rss" xmlUrl="https://joyqi.com/feed/" htmlUrl="https://joyqi.com/" description="Do not go gentle into that good night."/>
       <outline text="jtr109's Castle" type="rss" xmlUrl="https://www.jtr109.com/index.xml" htmlUrl="https://www.jtr109.com/" description="Recent content on jtr109's Castle"/>
       <outline text="Jun's Blog" type="rss" xmlUrl="https://www.junz.org/index.xml" htmlUrl="https://junz.org/" description="Recent content on Jun's Blog"/>
-      <outline text="Just.Snake" type="rss" xmlUrl="https://imsnake.cn/?feed=rss2" htmlUrl="https://imsnake.cn/" description="Notic: I chance the theme finally."/>
+      <outline text="Just.Snake" type="rss" xmlUrl="https://imsnake.cn/?feed=rss2" htmlUrl="https://imsnake.cn/" description="Notic: 三栏图版块有些问题，研究怎么解决中。"/>
       <outline text="Just for Life." type="rss" xmlUrl="https://muyuuuu.github.io/atom.xml" htmlUrl="https://muyuuuu.github.io/" description="明月更几时"/>
       <outline text="Just lepture" type="rss" xmlUrl="https://lepture.com/feed.xml" htmlUrl="https://lepture.com/" description="Love its people, but never trust its government."/>
       <outline text="JustZht" type="rss" xmlUrl="https://www.justzht.com/rss/" htmlUrl="https://www.justzht.com/" description="Haotian Zheng (Justin Fincher)'s blog. CMU mobile engineering student by day, indie apps/games developer by night. 郑昊天的碎碎念博客，日常记事 / 独立软件。"/>
